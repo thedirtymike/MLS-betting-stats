@@ -1,0 +1,1021 @@
+game_id,date,team,opponent,Venue,Goals_For,Goals_Against,Formation,Opp_Formation,Corners_For,Corners_Against,Total_Match_Corners,Shots_For,Shots_Against,SOT_For,SOT_Against,Crosses_For,Crosses_Against,Fouls_Committed,Possession_%
+dd67aa78,2026-02-21,Austin FC,Minnesota Utd,Home,2.0,2.0,,,,,,,,,,,,,
+dd67aa78,2026-02-21,Minnesota Utd,Austin FC,Away,2.0,2.0,,,,,,,,,,,,,
+a8e4464a,2026-02-21,D.C. United,Philadelphia,Home,1.0,0.0,,,,,,,,,,,,,
+a8e4464a,2026-02-21,Philadelphia,D.C. United,Away,0.0,1.0,,,,,,,,,,,,,
+c6cf461c,2026-02-21,FC Cincinnati,Atlanta Utd,Home,2.0,0.0,,,,,,,,,,,,,
+c6cf461c,2026-02-21,Atlanta Utd,FC Cincinnati,Away,0.0,2.0,,,,,,,,,,,,,
+f197d137,2026-02-21,FC Dallas,Toronto FC,Home,3.0,2.0,,,,,,,,,,,,,
+f197d137,2026-02-21,Toronto FC,FC Dallas,Away,2.0,3.0,,,,,,,,,,,,,
+af50cce6,2026-02-21,Houston,Chicago Fire,Home,2.0,1.0,,,,,,,,,,,,,
+af50cce6,2026-02-21,Chicago Fire,Houston,Away,1.0,2.0,,,,,,,,,,,,,
+d1996cd8,2026-02-21,LAFC,Inter Miami,Home,3.0,0.0,,,,,,,,,,,,,
+d1996cd8,2026-02-21,Inter Miami,LAFC,Away,0.0,3.0,,,,,,,,,,,,,
+7e15e65b,2026-02-21,Nashville SC,NE Revolution,Home,4.0,1.0,,,,,,,,,,,,,
+7e15e65b,2026-02-21,NE Revolution,Nashville SC,Away,1.0,4.0,,,,,,,,,,,,,
+5b5d7af8,2026-02-21,Orlando City,RB New York,Home,1.0,2.0,,,,,,,,,,,,,
+5b5d7af8,2026-02-21,RB New York,Orlando City,Away,2.0,1.0,,,,,,,,,,,,,
+31f086bf,2026-02-21,Portland Timbers,Columbus Crew,Home,3.0,2.0,,,,,,,,,,,,,
+31f086bf,2026-02-21,Columbus Crew,Portland Timbers,Away,2.0,3.0,,,,,,,,,,,,,
+468cceaf,2026-02-21,SJ Earthquakes,Sporting KC,Home,3.0,0.0,,,,,,,,,,,,,
+468cceaf,2026-02-21,Sporting KC,SJ Earthquakes,Away,0.0,3.0,,,,,,,,,,,,,
+593d65fe,2026-02-21,San Diego FC,CF Montréal,Home,5.0,0.0,,,,,,,,,,,,,
+593d65fe,2026-02-21,CF Montréal,San Diego FC,Away,0.0,5.0,,,,,,,,,,,,,
+e885988e,2026-02-21,St. Louis City,Charlotte,Home,1.0,1.0,,,,,,,,,,,,,
+e885988e,2026-02-21,Charlotte,St. Louis City,Away,1.0,1.0,,,,,,,,,,,,,
+21f9a08a,2026-02-21,Vancouver,Real Salt Lake,Home,1.0,0.0,,,,,,,,,,,,,
+21f9a08a,2026-02-21,Real Salt Lake,Vancouver,Away,0.0,1.0,,,,,,,,,,,,,
+ba79f0c2,2026-02-22,LA Galaxy,NYCFC,Home,1.0,1.0,,,,,,,,,,,,,
+ba79f0c2,2026-02-22,NYCFC,LA Galaxy,Away,1.0,1.0,,,,,,,,,,,,,
+1bcca1ee,2026-02-22,Seattle Sounders,Colorado Rapids,Home,2.0,0.0,,,,,,,,,,,,,
+1bcca1ee,2026-02-22,Colorado Rapids,Seattle Sounders,Away,0.0,2.0,,,,,,,,,,,,,
+872793e1,2026-02-28,Chicago Fire,CF Montréal,Home,3.0,0.0,,,,,,,,,,,,,
+872793e1,2026-02-28,CF Montréal,Chicago Fire,Away,0.0,3.0,,,,,,,,,,,,,
+befca377,2026-02-28,Colorado Rapids,Portland Timbers,Home,2.0,0.0,,,,,,,,,,,,,
+befca377,2026-02-28,Portland Timbers,Colorado Rapids,Away,0.0,2.0,,,,,,,,,,,,,
+1d71d7b2,2026-02-28,FC Dallas,Nashville SC,Home,0.0,0.0,,,,,,,,,,,,,
+1d71d7b2,2026-02-28,Nashville SC,FC Dallas,Away,0.0,0.0,,,,,,,,,,,,,
+b87ecd6c,2026-02-28,Houston,LAFC,Home,0.0,2.0,,,,,,,,,,,,,
+b87ecd6c,2026-02-28,LAFC,Houston,Away,2.0,0.0,,,,,,,,,,,,,
+f1fb5e26,2026-02-28,LA Galaxy,Charlotte,Home,3.0,0.0,,,,,,,,,,,,,
+f1fb5e26,2026-02-28,Charlotte,LA Galaxy,Away,0.0,3.0,,,,,,,,,,,,,
+096a8737,2026-02-28,Minnesota Utd,FC Cincinnati,Home,1.0,0.0,,,,,,,,,,,,,
+096a8737,2026-02-28,FC Cincinnati,Minnesota Utd,Away,0.0,1.0,,,,,,,,,,,,,
+2cb72469,2026-02-28,RB New York,NE Revolution,Home,1.0,0.0,,,,,,,,,,,,,
+2cb72469,2026-02-28,NE Revolution,RB New York,Away,0.0,1.0,,,,,,,,,,,,,
+3afd93cd,2026-02-28,Real Salt Lake,Seattle Sounders,Home,2.0,1.0,,,,,,,,,,,,,
+3afd93cd,2026-02-28,Seattle Sounders,Real Salt Lake,Away,1.0,2.0,,,,,,,,,,,,,
+40d02264,2026-02-28,SJ Earthquakes,Atlanta Utd,Home,2.0,0.0,,,,,,,,,,,,,
+40d02264,2026-02-28,Atlanta Utd,SJ Earthquakes,Away,0.0,2.0,,,,,,,,,,,,,
+81479d99,2026-02-28,Sporting KC,Columbus Crew,Home,2.0,2.0,,,,,,,,,,,,,
+81479d99,2026-02-28,Columbus Crew,Sporting KC,Away,2.0,2.0,,,,,,,,,,,,,
+864f7430,2026-02-28,Vancouver,Toronto FC,Home,3.0,0.0,,,,,,,,,,,,,
+864f7430,2026-02-28,Toronto FC,Vancouver,Away,0.0,3.0,,,,,,,,,,,,,
+ad6bb76c,2026-03-01,Austin FC,D.C. United,Home,1.0,0.0,,,,,,,,,,,,,
+ad6bb76c,2026-03-01,D.C. United,Austin FC,Away,0.0,1.0,,,,,,,,,,,,,
+0468771b,2026-03-01,Orlando City,Inter Miami,Home,2.0,4.0,,,,,,,,,,,,,
+0468771b,2026-03-01,Inter Miami,Orlando City,Away,4.0,2.0,,,,,,,,,,,,,
+edfb0b3c,2026-03-01,Philadelphia,NYCFC,Home,1.0,2.0,,,,,,,,,,,,,
+edfb0b3c,2026-03-01,NYCFC,Philadelphia,Away,2.0,1.0,,,,,,,,,,,,,
+01f5709d,2026-03-01,San Diego FC,St. Louis City,Home,2.0,0.0,,,,,,,,,,,,,
+01f5709d,2026-03-01,St. Louis City,San Diego FC,Away,0.0,2.0,,,,,,,,,,,,,
+0e0efefd,2026-03-07,Atlanta Utd,Real Salt Lake,Home,2.0,3.0,,,,,,,,,,,,,
+0e0efefd,2026-03-07,Real Salt Lake,Atlanta Utd,Away,3.0,2.0,,,,,,,,,,,,,
+757cd61a,2026-03-07,Charlotte,Austin FC,Home,3.0,1.0,,,,,,,,,,,,,
+757cd61a,2026-03-07,Austin FC,Charlotte,Away,1.0,3.0,,,,,,,,,,,,,
+d55d72dd,2026-03-07,Colorado Rapids,LA Galaxy,Home,4.0,1.0,,,,,,,,,,,,,
+d55d72dd,2026-03-07,LA Galaxy,Colorado Rapids,Away,1.0,4.0,,,,,,,,,,,,,
+d6849bf0,2026-03-07,Columbus Crew,Chicago Fire,Home,0.0,0.0,,,,,,,,,,,,,
+d6849bf0,2026-03-07,Chicago Fire,Columbus Crew,Away,0.0,0.0,,,,,,,,,,,,,
+fcd8a430,2026-03-07,D.C. United,Inter Miami,Home,1.0,2.0,,,,,,,,,,,,,
+fcd8a430,2026-03-07,Inter Miami,D.C. United,Away,2.0,1.0,,,,,,,,,,,,,
+6f6a6b03,2026-03-07,LAFC,FC Dallas,Home,1.0,0.0,,,,,,,,,,,,,
+6f6a6b03,2026-03-07,FC Dallas,LAFC,Away,0.0,1.0,,,,,,,,,,,,,
+ead1b5f4,2026-03-07,NYCFC,Orlando City,Home,5.0,0.0,,,,,,,,,,,,,
+ead1b5f4,2026-03-07,Orlando City,NYCFC,Away,0.0,5.0,,,,,,,,,,,,,
+927e1545,2026-03-07,Nashville SC,Minnesota Utd,Home,3.0,1.0,,,,,,,,,,,,,
+927e1545,2026-03-07,Minnesota Utd,Nashville SC,Away,1.0,3.0,,,,,,,,,,,,,
+6859057c,2026-03-07,Philadelphia,SJ Earthquakes,Home,0.0,1.0,,,,,,,,,,,,,
+6859057c,2026-03-07,SJ Earthquakes,Philadelphia,Away,1.0,0.0,,,,,,,,,,,,,
+29d4bcb0,2026-03-07,Portland Timbers,Vancouver,Home,1.0,4.0,,,,,,,,,,,,,
+29d4bcb0,2026-03-07,Vancouver,Portland Timbers,Away,4.0,1.0,,,,,,,,,,,,,
+92608864,2026-03-07,Sporting KC,San Diego FC,Home,0.0,1.0,,,,,,,,,,,,,
+92608864,2026-03-07,San Diego FC,Sporting KC,Away,1.0,0.0,,,,,,,,,,,,,
+64d05db8,2026-03-07,St. Louis City,Seattle Sounders,Home,0.0,1.0,,,,,,,,,,,,,
+64d05db8,2026-03-07,Seattle Sounders,St. Louis City,Away,1.0,0.0,,,,,,,,,,,,,
+d3f08766,2026-03-08,FC Cincinnati,Toronto FC,Home,0.0,1.0,,,,,,,,,,,,,
+d3f08766,2026-03-08,Toronto FC,FC Cincinnati,Away,1.0,0.0,,,,,,,,,,,,,
+9157589b,2026-03-08,RB New York,CF Montréal,Home,0.0,3.0,,,,,,,,,,,,,
+9157589b,2026-03-08,CF Montréal,RB New York,Away,3.0,0.0,,,,,,,,,,,,,
+095866aa,2026-03-14,Atlanta Utd,Philadelphia,Home,3.0,1.0,,,,,,,,,,,,,
+095866aa,2026-03-14,Philadelphia,Atlanta Utd,Away,1.0,3.0,,,,,,,,,,,,,
+4e7a85d2,2026-03-14,Charlotte,Inter Miami,Home,0.0,0.0,,,,,,,,,,,,,
+4e7a85d2,2026-03-14,Inter Miami,Charlotte,Away,0.0,0.0,,,,,,,,,,,,,
+2eb85c8b,2026-03-14,Chicago Fire,D.C. United,Home,1.0,2.0,,,,,,,,,,,,,
+2eb85c8b,2026-03-14,D.C. United,Chicago Fire,Away,2.0,1.0,,,,,,,,,,,,,
+d7c5cd1d,2026-03-14,Columbus Crew,Nashville SC,Home,0.0,1.0,,,,,,,,,,,,,
+d7c5cd1d,2026-03-14,Nashville SC,Columbus Crew,Away,1.0,0.0,,,,,,,,,,,,,
+1e9a29e8,2026-03-14,FC Dallas,San Diego FC,Home,3.0,3.0,,,,,,,,,,,,,
+1e9a29e8,2026-03-14,San Diego FC,FC Dallas,Away,3.0,3.0,,,,,,,,,,,,,
+76810c6b,2026-03-14,Houston,Portland Timbers,Home,3.0,2.0,,,,,,,,,,,,,
+76810c6b,2026-03-14,Portland Timbers,Houston,Away,2.0,3.0,,,,,,,,,,,,,
+7b7df953,2026-03-14,LA Galaxy,Sporting KC,Home,1.0,2.0,,,,,,,,,,,,,
+7b7df953,2026-03-14,Sporting KC,LA Galaxy,Away,2.0,1.0,,,,,,,,,,,,,
+3f269dc3,2026-03-14,LAFC,St. Louis City,Home,2.0,0.0,,,,,,,,,,,,,
+3f269dc3,2026-03-14,St. Louis City,LAFC,Away,0.0,2.0,,,,,,,,,,,,,
+627460db,2026-03-14,NYCFC,Colorado Rapids,Home,3.0,1.0,,,,,,,,,,,,,
+627460db,2026-03-14,Colorado Rapids,NYCFC,Away,1.0,3.0,,,,,,,,,,,,,
+601472e4,2026-03-14,Orlando City,CF Montréal,Home,2.0,1.0,,,,,,,,,,,,,
+601472e4,2026-03-14,CF Montréal,Orlando City,Away,1.0,2.0,,,,,,,,,,,,,
+559e0638,2026-03-14,Real Salt Lake,Austin FC,Home,2.0,1.0,,,,,,,,,,,,,
+559e0638,2026-03-14,Austin FC,Real Salt Lake,Away,1.0,2.0,,,,,,,,,,,,,
+09d0bded,2026-03-14,Toronto FC,RB New York,Home,1.0,1.0,,,,,,,,,,,,,
+09d0bded,2026-03-14,RB New York,Toronto FC,Away,1.0,1.0,,,,,,,,,,,,,
+2f8810a4,2026-03-15,NE Revolution,FC Cincinnati,Home,6.0,1.0,,,,,,,,,,,,,
+2f8810a4,2026-03-15,FC Cincinnati,NE Revolution,Away,1.0,6.0,,,,,,,,,,,,,
+10c05f51,2026-03-15,SJ Earthquakes,Seattle Sounders,Home,0.0,1.0,,,,,,,,,,,,,
+10c05f51,2026-03-15,Seattle Sounders,SJ Earthquakes,Away,1.0,0.0,,,,,,,,,,,,,
+c35ddbaa,2026-03-15,Vancouver,Minnesota Utd,Home,6.0,0.0,,,,,,,,,,,,,
+c35ddbaa,2026-03-15,Minnesota Utd,Vancouver,Away,0.0,6.0,,,,,,,,,,,,,
+3858ef26,2026-03-21,Atlanta Utd,D.C. United,Home,0.0,0.0,,,,,,,,,,,,,
+3858ef26,2026-03-21,D.C. United,Atlanta Utd,Away,0.0,0.0,,,,,,,,,,,,,
+bfb69187,2026-03-21,Austin FC,LAFC,Home,0.0,0.0,,,,,,,,,,,,,
+bfb69187,2026-03-21,LAFC,Austin FC,Away,0.0,0.0,,,,,,,,,,,,,
+89d9594f,2026-03-21,Charlotte,RB New York,Home,6.0,1.0,,,,,,,,,,,,,
+89d9594f,2026-03-21,RB New York,Charlotte,Away,1.0,6.0,,,,,,,,,,,,,
+e62e9897,2026-03-21,FC Dallas,Houston,Home,4.0,3.0,,,,,,,,,,,,,
+e62e9897,2026-03-21,Houston,FC Dallas,Away,3.0,4.0,,,,,,,,,,,,,
+fa804a5d,2026-03-21,Nashville SC,Orlando City,Home,5.0,0.0,,,,,,,,,,,,,
+fa804a5d,2026-03-21,Orlando City,Nashville SC,Away,0.0,5.0,,,,,,,,,,,,,
+2be2f721,2026-03-21,Philadelphia,Chicago Fire,Home,1.0,2.0,,,,,,,,,,,,,
+2be2f721,2026-03-21,Chicago Fire,Philadelphia,Away,2.0,1.0,,,,,,,,,,,,,
+03ffbce8,2026-03-21,Sporting KC,Colorado Rapids,Home,1.0,4.0,,,,,,,,,,,,,
+03ffbce8,2026-03-21,Colorado Rapids,Sporting KC,Away,4.0,1.0,,,,,,,,,,,,,
+d52c0b34,2026-03-21,St. Louis City,NE Revolution,Home,3.0,1.0,,,,,,,,,,,,,
+d52c0b34,2026-03-21,NE Revolution,St. Louis City,Away,1.0,3.0,,,,,,,,,,,,,
+168cedcd,2026-03-21,Toronto FC,Columbus Crew,Home,2.0,1.0,,,,,,,,,,,,,
+168cedcd,2026-03-21,Columbus Crew,Toronto FC,Away,1.0,2.0,,,,,,,,,,,,,
+d1cdad69,2026-03-21,Vancouver,SJ Earthquakes,Home,0.0,1.0,,,,,,,,,,,,,
+d1cdad69,2026-03-21,SJ Earthquakes,Vancouver,Away,1.0,0.0,,,,,,,,,,,,,
+45543fda,2026-03-22,FC Cincinnati,CF Montréal,Home,4.0,3.0,,,,,,,,,,,,,
+45543fda,2026-03-22,CF Montréal,FC Cincinnati,Away,3.0,4.0,,,,,,,,,,,,,
+218438ae,2026-03-22,Minnesota Utd,Seattle Sounders,Home,0.0,0.0,,,,,,,,,,,,,
+218438ae,2026-03-22,Seattle Sounders,Minnesota Utd,Away,0.0,0.0,,,,,,,,,,,,,
+657ed747,2026-03-22,NYCFC,Inter Miami,Home,2.0,3.0,,,,,,,,,,,,,
+657ed747,2026-03-22,Inter Miami,NYCFC,Away,3.0,2.0,,,,,,,,,,,,,
+24febffe,2026-03-22,Portland Timbers,LA Galaxy,Home,1.0,1.0,,,,,,,,,,,,,
+24febffe,2026-03-22,LA Galaxy,Portland Timbers,Away,1.0,1.0,,,,,,,,,,,,,
+ffa07436,2026-03-22,San Diego FC,Real Salt Lake,Home,2.0,2.0,,,,,,,,,,,,,
+ffa07436,2026-03-22,Real Salt Lake,San Diego FC,Away,2.0,2.0,,,,,,,,,,,,,
+f71da609,2026-04-04,Atlanta Utd,Columbus Crew,Home,1.0,3.0,,,,,,,,,,,,,
+f71da609,2026-04-04,Columbus Crew,Atlanta Utd,Away,3.0,1.0,,,,,,,,,,,,,
+80b86a39,2026-04-04,Charlotte,Philadelphia,Home,2.0,1.0,,,,,,,,,,,,,
+80b86a39,2026-04-04,Philadelphia,Charlotte,Away,1.0,2.0,,,,,,,,,,,,,
+e266717e,2026-04-04,Chicago Fire,Nashville SC,Home,1.0,0.0,,,,,,,,,,,,,
+e266717e,2026-04-04,Nashville SC,Chicago Fire,Away,0.0,1.0,,,,,,,,,,,,,
+9cead112,2026-04-04,D.C. United,FC Dallas,Home,0.0,4.0,,,,,,,,,,,,,
+9cead112,2026-04-04,FC Dallas,D.C. United,Away,4.0,0.0,,,,,,,,,,,,,
+c63c91d8,2026-04-04,Houston,Seattle Sounders,Home,0.0,1.0,,,,,,,,,,,,,
+c63c91d8,2026-04-04,Seattle Sounders,Houston,Away,1.0,0.0,,,,,,,,,,,,,
+f5bc1151,2026-04-04,Inter Miami,Austin FC,Home,2.0,2.0,,,,,,,,,,,,,
+f5bc1151,2026-04-04,Austin FC,Inter Miami,Away,2.0,2.0,,,,,,,,,,,,,
+62f96092,2026-04-04,LA Galaxy,Minnesota Utd,Home,1.0,2.0,,,,,,,,,,,,,
+62f96092,2026-04-04,Minnesota Utd,LA Galaxy,Away,2.0,1.0,,,,,,,,,,,,,
+9493b066,2026-04-04,LAFC,Orlando City,Home,6.0,0.0,,,,,,,,,,,,,
+9493b066,2026-04-04,Orlando City,LAFC,Away,0.0,6.0,,,,,,,,,,,,,
+1254b43c,2026-04-04,NE Revolution,CF Montréal,Home,3.0,0.0,,,,,,,,,,,,,
+1254b43c,2026-04-04,CF Montréal,NE Revolution,Away,0.0,3.0,,,,,,,,,,,,,
+273b77c5,2026-04-04,NYCFC,St. Louis City,Home,1.0,1.0,,,,,,,,,,,,,
+273b77c5,2026-04-04,St. Louis City,NYCFC,Away,1.0,1.0,,,,,,,,,,,,,
+891c96ba,2026-04-04,RB New York,FC Cincinnati,Home,4.0,2.0,,,,,,,,,,,,,
+891c96ba,2026-04-04,FC Cincinnati,RB New York,Away,2.0,4.0,,,,,,,,,,,,,
+b40780df,2026-04-04,Real Salt Lake,Sporting KC,Home,3.0,1.0,,,,,,,,,,,,,
+b40780df,2026-04-04,Sporting KC,Real Salt Lake,Away,1.0,3.0,,,,,,,,,,,,,
+90cc6333,2026-04-04,SJ Earthquakes,San Diego FC,Home,3.0,0.0,,,,,,,,,,,,,
+90cc6333,2026-04-04,San Diego FC,SJ Earthquakes,Away,0.0,3.0,,,,,,,,,,,,,
+7d65e177,2026-04-04,Toronto FC,Colorado Rapids,Home,3.0,2.0,,,,,,,,,,,,,
+7d65e177,2026-04-04,Colorado Rapids,Toronto FC,Away,2.0,3.0,,,,,,,,,,,,,
+9fbf55d0,2026-04-04,Vancouver,Portland Timbers,Home,3.0,2.0,,,,,,,,,,,,,
+9fbf55d0,2026-04-04,Portland Timbers,Vancouver,Away,2.0,3.0,,,,,,,,,,,,,
+97ede36e,2026-04-11,Austin FC,LA Galaxy,Home,1.0,2.0,,,,,,,,,,,,,
+97ede36e,2026-04-11,LA Galaxy,Austin FC,Away,2.0,1.0,,,,,,,,,,,,,
+674f21cf,2026-04-11,CF Montréal,Philadelphia,Home,1.0,2.0,,,,,,,,,,,,,
+674f21cf,2026-04-11,Philadelphia,CF Montréal,Away,2.0,1.0,,,,,,,,,,,,,
+7f5ccd88,2026-04-11,Charlotte,Nashville SC,Home,1.0,2.0,,,,,,,,,,,,,
+7f5ccd88,2026-04-11,Nashville SC,Charlotte,Away,2.0,1.0,,,,,,,,,,,,,
+67055d29,2026-04-11,Chicago Fire,Atlanta Utd,Home,1.0,0.0,,,,,,,,,,,,,
+67055d29,2026-04-11,Atlanta Utd,Chicago Fire,Away,0.0,1.0,,,,,,,,,,,,,
+bb5ce64a,2026-04-11,Colorado Rapids,Houston,Home,6.0,2.0,,,,,,,,,,,,,
+bb5ce64a,2026-04-11,Houston,Colorado Rapids,Away,2.0,6.0,,,,,,,,,,,,,
+f3fc601b,2026-04-11,FC Dallas,St. Louis City,Home,1.0,1.0,,,,,,,,,,,,,
+f3fc601b,2026-04-11,St. Louis City,FC Dallas,Away,1.0,1.0,,,,,,,,,,,,,
+76eb9ab4,2026-04-11,Inter Miami,RB New York,Home,2.0,2.0,,,,,,,,,,,,,
+76eb9ab4,2026-04-11,RB New York,Inter Miami,Away,2.0,2.0,,,,,,,,,,,,,
+ceb1f3cb,2026-04-11,NE Revolution,D.C. United,Home,1.0,0.0,,,,,,,,,,,,,
+ceb1f3cb,2026-04-11,D.C. United,NE Revolution,Away,0.0,1.0,,,,,,,,,,,,,
+5e5754cc,2026-04-11,Portland Timbers,LAFC,Home,2.0,1.0,,,,,,,,,,,,,
+5e5754cc,2026-04-11,LAFC,Portland Timbers,Away,1.0,2.0,,,,,,,,,,,,,
+6910c735,2026-04-11,San Diego FC,Minnesota Utd,Home,1.0,2.0,,,,,,,,,,,,,
+6910c735,2026-04-11,Minnesota Utd,San Diego FC,Away,2.0,1.0,,,,,,,,,,,,,
+54312afa,2026-04-11,Sporting KC,SJ Earthquakes,Home,1.0,3.0,,,,,,,,,,,,,
+54312afa,2026-04-11,SJ Earthquakes,Sporting KC,Away,3.0,1.0,,,,,,,,,,,,,
+d6b37279,2026-04-11,Toronto FC,FC Cincinnati,Home,1.0,1.0,,,,,,,,,,,,,
+d6b37279,2026-04-11,FC Cincinnati,Toronto FC,Away,1.0,1.0,,,,,,,,,,,,,
+ca61095c,2026-04-11,Vancouver,NYCFC,Home,2.0,0.0,,,,,,,,,,,,,
+ca61095c,2026-04-11,NYCFC,Vancouver,Away,0.0,2.0,,,,,,,,,,,,,
+e56b3080,2026-04-12,Columbus Crew,Orlando City,Home,1.0,1.0,,,,,,,,,,,,,
+e56b3080,2026-04-12,Orlando City,Columbus Crew,Away,1.0,1.0,,,,,,,,,,,,,
+f5077d35,2026-04-17,Vancouver,Sporting KC,Home,3.0,0.0,,,,,,,,,,,,,
+f5077d35,2026-04-17,Sporting KC,Vancouver,Away,0.0,3.0,,,,,,,,,,,,,
+7dd294d9,2026-04-18,Atlanta Utd,Nashville SC,Home,0.0,2.0,,,,,,,,,,,,,
+7dd294d9,2026-04-18,Nashville SC,Atlanta Utd,Away,2.0,0.0,,,,,,,,,,,,,
+eff63c62,2026-04-18,CF Montréal,RB New York,Home,4.0,1.0,,,,,,,,,,,,,
+eff63c62,2026-04-18,RB New York,CF Montréal,Away,1.0,4.0,,,,,,,,,,,,,
+09bbc02f,2026-04-18,Colorado Rapids,Inter Miami,Home,2.0,3.0,,,,,,,,,,,,,
+09bbc02f,2026-04-18,Inter Miami,Colorado Rapids,Away,3.0,2.0,,,,,,,,,,,,,
+8f195d94,2026-04-18,FC Cincinnati,Chicago Fire,Home,3.0,3.0,,,,,,,,,,,,,
+8f195d94,2026-04-18,Chicago Fire,FC Cincinnati,Away,3.0,3.0,,,,,,,,,,,,,
+4e4da07d,2026-04-18,FC Dallas,LA Galaxy,Home,2.0,2.0,,,,,,,,,,,,,
+4e4da07d,2026-04-18,LA Galaxy,FC Dallas,Away,2.0,2.0,,,,,,,,,,,,,
+be3df254,2026-04-18,Minnesota Utd,Portland Timbers,Home,2.0,0.0,,,,,,,,,,,,,
+be3df254,2026-04-18,Portland Timbers,Minnesota Utd,Away,0.0,2.0,,,,,,,,,,,,,
+ecb0e244,2026-04-18,NE Revolution,Columbus Crew,Home,2.0,1.0,,,,,,,,,,,,,
+ecb0e244,2026-04-18,Columbus Crew,NE Revolution,Away,1.0,2.0,,,,,,,,,,,,,
+3d539c58,2026-04-18,NYCFC,Charlotte,Home,1.0,2.0,,,,,,,,,,,,,
+3d539c58,2026-04-18,Charlotte,NYCFC,Away,2.0,1.0,,,,,,,,,,,,,
+13bc4a63,2026-04-18,Orlando City,Houston,Home,0.0,1.0,,,,,,,,,,,,,
+13bc4a63,2026-04-18,Houston,Orlando City,Away,1.0,0.0,,,,,,,,,,,,,
+b538b59b,2026-04-18,Philadelphia,D.C. United,Home,0.0,0.0,,,,,,,,,,,,,
+b538b59b,2026-04-18,D.C. United,Philadelphia,Away,0.0,0.0,,,,,,,,,,,,,
+7f1598fa,2026-04-18,Real Salt Lake,San Diego FC,Home,4.0,2.0,,,,,,,,,,,,,
+7f1598fa,2026-04-18,San Diego FC,Real Salt Lake,Away,2.0,4.0,,,,,,,,,,,,,
+d8e1f0c6,2026-04-18,Seattle Sounders,St. Louis City,Home,4.0,1.0,,,,,,,,,,,,,
+d8e1f0c6,2026-04-18,St. Louis City,Seattle Sounders,Away,1.0,4.0,,,,,,,,,,,,,
+91c54463,2026-04-18,Toronto FC,Austin FC,Home,3.0,3.0,,,,,,,,,,,,,
+91c54463,2026-04-18,Austin FC,Toronto FC,Away,3.0,3.0,,,,,,,,,,,,,
+5f0aa31a,2026-04-19,LAFC,SJ Earthquakes,Home,1.0,4.0,,,,,,,,,,,,,
+5f0aa31a,2026-04-19,SJ Earthquakes,LAFC,Away,4.0,1.0,,,,,,,,,,,,,
+0d75cd96,2026-04-22,Atlanta Utd,NE Revolution,Home,1.0,2.0,,,,,,,,,,,,,
+0d75cd96,2026-04-22,NE Revolution,Atlanta Utd,Away,2.0,1.0,,,,,,,,,,,,,
+979f89c8,2026-04-22,Columbus Crew,LA Galaxy,Home,2.0,1.0,,,,,,,,,,,,,
+979f89c8,2026-04-22,LA Galaxy,Columbus Crew,Away,1.0,2.0,,,,,,,,,,,,,
+917d88d2,2026-04-22,FC Dallas,Minnesota Utd,Home,0.0,1.0,,,,,,,,,,,,,
+917d88d2,2026-04-22,Minnesota Utd,FC Dallas,Away,1.0,0.0,,,,,,,,,,,,,
+c0935944,2026-04-22,Houston,San Diego FC,Home,1.0,0.0,,,,,,,,,,,,,
+c0935944,2026-04-22,San Diego FC,Houston,Away,0.0,1.0,,,,,,,,,,,,,
+df9fb549,2026-04-22,LAFC,Colorado Rapids,Home,0.0,0.0,,,,,,,,,,,,,
+df9fb549,2026-04-22,Colorado Rapids,LAFC,Away,0.0,0.0,,,,,,,,,,,,,
+dc4baad9,2026-04-22,NYCFC,FC Cincinnati,Home,4.0,4.0,,,,,,,,,,,,,
+dc4baad9,2026-04-22,FC Cincinnati,NYCFC,Away,4.0,4.0,,,,,,,,,,,,,
+e72bedb3,2026-04-22,Orlando City,Charlotte,Home,4.0,1.0,,,,,,,,,,,,,
+e72bedb3,2026-04-22,Charlotte,Orlando City,Away,1.0,4.0,,,,,,,,,,,,,
+3b866a36,2026-04-22,RB New York,D.C. United,Home,4.0,4.0,,,,,,,,,,,,,
+3b866a36,2026-04-22,D.C. United,RB New York,Away,4.0,4.0,,,,,,,,,,,,,
+c7fe6f65,2026-04-22,Real Salt Lake,Inter Miami,Home,0.0,2.0,,,,,,,,,,,,,
+c7fe6f65,2026-04-22,Inter Miami,Real Salt Lake,Away,2.0,0.0,,,,,,,,,,,,,
+c52ff5d0,2026-04-22,SJ Earthquakes,Austin FC,Home,5.0,1.0,,,,,,,,,,,,,
+c52ff5d0,2026-04-22,Austin FC,SJ Earthquakes,Away,1.0,5.0,,,,,,,,,,,,,
+871ec922,2026-04-22,Toronto FC,Philadelphia,Home,3.0,3.0,,,,,,,,,,,,,
+871ec922,2026-04-22,Philadelphia,Toronto FC,Away,3.0,3.0,,,,,,,,,,,,,
+71a3d916,2026-04-25,Austin FC,Houston,Home,2.0,0.0,,,,,,,,,,,,,
+71a3d916,2026-04-25,Houston,Austin FC,Away,0.0,2.0,,,,,,,,,,,,,
+df5f3a4d,2026-04-25,CF Montréal,NYCFC,Home,1.0,0.0,,,,,,,,,,,,,
+df5f3a4d,2026-04-25,NYCFC,CF Montréal,Away,0.0,1.0,,,,,,,,,,,,,
+27021553,2026-04-25,Chicago Fire,Sporting KC,Home,5.0,0.0,,,,,,,,,,,,,
+27021553,2026-04-25,Sporting KC,Chicago Fire,Away,0.0,5.0,,,,,,,,,,,,,
+5877ea14,2026-04-25,Columbus Crew,Philadelphia,Home,2.0,0.0,,,,,,,,,,,,,
+5877ea14,2026-04-25,Philadelphia,Columbus Crew,Away,0.0,2.0,,,,,,,,,,,,,
+c5ad12bf,2026-04-25,D.C. United,Orlando City,Home,3.0,2.0,,,,,,,,,,,,,
+c5ad12bf,2026-04-25,Orlando City,D.C. United,Away,2.0,3.0,,,,,,,,,,,,,
+6cb955cb,2026-04-25,FC Cincinnati,RB New York,Home,2.0,0.0,,,,,,,,,,,,,
+6cb955cb,2026-04-25,RB New York,FC Cincinnati,Away,0.0,2.0,,,,,,,,,,,,,
+a950feb5,2026-04-25,Inter Miami,NE Revolution,Home,1.0,1.0,,,,,,,,,,,,,
+a950feb5,2026-04-25,NE Revolution,Inter Miami,Away,1.0,1.0,,,,,,,,,,,,,
+e923df05,2026-04-25,Minnesota Utd,LAFC,Home,0.0,1.0,,,,,,,,,,,,,
+e923df05,2026-04-25,LAFC,Minnesota Utd,Away,1.0,0.0,,,,,,,,,,,,,
+bf7f2acc,2026-04-25,Nashville SC,Charlotte,Home,4.0,2.0,,,,,,,,,,,,,
+bf7f2acc,2026-04-25,Charlotte,Nashville SC,Away,2.0,4.0,,,,,,,,,,,,,
+41b3e3b8,2026-04-25,San Diego FC,Portland Timbers,Home,1.0,2.0,,,,,,,,,,,,,
+41b3e3b8,2026-04-25,Portland Timbers,San Diego FC,Away,2.0,1.0,,,,,,,,,,,,,
+9157f8a9,2026-04-25,Seattle Sounders,FC Dallas,Home,2.0,1.0,,,,,,,,,,,,,
+9157f8a9,2026-04-25,FC Dallas,Seattle Sounders,Away,1.0,2.0,,,,,,,,,,,,,
+a32de9dc,2026-04-25,St. Louis City,SJ Earthquakes,Home,2.0,3.0,,,,,,,,,,,,,
+a32de9dc,2026-04-25,SJ Earthquakes,St. Louis City,Away,3.0,2.0,,,,,,,,,,,,,
+c4292fd1,2026-04-25,Toronto FC,Atlanta Utd,Home,1.0,2.0,,,,,,,,,,,,,
+c4292fd1,2026-04-25,Atlanta Utd,Toronto FC,Away,2.0,1.0,,,,,,,,,,,,,
+98f49249,2026-04-25,Vancouver,Colorado Rapids,Home,3.0,1.0,,,,,,,,,,,,,
+98f49249,2026-04-25,Colorado Rapids,Vancouver,Away,1.0,3.0,,,,,,,,,,,,,
+a901a09e,2026-04-26,LA Galaxy,Real Salt Lake,Home,2.0,1.0,,,,,,,,,,,,,
+a901a09e,2026-04-26,Real Salt Lake,LA Galaxy,Away,1.0,2.0,,,,,,,,,,,,,
+6510c975,2026-05-02,Atlanta Utd,CF Montréal,Home,3.0,1.0,,,,,,,,,,,,,
+6510c975,2026-05-02,CF Montréal,Atlanta Utd,Away,1.0,3.0,,,,,,,,,,,,,
+ca915ad3,2026-05-02,Chicago Fire,FC Cincinnati,Home,2.0,3.0,,,,,,,,,,,,,
+ca915ad3,2026-05-02,FC Cincinnati,Chicago Fire,Away,3.0,2.0,,,,,,,,,,,,,
+1b29c1a3,2026-05-02,Columbus Crew,Minnesota Utd,Home,2.0,3.0,,,,,,,,,,,,,
+1b29c1a3,2026-05-02,Minnesota Utd,Columbus Crew,Away,3.0,2.0,,,,,,,,,,,,,
+81bc0832,2026-05-02,Houston,Colorado Rapids,Home,1.0,0.0,,,,,,,,,,,,,
+81bc0832,2026-05-02,Colorado Rapids,Houston,Away,0.0,1.0,,,,,,,,,,,,,
+d070b7ad,2026-05-02,Inter Miami,Orlando City,Home,3.0,4.0,,,,,,,,,,,,,
+d070b7ad,2026-05-02,Orlando City,Inter Miami,Away,4.0,3.0,,,,,,,,,,,,,
+ba9d5a10,2026-05-02,LA Galaxy,Vancouver,Home,1.0,1.0,,,,,,,,,,,,,
+ba9d5a10,2026-05-02,Vancouver,LA Galaxy,Away,1.0,1.0,,,,,,,,,,,,,
+488c1b5a,2026-05-02,NE Revolution,Charlotte,Home,1.0,0.0,,,,,,,,,,,,,
+488c1b5a,2026-05-02,Charlotte,NE Revolution,Away,0.0,1.0,,,,,,,,,,,,,
+9f5a8427,2026-05-02,Philadelphia,Nashville SC,Home,0.0,0.0,,,,,,,,,,,,,
+9f5a8427,2026-05-02,Nashville SC,Philadelphia,Away,0.0,0.0,,,,,,,,,,,,,
+5ebfa334,2026-05-02,RB New York,FC Dallas,Home,0.0,2.0,,,,,,,,,,,,,
+5ebfa334,2026-05-02,FC Dallas,RB New York,Away,2.0,0.0,,,,,,,,,,,,,
+bb849591,2026-05-02,Real Salt Lake,Portland Timbers,Home,2.0,0.0,,,,,,,,,,,,,
+bb849591,2026-05-02,Portland Timbers,Real Salt Lake,Away,0.0,2.0,,,,,,,,,,,,,
+1fc3cd59,2026-05-02,San Diego FC,LAFC,Home,2.0,2.0,,,,,,,,,,,,,
+1fc3cd59,2026-05-02,LAFC,San Diego FC,Away,2.0,2.0,,,,,,,,,,,,,
+62d836c4,2026-05-02,Sporting KC,Seattle Sounders,Home,1.0,1.0,,,,,,,,,,,,,
+62d836c4,2026-05-02,Seattle Sounders,Sporting KC,Away,1.0,1.0,,,,,,,,,,,,,
+49a9daaf,2026-05-02,Toronto FC,SJ Earthquakes,Home,1.0,1.0,,,,,,,,,,,,,
+49a9daaf,2026-05-02,SJ Earthquakes,Toronto FC,Away,1.0,1.0,,,,,,,,,,,,,
+f9b5cbd2,2026-05-03,Austin FC,St. Louis City,Home,2.0,0.0,,,,,,,,,,,,,
+f9b5cbd2,2026-05-03,St. Louis City,Austin FC,Away,0.0,2.0,,,,,,,,,,,,,
+0d85bc35,2026-05-03,NYCFC,D.C. United,Home,0.0,2.0,,,,,,,,,,,,,
+0d85bc35,2026-05-03,D.C. United,NYCFC,Away,2.0,0.0,,,,,,,,,,,,,
+5171850e,2026-05-09,Atlanta Utd,LA Galaxy,Home,1.0,2.0,,,,,,,,,,,,,
+5171850e,2026-05-09,LA Galaxy,Atlanta Utd,Away,2.0,1.0,,,,,,,,,,,,,
+d09d20cb,2026-05-09,CF Montréal,Orlando City,Home,2.0,0.0,,,,,,,,,,,,,
+d09d20cb,2026-05-09,Orlando City,CF Montréal,Away,0.0,2.0,,,,,,,,,,,,,
+f17edf67,2026-05-09,Charlotte,FC Cincinnati,Home,2.0,2.0,,,,,,,,,,,,,
+f17edf67,2026-05-09,FC Cincinnati,Charlotte,Away,2.0,2.0,,,,,,,,,,,,,
+e163ef59,2026-05-09,Chicago Fire,RB New York,Home,1.0,3.0,,,,,,,,,,,,,
+e163ef59,2026-05-09,RB New York,Chicago Fire,Away,3.0,1.0,,,,,,,,,,,,,
+d40a7770,2026-05-09,Colorado Rapids,St. Louis City,Home,0.0,1.0,,,,,,,,,,,,,
+d40a7770,2026-05-09,St. Louis City,Colorado Rapids,Away,1.0,0.0,,,,,,,,,,,,,
+6e3b5626,2026-05-09,FC Dallas,Real Salt Lake,Home,3.0,1.0,,,,,,,,,,,,,
+6e3b5626,2026-05-09,Real Salt Lake,FC Dallas,Away,1.0,3.0,,,,,,,,,,,,,
+2717e34e,2026-05-09,NE Revolution,Philadelphia,Home,2.0,1.0,,,,,,,,,,,,,
+2717e34e,2026-05-09,Philadelphia,NE Revolution,Away,1.0,2.0,,,,,,,,,,,,,
+9dc76b0a,2026-05-09,Nashville SC,D.C. United,Home,2.0,2.0,,,,,,,,,,,,,
+9dc76b0a,2026-05-09,D.C. United,Nashville SC,Away,2.0,2.0,,,,,,,,,,,,,
+19b4f06f,2026-05-09,Portland Timbers,Sporting KC,Home,6.0,0.0,,,,,,,,,,,,,
+19b4f06f,2026-05-09,Sporting KC,Portland Timbers,Away,0.0,6.0,,,,,,,,,,,,,
+b2a61411,2026-05-09,SJ Earthquakes,Vancouver,Home,1.0,1.0,,,,,,,,,,,,,
+b2a61411,2026-05-09,Vancouver,SJ Earthquakes,Away,1.0,1.0,,,,,,,,,,,,,
+3a4f51b9,2026-05-09,Seattle Sounders,San Diego FC,Home,1.0,1.0,,,,,,,,,,,,,
+3a4f51b9,2026-05-09,San Diego FC,Seattle Sounders,Away,1.0,1.0,,,,,,,,,,,,,
+cdf812d4,2026-05-09,Toronto FC,Inter Miami,Home,2.0,4.0,,,,,,,,,,,,,
+cdf812d4,2026-05-09,Inter Miami,Toronto FC,Away,4.0,2.0,,,,,,,,,,,,,
+6bcd0114,2026-05-10,LAFC,Houston,Home,1.0,4.0,,,,,,,,,,,,,
+6bcd0114,2026-05-10,Houston,LAFC,Away,4.0,1.0,,,,,,,,,,,,,
+9954f1ba,2026-05-10,Minnesota Utd,Austin FC,Home,2.0,2.0,,,,,,,,,,,,,
+9954f1ba,2026-05-10,Austin FC,Minnesota Utd,Away,2.0,2.0,,,,,,,,,,,,,
+3b2a4d19,2026-05-10,NYCFC,Columbus Crew,Home,3.0,0.0,,,,,,,,,,,,,
+3b2a4d19,2026-05-10,Columbus Crew,NYCFC,Away,0.0,3.0,,,,,,,,,,,,,
+922ba0ba,2026-05-13,CF Montréal,Portland Timbers,Home,2.0,2.0,,,,,,,,,,,,,
+922ba0ba,2026-05-13,Portland Timbers,CF Montréal,Away,2.0,2.0,,,,,,,,,,,,,
+21f0ae6b,2026-05-13,Charlotte,NYCFC,Home,0.0,1.0,,,,,,,,,,,,,
+21f0ae6b,2026-05-13,NYCFC,Charlotte,Away,1.0,0.0,,,,,,,,,,,,,
+05e46c58,2026-05-13,D.C. United,Chicago Fire,Home,1.0,3.0,,,,,,,,,,,,,
+05e46c58,2026-05-13,Chicago Fire,D.C. United,Away,3.0,1.0,,,,,,,,,,,,,
+6d6c6c1d,2026-05-13,FC Cincinnati,Inter Miami,Home,3.0,5.0,,,,,,,,,,,,,
+6d6c6c1d,2026-05-13,Inter Miami,FC Cincinnati,Away,5.0,3.0,,,,,,,,,,,,,
+b3703438,2026-05-13,FC Dallas,Vancouver,Home,2.0,3.0,,,,,,,,,,,,,
+b3703438,2026-05-13,Vancouver,FC Dallas,Away,3.0,2.0,,,,,,,,,,,,,
+49e9574d,2026-05-13,Minnesota Utd,Colorado Rapids,Home,0.0,1.0,,,,,,,,,,,,,
+49e9574d,2026-05-13,Colorado Rapids,Minnesota Utd,Away,1.0,0.0,,,,,,,,,,,,,
+29d7568e,2026-05-13,NE Revolution,Nashville SC,Home,0.0,3.0,,,,,,,,,,,,,
+29d7568e,2026-05-13,Nashville SC,NE Revolution,Away,3.0,0.0,,,,,,,,,,,,,
+2bfc494c,2026-05-13,Orlando City,Philadelphia,Home,4.0,3.0,,,,,,,,,,,,,
+2bfc494c,2026-05-13,Philadelphia,Orlando City,Away,3.0,4.0,,,,,,,,,,,,,
+09d1c896,2026-05-13,RB New York,Columbus Crew,Home,3.0,2.0,,,,,,,,,,,,,
+09d1c896,2026-05-13,Columbus Crew,RB New York,Away,2.0,3.0,,,,,,,,,,,,,
+3d9b1de7,2026-05-13,Real Salt Lake,Houston,Home,3.0,0.0,,,,,,,,,,,,,
+3d9b1de7,2026-05-13,Houston,Real Salt Lake,Away,0.0,3.0,,,,,,,,,,,,,
+4bf24da3,2026-05-13,San Diego FC,Austin FC,Home,5.0,0.0,,,,,,,,,,,,,
+4bf24da3,2026-05-13,Austin FC,San Diego FC,Away,0.0,5.0,,,,,,,,,,,,,
+9506b0d7,2026-05-13,Seattle Sounders,SJ Earthquakes,Home,3.0,2.0,,,,,,,,,,,,,
+9506b0d7,2026-05-13,SJ Earthquakes,Seattle Sounders,Away,2.0,3.0,,,,,,,,,,,,,
+8bd62278,2026-05-13,Sporting KC,LA Galaxy,Home,3.0,1.0,,,,,,,,,,,,,
+8bd62278,2026-05-13,LA Galaxy,Sporting KC,Away,1.0,3.0,,,,,,,,,,,,,
+33cb35d0,2026-05-13,St. Louis City,LAFC,Home,2.0,1.0,,,,,,,,,,,,,
+33cb35d0,2026-05-13,LAFC,St. Louis City,Away,1.0,2.0,,,,,,,,,,,,,
+569000e1,2026-05-16,Austin FC,Sporting KC,Home,1.0,2.0,4-4-2,4-4-2,3.0,7.0,10.0,8.0,20.0,3.0,8.0,8.0,24.0,13.0,46.0
+569000e1,2026-05-16,Sporting KC,Austin FC,Away,2.0,1.0,4-4-2,4-4-2,7.0,3.0,10.0,20.0,8.0,8.0,3.0,24.0,8.0,21.0,54.0
+e02a5977,2026-05-16,CF Montréal,Chicago Fire,Home,0.0,2.0,4-3-3,4-2-3-1,16.0,3.0,19.0,16.0,11.0,5.0,4.0,36.0,12.0,14.0,59.0
+e02a5977,2026-05-16,Chicago Fire,CF Montréal,Away,2.0,0.0,4-2-3-1,4-3-3,3.0,16.0,19.0,11.0,16.0,4.0,5.0,12.0,36.0,13.0,41.0
+5b8424aa,2026-05-16,Charlotte,Toronto FC,Home,3.0,1.0,4-2-3-1,4-2-3-1,7.0,3.0,10.0,18.0,12.0,6.0,4.0,15.0,16.0,8.0,46.0
+5b8424aa,2026-05-16,Toronto FC,Charlotte,Away,1.0,3.0,4-2-3-1,4-2-3-1,3.0,7.0,10.0,12.0,18.0,4.0,6.0,16.0,15.0,13.0,54.0
+9e248a86,2026-05-16,D.C. United,St. Louis City,Home,1.0,1.0,4-4-2,3-4-3,5.0,8.0,13.0,15.0,16.0,5.0,3.0,24.0,11.0,17.0,43.0
+9e248a86,2026-05-16,St. Louis City,D.C. United,Away,1.0,1.0,3-4-3,4-4-2,8.0,5.0,13.0,16.0,15.0,3.0,5.0,11.0,24.0,11.0,57.0
+10d19cd0,2026-05-16,Houston,Vancouver,Home,1.0,0.0,4-1-4-1,4-2-3-1,4.0,3.0,7.0,14.0,9.0,7.0,3.0,11.0,16.0,16.0,53.0
+10d19cd0,2026-05-16,Vancouver,Houston,Away,0.0,1.0,4-2-3-1,4-1-4-1,3.0,4.0,7.0,9.0,14.0,3.0,7.0,16.0,11.0,13.0,47.0
+1c0324d5,2026-05-16,NE Revolution,Minnesota Utd,Home,2.0,1.0,4-2-3-1,3-4-3,8.0,11.0,19.0,11.0,12.0,5.0,6.0,13.0,31.0,11.0,46.0
+1c0324d5,2026-05-16,Minnesota Utd,NE Revolution,Away,1.0,2.0,3-4-3,4-2-3-1,11.0,8.0,19.0,12.0,11.0,6.0,5.0,31.0,13.0,12.0,54.0
+d4bed8a2,2026-05-16,Orlando City,Atlanta Utd,Home,1.0,1.0,3-4-3,4-3-3,4.0,10.0,14.0,7.0,21.0,3.0,6.0,9.0,28.0,8.0,45.0
+d4bed8a2,2026-05-16,Atlanta Utd,Orlando City,Away,1.0,1.0,4-3-3,3-4-3,10.0,4.0,14.0,21.0,7.0,6.0,3.0,28.0,9.0,12.0,55.0
+b0c0b381,2026-05-16,Philadelphia,Columbus Crew,Home,1.0,1.0,4-4-2,4-4-2,4.0,4.0,8.0,12.0,5.0,5.0,1.0,12.0,14.0,14.0,38.0
+b0c0b381,2026-05-16,Columbus Crew,Philadelphia,Away,1.0,1.0,4-4-2,4-4-2,4.0,4.0,8.0,5.0,12.0,1.0,5.0,14.0,12.0,12.0,62.0
+2841c40d,2026-05-16,RB New York,NYCFC,Home,1.0,1.0,4-3-3,4-2-3-1,9.0,3.0,12.0,12.0,14.0,5.0,5.0,26.0,7.0,16.0,43.0
+2841c40d,2026-05-16,NYCFC,RB New York,Away,1.0,1.0,4-2-3-1,4-3-3,3.0,9.0,12.0,14.0,12.0,5.0,5.0,7.0,26.0,10.0,57.0
+6e16c0db,2026-05-16,Real Salt Lake,Colorado Rapids,Home,2.0,1.0,5-4-1,4-2-3-1,2.0,6.0,8.0,17.0,8.0,8.0,4.0,14.0,15.0,18.0,48.0
+6e16c0db,2026-05-16,Colorado Rapids,Real Salt Lake,Away,1.0,2.0,4-2-3-1,5-4-1,6.0,2.0,8.0,8.0,17.0,4.0,8.0,15.0,14.0,8.0,52.0
+e26312da,2026-05-16,SJ Earthquakes,FC Dallas,Home,2.0,3.0,4-2-3-1,4-4-2,12.0,4.0,16.0,16.0,16.0,7.0,9.0,39.0,15.0,9.0,55.0
+e26312da,2026-05-16,FC Dallas,SJ Earthquakes,Away,3.0,2.0,4-4-2,4-2-3-1,4.0,12.0,16.0,16.0,16.0,9.0,7.0,15.0,39.0,17.0,45.0
+03999cbb,2026-05-16,San Diego FC,FC Cincinnati,Home,3.0,3.0,4-3-3,3-4-3,7.0,2.0,9.0,16.0,8.0,5.0,6.0,32.0,2.0,8.0,63.0
+03999cbb,2026-05-16,FC Cincinnati,San Diego FC,Away,3.0,3.0,3-4-3,4-3-3,2.0,7.0,9.0,8.0,16.0,6.0,5.0,2.0,32.0,9.0,37.0
+1205c6b7,2026-05-16,Seattle Sounders,LA Galaxy,Home,0.0,2.0,,,,,,,,,,,,,
+1205c6b7,2026-05-16,LA Galaxy,Seattle Sounders,Away,2.0,0.0,,,,,,,,,,,,,
+379b9978,2026-05-17,Inter Miami,Portland Timbers,Home,2.0,0.0,4-3-3,4-2-2-2,8.0,5.0,13.0,22.0,16.0,9.0,4.0,13.0,19.0,15.0,45.0
+379b9978,2026-05-17,Portland Timbers,Inter Miami,Away,0.0,2.0,4-2-2-2,4-3-3,5.0,8.0,13.0,16.0,22.0,4.0,9.0,19.0,13.0,10.0,55.0
+2843b9fb,2026-05-17,Nashville SC,LAFC,Home,3.0,2.0,,,,,,,,,,,,,
+2843b9fb,2026-05-17,LAFC,Nashville SC,Away,2.0,3.0,,,,,,,,,,,,,
+5940e1d8,2026-05-23,Charlotte,NE Revolution,Home,1.0,0.0,4-2-3-1,4-2-3-1,3.0,4.0,7.0,12.0,13.0,6.0,3.0,7.0,22.0,9.0,39.0
+5940e1d8,2026-05-23,NE Revolution,Charlotte,Away,0.0,1.0,4-2-3-1,4-2-3-1,4.0,3.0,7.0,13.0,12.0,3.0,6.0,22.0,7.0,13.0,61.0
+c9f021a2,2026-05-23,Chicago Fire,Toronto FC,Home,2.0,1.0,4-4-2,4-4-2,3.0,4.0,7.0,15.0,11.0,6.0,4.0,8.0,17.0,12.0,53.0
+c9f021a2,2026-05-23,Toronto FC,Chicago Fire,Away,1.0,2.0,4-4-2,4-4-2,4.0,3.0,7.0,11.0,15.0,4.0,6.0,17.0,8.0,12.0,47.0
+496da80a,2026-05-23,Colorado Rapids,FC Dallas,Home,1.0,2.0,4-2-3-1,4-4-1-1,5.0,3.0,8.0,17.0,5.0,5.0,2.0,35.0,5.0,11.0,66.0
+496da80a,2026-05-23,FC Dallas,Colorado Rapids,Away,2.0,1.0,4-4-1-1,4-2-3-1,3.0,5.0,8.0,5.0,17.0,2.0,5.0,5.0,35.0,13.0,35.0
+5b51ae2a,2026-05-23,D.C. United,CF Montréal,Home,4.0,4.0,4-4-2,4-3-3,6.0,4.0,10.0,18.0,22.0,10.0,8.0,21.0,17.0,19.0,44.0
+5b51ae2a,2026-05-23,CF Montréal,D.C. United,Away,4.0,4.0,4-3-3,4-4-2,4.0,6.0,10.0,22.0,18.0,8.0,10.0,17.0,21.0,16.0,56.0
+c8fa1430,2026-05-23,FC Cincinnati,Orlando City,Home,6.0,2.0,3-4-3,3-4-3,6.0,9.0,15.0,22.0,19.0,11.0,9.0,14.0,25.0,17.0,55.0
+c8fa1430,2026-05-23,Orlando City,FC Cincinnati,Away,2.0,6.0,3-4-3,3-4-3,9.0,6.0,15.0,19.0,22.0,9.0,11.0,25.0,14.0,13.0,45.0
+0cacb57d,2026-05-23,LA Galaxy,Houston,Home,1.0,1.0,4-2-3-1,4-1-4-1,8.0,2.0,10.0,18.0,10.0,6.0,5.0,8.0,9.0,6.0,55.0
+0cacb57d,2026-05-23,Houston,LA Galaxy,Away,1.0,1.0,4-1-4-1,4-2-3-1,2.0,8.0,10.0,10.0,18.0,5.0,6.0,9.0,8.0,9.0,45.0
+74b19398,2026-05-23,Minnesota Utd,Real Salt Lake,Home,1.0,1.0,3-4-3,3-4-1-2,6.0,3.0,9.0,11.0,8.0,1.0,1.0,22.0,10.0,6.0,57.0
+74b19398,2026-05-23,Real Salt Lake,Minnesota Utd,Away,1.0,1.0,3-4-1-2,3-4-3,3.0,6.0,9.0,8.0,11.0,1.0,1.0,10.0,22.0,11.0,43.0
+aa9bfff8,2026-05-23,Nashville SC,NYCFC,Home,2.0,1.0,4-2-3-1,4-2-3-1,6.0,3.0,9.0,12.0,7.0,6.0,4.0,12.0,9.0,11.0,48.0
+aa9bfff8,2026-05-23,NYCFC,Nashville SC,Away,1.0,2.0,4-2-3-1,4-2-3-1,3.0,6.0,9.0,7.0,12.0,4.0,6.0,9.0,12.0,12.0,52.0
+c197c0b3,2026-05-23,Portland Timbers,SJ Earthquakes,Home,1.0,3.0,4-2-3-1,4-2-3-1,4.0,6.0,10.0,15.0,7.0,7.0,6.0,26.0,17.0,10.0,65.0
+c197c0b3,2026-05-23,SJ Earthquakes,Portland Timbers,Away,3.0,1.0,4-2-3-1,4-2-3-1,6.0,4.0,10.0,7.0,15.0,6.0,7.0,17.0,26.0,14.0,35.0
+14b3ce1b,2026-05-23,San Diego FC,Vancouver,Home,2.0,4.0,4-3-3,4-2-3-1,2.0,4.0,6.0,11.0,21.0,3.0,12.0,7.0,17.0,14.0,53.0
+14b3ce1b,2026-05-23,Vancouver,San Diego FC,Away,4.0,2.0,4-2-3-1,4-3-3,4.0,2.0,6.0,21.0,11.0,12.0,3.0,17.0,7.0,15.0,47.0
+4d65f809,2026-05-23,Sporting KC,RB New York,Home,1.0,2.0,4-4-2,4-3-3,6.0,1.0,7.0,15.0,10.0,8.0,4.0,21.0,1.0,5.0,61.0
+4d65f809,2026-05-23,RB New York,Sporting KC,Away,2.0,1.0,4-3-3,4-4-2,1.0,6.0,7.0,10.0,15.0,4.0,8.0,1.0,21.0,15.0,39.0
+ed8df0af,2026-05-23,St. Louis City,Austin FC,Home,3.0,0.0,3-4-3,4-1-4-1,2.0,2.0,4.0,16.0,8.0,6.0,2.0,10.0,12.0,19.0,47.0
+ed8df0af,2026-05-23,Austin FC,St. Louis City,Away,0.0,3.0,4-1-4-1,3-4-3,2.0,2.0,4.0,8.0,16.0,2.0,6.0,12.0,10.0,9.0,54.0
+56aca33c,2026-05-24,Columbus Crew,Atlanta Utd,Home,2.0,0.0,3-4-1-2,4-1-4-1,2.0,3.0,5.0,10.0,16.0,4.0,2.0,7.0,15.0,9.0,58.0
+56aca33c,2026-05-24,Atlanta Utd,Columbus Crew,Away,0.0,2.0,4-1-4-1,3-4-1-2,3.0,2.0,5.0,16.0,10.0,2.0,4.0,15.0,7.0,13.0,42.0
+5cd34f85,2026-05-24,Inter Miami,Philadelphia,Home,6.0,4.0,4-3-3,4-4-2,4.0,2.0,6.0,17.0,21.0,10.0,10.0,6.0,16.0,18.0,64.0
+5cd34f85,2026-05-24,Philadelphia,Inter Miami,Away,4.0,6.0,4-4-2,4-3-3,2.0,4.0,6.0,21.0,17.0,10.0,10.0,16.0,6.0,16.0,36.0
+06195a69,2026-05-24,LAFC,Seattle Sounders,Home,1.0,0.0,4-3-3,4-4-2,7.0,5.0,12.0,17.0,10.0,3.0,4.0,18.0,14.0,11.0,49.0
+06195a69,2026-05-24,Seattle Sounders,LAFC,Away,0.0,1.0,4-4-2,4-3-3,5.0,7.0,12.0,10.0,17.0,4.0,3.0,14.0,18.0,10.0,51.0
+31a23886,2026-07-16,CF Montréal,Toronto FC,Home,0.0,0.0,4-3-3,3-4-3,9.0,3.0,12.0,14.0,8.0,3.0,0.0,22.0,13.0,13.0,50.0
+31a23886,2026-07-16,Toronto FC,CF Montréal,Away,0.0,0.0,3-4-3,4-3-3,3.0,9.0,12.0,8.0,14.0,0.0,3.0,13.0,22.0,8.0,50.0
+b371367b,2026-07-16,Seattle Sounders,Portland Timbers,Home,1.0,5.0,4-2-3-1,4-1-4-1,2.0,8.0,10.0,11.0,20.0,6.0,10.0,21.0,15.0,7.0,48.0
+b371367b,2026-07-16,Portland Timbers,Seattle Sounders,Away,5.0,1.0,4-1-4-1,4-2-3-1,8.0,2.0,10.0,20.0,11.0,10.0,6.0,15.0,21.0,7.0,52.0
+f705a273,2026-07-16,St. Louis City,Sporting KC,Home,3.0,2.0,3-4-3,4-2-3-1,5.0,6.0,11.0,20.0,12.0,6.0,3.0,13.0,13.0,15.0,53.0
+f705a273,2026-07-16,Sporting KC,St. Louis City,Away,2.0,3.0,4-2-3-1,3-4-3,6.0,5.0,11.0,12.0,20.0,3.0,6.0,13.0,13.0,11.0,47.0
+92b871a5,2026-07-17,LA Galaxy,LAFC,Home,0.0,3.0,4-3-3,4-3-3,9.0,3.0,12.0,10.0,13.0,2.0,5.0,23.0,6.0,13.0,59.0
+92b871a5,2026-07-17,LAFC,LA Galaxy,Away,3.0,0.0,4-3-3,4-3-3,3.0,9.0,12.0,13.0,10.0,5.0,2.0,6.0,23.0,11.0,41.0
+d7f2a519,2026-07-17,Nashville SC,Atlanta Utd,Home,1.0,0.0,4-4-2,4-1-4-1,4.0,2.0,6.0,8.0,12.0,3.0,5.0,13.0,9.0,10.0,48.0
+d7f2a519,2026-07-17,Atlanta Utd,Nashville SC,Away,0.0,1.0,4-1-4-1,4-4-2,2.0,4.0,6.0,12.0,8.0,5.0,3.0,9.0,13.0,13.0,52.0
+aa531d24,2026-07-22,Austin FC,Seattle Sounders,Home,3.0,1.0,3-4-3,4-2-3-1,4.0,4.0,8.0,10.0,10.0,6.0,3.0,13.0,5.0,5.0,53.0
+aa531d24,2026-07-22,Seattle Sounders,Austin FC,Away,1.0,3.0,4-2-3-1,3-4-3,4.0,4.0,8.0,10.0,10.0,3.0,6.0,5.0,13.0,12.0,47.0
+f04aff44,2026-07-22,Charlotte,Atlanta Utd,Home,2.0,2.0,4-4-2,4-1-4-1,6.0,3.0,9.0,24.0,12.0,9.0,6.0,23.0,15.0,3.0,51.0
+f04aff44,2026-07-22,Atlanta Utd,Charlotte,Away,2.0,2.0,4-1-4-1,4-4-2,3.0,6.0,9.0,12.0,24.0,6.0,9.0,15.0,23.0,9.0,49.0
+3b1c031b,2026-07-22,Colorado Rapids,San Diego FC,Home,1.0,0.0,3-2-4-1,4-2-3-1,5.0,3.0,8.0,9.0,6.0,2.0,2.0,21.0,9.0,17.0,52.0
+3b1c031b,2026-07-22,San Diego FC,Colorado Rapids,Away,0.0,1.0,4-2-3-1,3-2-4-1,3.0,5.0,8.0,6.0,9.0,2.0,2.0,9.0,21.0,7.0,48.0
+468c2a64,2026-07-22,Columbus Crew,NYCFC,Home,1.0,2.0,4-4-2,4-1-4-1,3.0,0.0,3.0,11.0,8.0,4.0,5.0,11.0,7.0,7.0,59.0
+468c2a64,2026-07-22,NYCFC,Columbus Crew,Away,2.0,1.0,4-1-4-1,4-4-2,0.0,3.0,3.0,8.0,11.0,5.0,4.0,7.0,11.0,11.0,41.0
+a95bd236,2026-07-22,FC Cincinnati,Vancouver,Home,4.0,3.0,3-4-3,4-2-3-1,1.0,3.0,4.0,10.0,19.0,6.0,6.0,1.0,29.0,12.0,38.0
+a95bd236,2026-07-22,Vancouver,FC Cincinnati,Away,3.0,4.0,4-2-3-1,3-4-3,3.0,1.0,4.0,19.0,10.0,6.0,6.0,29.0,1.0,13.0,62.0
+5a41937d,2026-07-22,Houston,D.C. United,Home,1.0,1.0,4-1-4-1,4-4-2,3.0,3.0,6.0,20.0,7.0,5.0,1.0,24.0,15.0,8.0,64.0
+5a41937d,2026-07-22,D.C. United,Houston,Away,1.0,1.0,4-4-2,4-1-4-1,3.0,3.0,6.0,7.0,20.0,1.0,5.0,15.0,24.0,15.0,37.0
+c061434a,2026-07-22,Inter Miami,Chicago Fire,Home,3.0,2.0,4-2-2-2,4-4-2,8.0,4.0,12.0,14.0,15.0,7.0,4.0,18.0,11.0,8.0,53.0
+c061434a,2026-07-22,Chicago Fire,Inter Miami,Away,2.0,3.0,4-4-2,4-2-2-2,4.0,8.0,12.0,15.0,14.0,4.0,7.0,11.0,18.0,16.0,47.0
+e35a4001,2026-07-22,LA Galaxy,St. Louis City,Home,1.0,3.0,4-1-4-1,3-4-1-2,4.0,7.0,11.0,11.0,15.0,3.0,9.0,10.0,14.0,11.0,47.0
+e35a4001,2026-07-22,St. Louis City,LA Galaxy,Away,3.0,1.0,3-4-1-2,4-1-4-1,7.0,4.0,11.0,15.0,11.0,9.0,3.0,14.0,10.0,16.0,53.0
+2f6a1522,2026-07-22,LAFC,Real Salt Lake,Home,3.0,1.0,4-3-3,3-4-3,7.0,12.0,19.0,12.0,28.0,3.0,6.0,14.0,42.0,5.0,29.0
+2f6a1522,2026-07-22,Real Salt Lake,LAFC,Away,1.0,3.0,3-4-3,4-3-3,12.0,7.0,19.0,28.0,12.0,6.0,3.0,42.0,14.0,7.0,71.0
+d67c7a98,2026-07-22,NE Revolution,Toronto FC,Home,0.0,0.0,4-2-3-1,3-4-3,7.0,9.0,16.0,11.0,13.0,3.0,1.0,19.0,17.0,10.0,64.0
+d67c7a98,2026-07-22,Toronto FC,NE Revolution,Away,0.0,0.0,3-4-3,4-2-3-1,9.0,7.0,16.0,13.0,11.0,1.0,3.0,17.0,19.0,13.0,37.0
+d2064b39,2026-07-22,Nashville SC,CF Montréal,Home,1.0,0.0,4-2-3-1,4-3-3,3.0,2.0,5.0,10.0,7.0,1.0,2.0,11.0,12.0,9.0,63.0
+d2064b39,2026-07-22,CF Montréal,Nashville SC,Away,0.0,1.0,4-3-3,4-2-3-1,2.0,3.0,5.0,7.0,10.0,2.0,1.0,12.0,11.0,12.0,37.0
+d1a02166,2026-07-22,Philadelphia,RB New York,Home,3.0,1.0,4-4-2,4-3-3,8.0,6.0,14.0,24.0,10.0,10.0,5.0,24.0,14.0,13.0,37.0
+d1a02166,2026-07-22,RB New York,Philadelphia,Away,1.0,3.0,4-3-3,4-4-2,6.0,8.0,14.0,10.0,24.0,5.0,10.0,14.0,24.0,10.0,63.0
+e4ab15cd,2026-07-22,Portland Timbers,FC Dallas,Home,2.0,2.0,4-1-4-1,4-4-1-1,5.0,3.0,8.0,16.0,11.0,4.0,3.0,27.0,8.0,12.0,63.0
+e4ab15cd,2026-07-22,FC Dallas,Portland Timbers,Away,2.0,2.0,4-4-1-1,4-1-4-1,3.0,5.0,8.0,11.0,16.0,3.0,4.0,8.0,27.0,13.0,38.0
+9598717a,2026-07-22,SJ Earthquakes,Orlando City,Home,0.0,4.0,4-2-3-1,4-4-2,3.0,2.0,5.0,11.0,15.0,7.0,8.0,20.0,7.0,20.0,52.0
+9598717a,2026-07-22,Orlando City,SJ Earthquakes,Away,4.0,0.0,4-4-2,4-2-3-1,2.0,3.0,5.0,15.0,11.0,8.0,7.0,7.0,20.0,10.0,49.0
+51667a13,2026-07-22,Sporting KC,Minnesota Utd,Home,2.0,1.0,4-2-3-1,3-4-3,3.0,6.0,9.0,11.0,16.0,7.0,10.0,7.0,21.0,17.0,35.0
+51667a13,2026-07-22,Minnesota Utd,Sporting KC,Away,1.0,2.0,3-4-3,4-2-3-1,6.0,3.0,9.0,16.0,11.0,10.0,7.0,21.0,7.0,7.0,66.0
+7996ae6d,2026-07-25,CF Montréal,Inter Miami,Home,0.0,1.0,4-3-3,4-4-2,5.0,6.0,11.0,8.0,20.0,2.0,2.0,22.0,13.0,7.0,43.0
+7996ae6d,2026-07-25,Inter Miami,CF Montréal,Away,1.0,0.0,4-4-2,4-3-3,6.0,5.0,11.0,20.0,8.0,2.0,2.0,13.0,22.0,14.0,57.0
+8ea1c3a6,2026-07-25,Columbus Crew,FC Cincinnati,Home,2.0,1.0,3-4-3,3-4-3,4.0,5.0,9.0,13.0,12.0,6.0,5.0,17.0,23.0,11.0,53.0
+8ea1c3a6,2026-07-25,FC Cincinnati,Columbus Crew,Away,1.0,2.0,3-4-3,3-4-3,5.0,4.0,9.0,12.0,13.0,5.0,6.0,23.0,17.0,8.0,47.0
+015a3521,2026-07-25,D.C. United,Toronto FC,Home,2.0,1.0,4-4-2,3-4-3,8.0,5.0,13.0,17.0,13.0,8.0,7.0,25.0,19.0,14.0,45.0
+015a3521,2026-07-25,Toronto FC,D.C. United,Away,1.0,2.0,3-4-3,4-4-2,5.0,8.0,13.0,13.0,17.0,7.0,8.0,19.0,25.0,7.0,55.0
+360532b8,2026-07-25,Houston,Austin FC,Home,3.0,0.0,4-1-4-1,3-4-3,1.0,6.0,7.0,10.0,15.0,4.0,5.0,8.0,27.0,12.0,46.0
+360532b8,2026-07-25,Austin FC,Houston,Away,0.0,3.0,3-4-3,4-1-4-1,6.0,1.0,7.0,15.0,10.0,5.0,4.0,27.0,8.0,10.0,54.0
+b445825d,2026-07-25,LAFC,Sporting KC,Home,4.0,0.0,4-3-3,4-2-3-1,5.0,1.0,6.0,8.0,7.0,5.0,1.0,13.0,19.0,8.0,46.0
+b445825d,2026-07-25,Sporting KC,LAFC,Away,0.0,4.0,4-2-3-1,4-3-3,1.0,5.0,6.0,7.0,8.0,1.0,5.0,19.0,13.0,11.0,54.0
+409fe780,2026-07-25,Minnesota Utd,Vancouver,Home,0.0,0.0,5-3-2,4-2-3-1,5.0,2.0,7.0,11.0,11.0,3.0,5.0,13.0,16.0,7.0,36.0
+409fe780,2026-07-25,Vancouver,Minnesota Utd,Away,0.0,0.0,4-2-3-1,5-3-2,2.0,5.0,7.0,11.0,11.0,5.0,3.0,16.0,13.0,13.0,64.0
+2b6690d7,2026-07-25,NE Revolution,Atlanta Utd,Home,4.0,1.0,4-3-3,4-2-3-1,4.0,6.0,10.0,11.0,17.0,7.0,6.0,10.0,19.0,7.0,46.0
+2b6690d7,2026-07-25,Atlanta Utd,NE Revolution,Away,1.0,4.0,4-2-3-1,4-3-3,6.0,4.0,10.0,17.0,11.0,6.0,7.0,19.0,10.0,16.0,54.0
+143a04cc,2026-07-25,NYCFC,Chicago Fire,Home,3.0,1.0,4-1-4-1,4-4-2,1.0,2.0,3.0,10.0,9.0,3.0,5.0,10.0,18.0,8.0,46.0
+143a04cc,2026-07-25,Chicago Fire,NYCFC,Away,1.0,3.0,4-4-2,4-1-4-1,2.0,1.0,3.0,9.0,10.0,5.0,3.0,18.0,10.0,16.0,54.0
+49b38161,2026-07-25,Orlando City,Nashville SC,Home,1.0,0.0,4-4-1-1,4-2-2-2,2.0,7.0,9.0,12.0,7.0,4.0,2.0,12.0,21.0,8.0,48.0
+49b38161,2026-07-25,Nashville SC,Orlando City,Away,0.0,1.0,4-2-2-2,4-4-1-1,7.0,2.0,9.0,7.0,12.0,2.0,4.0,21.0,12.0,10.0,52.0
+5a0dd962,2026-07-25,Philadelphia,Seattle Sounders,Home,1.0,0.0,4-4-2,4-2-3-1,6.0,1.0,7.0,15.0,7.0,5.0,1.0,22.0,10.0,11.0,44.0
+5a0dd962,2026-07-25,Seattle Sounders,Philadelphia,Away,0.0,1.0,4-2-3-1,4-4-2,1.0,6.0,7.0,7.0,15.0,1.0,5.0,10.0,22.0,11.0,56.0
+899851f8,2026-07-25,Portland Timbers,Real Salt Lake,Home,2.0,1.0,4-1-4-1,3-4-3,14.0,5.0,19.0,22.0,6.0,6.0,2.0,37.0,14.0,12.0,61.0
+899851f8,2026-07-25,Real Salt Lake,Portland Timbers,Away,1.0,2.0,3-4-3,4-1-4-1,5.0,14.0,19.0,6.0,22.0,2.0,6.0,14.0,37.0,13.0,39.0
+d5ec55ee,2026-07-25,RB New York,Charlotte,Home,0.0,2.0,4-3-3,4-2-3-1,6.0,1.0,7.0,24.0,4.0,6.0,3.0,22.0,5.0,14.0,65.0
+d5ec55ee,2026-07-25,Charlotte,RB New York,Away,2.0,0.0,4-2-3-1,4-3-3,1.0,6.0,7.0,4.0,24.0,3.0,6.0,5.0,22.0,5.0,35.0
+69891178,2026-07-25,SJ Earthquakes,LA Galaxy,Home,1.0,1.0,4-2-3-1,4-4-2,6.0,6.0,12.0,20.0,9.0,5.0,2.0,41.0,11.0,14.0,58.0
+69891178,2026-07-25,LA Galaxy,SJ Earthquakes,Away,1.0,1.0,4-4-2,4-2-3-1,6.0,6.0,12.0,9.0,20.0,2.0,5.0,11.0,41.0,16.0,42.0
+b479b694,2026-07-25,San Diego FC,FC Dallas,Home,1.0,0.0,4-3-3,4-2-3-1,9.0,4.0,13.0,19.0,6.0,8.0,1.0,12.0,10.0,10.0,74.0
+b479b694,2026-07-25,FC Dallas,San Diego FC,Away,0.0,1.0,4-2-3-1,4-3-3,4.0,9.0,13.0,6.0,19.0,1.0,8.0,10.0,12.0,10.0,26.0
+3899e0e4,2026-07-25,St. Louis City,Colorado Rapids,Home,1.0,0.0,3-4-3,4-3-3,10.0,1.0,11.0,19.0,2.0,3.0,0.0,24.0,6.0,22.0,66.0
+3899e0e4,2026-07-25,Colorado Rapids,St. Louis City,Away,0.0,1.0,4-3-3,3-4-3,1.0,10.0,11.0,2.0,19.0,0.0,3.0,6.0,24.0,9.0,35.0
+49f4ab91,2026-07-31,NYCFC,Toronto FC,Home,1.0,1.0,4-3-3,4-3-3,3.0,2.0,5.0,16.0,13.0,5.0,5.0,13.0,17.0,11.0,50.0
+49f4ab91,2026-07-31,Toronto FC,NYCFC,Away,1.0,1.0,4-3-3,4-3-3,2.0,3.0,5.0,13.0,16.0,5.0,5.0,17.0,13.0,12.0,50.0
+717b900a,2026-08-01,CF Montréal,NE Revolution,Home,2.0,2.0,4-3-3,4-3-3,6.0,3.0,9.0,15.0,21.0,8.0,5.0,31.0,7.0,9.0,46.0
+717b900a,2026-08-01,NE Revolution,CF Montréal,Away,2.0,2.0,4-3-3,4-3-3,3.0,6.0,9.0,21.0,15.0,5.0,8.0,7.0,31.0,4.0,54.0
+0fe889f1,2026-08-01,Chicago Fire,Charlotte,Home,2.0,1.0,4-4-2,4-3-3,8.0,6.0,14.0,14.0,14.0,5.0,1.0,18.0,24.0,8.0,46.0
+0fe889f1,2026-08-01,Charlotte,Chicago Fire,Away,1.0,2.0,4-3-3,4-4-2,6.0,8.0,14.0,14.0,14.0,1.0,5.0,24.0,18.0,7.0,54.0
+1d9ae11f,2026-08-01,Colorado Rapids,Austin FC,Home,1.0,0.0,4-2-3-1,3-4-3,11.0,0.0,11.0,23.0,9.0,8.0,3.0,38.0,5.0,15.0,64.0
+1d9ae11f,2026-08-01,Austin FC,Colorado Rapids,Away,0.0,1.0,3-4-3,4-2-3-1,0.0,11.0,11.0,9.0,23.0,3.0,8.0,5.0,38.0,12.0,36.0
+d4252a8d,2026-08-01,D.C. United,Nashville SC,Home,2.0,2.0,4-4-2,4-2-3-1,8.0,3.0,11.0,17.0,10.0,7.0,2.0,26.0,13.0,14.0,39.0
+d4252a8d,2026-08-01,Nashville SC,D.C. United,Away,2.0,2.0,4-2-3-1,4-4-2,3.0,8.0,11.0,10.0,17.0,2.0,7.0,13.0,26.0,10.0,61.0
+533b4e30,2026-08-01,FC Cincinnati,SJ Earthquakes,Home,4.0,2.0,3-4-1-2,4-3-3,9.0,6.0,15.0,23.0,12.0,11.0,2.0,16.0,20.0,12.0,60.0
+533b4e30,2026-08-01,SJ Earthquakes,FC Cincinnati,Away,2.0,4.0,4-3-3,3-4-1-2,6.0,9.0,15.0,12.0,23.0,2.0,11.0,20.0,16.0,6.0,40.0
+02de3f68,2026-08-01,Inter Miami,Columbus Crew,Home,2.0,2.0,4-3-3,4-4-2,5.0,2.0,7.0,12.0,13.0,4.0,3.0,8.0,13.0,9.0,53.0
+02de3f68,2026-08-01,Columbus Crew,Inter Miami,Away,2.0,2.0,4-4-2,4-3-3,2.0,5.0,7.0,13.0,12.0,3.0,4.0,13.0,8.0,5.0,48.0
+3ccd7c6e,2026-08-01,LA Galaxy,FC Dallas,Home,0.0,0.0,4-3-3,3-1-4-2,6.0,6.0,12.0,18.0,18.0,9.0,4.0,12.0,20.0,11.0,54.0
+3ccd7c6e,2026-08-01,FC Dallas,LA Galaxy,Away,0.0,0.0,3-1-4-2,4-3-3,6.0,6.0,12.0,18.0,18.0,4.0,9.0,20.0,12.0,13.0,46.0
+aa834826,2026-08-01,Minnesota Utd,San Diego FC,Home,1.0,1.0,5-4-1,4-3-3,8.0,4.0,12.0,14.0,13.0,8.0,2.0,20.0,10.0,8.0,33.0
+aa834826,2026-08-01,San Diego FC,Minnesota Utd,Away,1.0,1.0,4-3-3,5-4-1,4.0,8.0,12.0,13.0,14.0,2.0,8.0,10.0,20.0,3.0,68.0
+5886a273,2026-08-01,Philadelphia,Atlanta Utd,Home,3.0,2.0,4-4-2,3-4-3,12.0,2.0,14.0,30.0,4.0,6.0,2.0,50.0,9.0,15.0,71.0
+5886a273,2026-08-01,Atlanta Utd,Philadelphia,Away,2.0,3.0,3-4-3,4-4-2,2.0,12.0,14.0,4.0,30.0,2.0,6.0,9.0,50.0,5.0,29.0
+38a2f175,2026-08-01,Portland Timbers,Seattle Sounders,Home,2.0,1.0,4-1-4-1,4-2-3-1,4.0,5.0,9.0,14.0,16.0,5.0,4.0,25.0,19.0,7.0,53.0
+38a2f175,2026-08-01,Seattle Sounders,Portland Timbers,Away,1.0,2.0,4-2-3-1,4-1-4-1,5.0,4.0,9.0,16.0,14.0,4.0,5.0,19.0,25.0,12.0,47.0
+07d7f6e5,2026-08-01,RB New York,Orlando City,Home,3.0,2.0,4-3-3,4-4-2,5.0,4.0,9.0,18.0,20.0,8.0,7.0,8.0,11.0,10.0,41.0
+07d7f6e5,2026-08-01,Orlando City,RB New York,Away,2.0,3.0,4-4-2,4-3-3,4.0,5.0,9.0,20.0,18.0,7.0,8.0,11.0,8.0,10.0,60.0
+4bf79ff4,2026-08-01,Sporting KC,Houston,Home,0.0,2.0,4-2-3-1,4-2-3-1,2.0,6.0,8.0,6.0,14.0,4.0,4.0,9.0,12.0,10.0,36.0
+4bf79ff4,2026-08-01,Houston,Sporting KC,Away,2.0,0.0,4-2-3-1,4-2-3-1,6.0,2.0,8.0,14.0,6.0,4.0,4.0,12.0,9.0,12.0,64.0
+d1fa955b,2026-08-01,St. Louis City,Real Salt Lake,Home,1.0,1.0,3-4-3,3-4-1-2,9.0,4.0,13.0,20.0,9.0,4.0,3.0,31.0,12.0,12.0,67.0
+d1fa955b,2026-08-01,Real Salt Lake,St. Louis City,Away,1.0,1.0,3-4-1-2,3-4-3,4.0,9.0,13.0,9.0,20.0,3.0,4.0,12.0,31.0,10.0,33.0
+0a75ab41,2026-08-01,Vancouver,LAFC,Home,1.0,1.0,4-2-3-1,4-3-3,11.0,1.0,12.0,20.0,5.0,5.0,1.0,35.0,3.0,14.0,63.0
+0a75ab41,2026-08-01,LAFC,Vancouver,Away,1.0,1.0,4-3-3,4-2-3-1,1.0,11.0,12.0,5.0,20.0,1.0,5.0,3.0,35.0,10.0,37.0
+197ddddb,2026-08-08,NE Revolution,Houston,Home,0.0,2.0,4-3-3,4-2-3-1,9.0,4.0,13.0,9.0,13.0,2.0,7.0,24.0,6.0,10.0,48.0
+197ddddb,2026-08-08,Houston,NE Revolution,Away,2.0,0.0,4-2-3-1,4-3-3,4.0,9.0,13.0,13.0,9.0,7.0,2.0,6.0,24.0,10.0,52.0
+2b5e2a03,2026-08-15,Atlanta Utd,RB New York,Home,2.0,1.0,4-1-4-1,4-3-3,3.0,7.0,10.0,10.0,11.0,3.0,3.0,13.0,12.0,14.0,40.0
+2b5e2a03,2026-08-15,RB New York,Atlanta Utd,Away,1.0,2.0,4-3-3,4-1-4-1,7.0,3.0,10.0,11.0,10.0,3.0,3.0,12.0,13.0,12.0,60.0
+45ae30e4,2026-08-15,CF Montréal,D.C. United,Home,1.0,1.0,4-3-3,4-4-2,5.0,3.0,8.0,20.0,7.0,7.0,2.0,21.0,21.0,10.0,67.0
+45ae30e4,2026-08-15,D.C. United,CF Montréal,Away,1.0,1.0,4-4-2,4-3-3,3.0,5.0,8.0,7.0,20.0,2.0,7.0,21.0,21.0,11.0,33.0
+8ca8a3b6,2026-08-15,Charlotte,Columbus Crew,Home,3.0,1.0,4-1-4-1,4-4-2,1.0,13.0,14.0,9.0,26.0,7.0,4.0,8.0,25.0,9.0,30.0
+8ca8a3b6,2026-08-15,Columbus Crew,Charlotte,Away,1.0,3.0,4-4-2,4-1-4-1,13.0,1.0,14.0,26.0,9.0,4.0,7.0,25.0,8.0,9.0,70.0
+3f013db3,2026-08-15,Colorado Rapids,Sporting KC,Home,2.0,0.0,4-2-3-1,4-4-2,8.0,2.0,10.0,28.0,6.0,3.0,3.0,28.0,7.0,12.0,74.0
+3f013db3,2026-08-15,Sporting KC,Colorado Rapids,Away,0.0,2.0,4-4-2,4-2-3-1,2.0,8.0,10.0,6.0,28.0,3.0,3.0,7.0,28.0,12.0,26.0
+962aa326,2026-08-15,Houston,LA Galaxy,Home,1.0,0.0,4-1-4-1,4-2-3-1,4.0,3.0,7.0,9.0,9.0,2.0,0.0,15.0,10.0,15.0,61.0
+962aa326,2026-08-15,LA Galaxy,Houston,Away,0.0,1.0,4-2-3-1,4-1-4-1,3.0,4.0,7.0,9.0,9.0,0.0,2.0,10.0,15.0,14.0,39.0
+3f1df786,2026-08-15,LAFC,San Diego FC,Home,0.0,1.0,4-3-3,4-3-3,9.0,7.0,16.0,15.0,9.0,3.0,2.0,14.0,15.0,21.0,40.0
+3f1df786,2026-08-15,San Diego FC,LAFC,Away,1.0,0.0,4-3-3,4-3-3,7.0,9.0,16.0,9.0,15.0,2.0,3.0,15.0,14.0,12.0,60.0
+e2983058,2026-08-15,Nashville SC,Inter Miami,Home,4.0,1.0,4-3-3,4-1-3-2,10.0,4.0,14.0,18.0,16.0,8.0,4.0,19.0,10.0,15.0,45.0
+e2983058,2026-08-15,Inter Miami,Nashville SC,Away,1.0,4.0,4-1-3-2,4-3-3,4.0,10.0,14.0,16.0,18.0,4.0,8.0,10.0,19.0,9.0,55.0
+be010593,2026-08-15,Orlando City,FC Cincinnati,Home,1.0,1.0,4-2-3-1,3-4-3,10.0,5.0,15.0,17.0,11.0,5.0,3.0,29.0,17.0,7.0,50.0
+be010593,2026-08-15,FC Cincinnati,Orlando City,Away,1.0,1.0,3-4-3,4-2-3-1,5.0,10.0,15.0,11.0,17.0,3.0,5.0,17.0,29.0,12.0,50.0
+c014cf23,2026-08-15,Real Salt Lake,Minnesota Utd,Home,1.0,1.0,3-4-3,3-4-3,7.0,10.0,17.0,13.0,15.0,7.0,3.0,15.0,17.0,7.0,57.0
+c014cf23,2026-08-15,Minnesota Utd,Real Salt Lake,Away,1.0,1.0,3-4-3,3-4-3,10.0,7.0,17.0,15.0,13.0,3.0,7.0,17.0,15.0,12.0,43.0
+65fa98ca,2026-08-15,SJ Earthquakes,St. Louis City,Home,1.0,3.0,4-2-3-1,3-4-1-2,4.0,5.0,9.0,6.0,14.0,1.0,7.0,18.0,13.0,16.0,52.0
+65fa98ca,2026-08-15,St. Louis City,SJ Earthquakes,Away,3.0,1.0,3-4-1-2,4-2-3-1,5.0,4.0,9.0,14.0,6.0,7.0,1.0,13.0,18.0,17.0,48.0
+fe58089c,2026-08-15,Toronto FC,NE Revolution,Home,2.0,1.0,4-2-3-1,4-3-3,0.0,9.0,9.0,3.0,24.0,1.0,7.0,10.0,36.0,11.0,29.0
+fe58089c,2026-08-15,NE Revolution,Toronto FC,Away,1.0,2.0,4-3-3,4-2-3-1,9.0,0.0,9.0,24.0,3.0,7.0,1.0,36.0,10.0,5.0,71.0
+115ea14d,2026-08-16,Austin FC,FC Dallas,Home,1.0,2.0,3-4-3,3-4-3,7.0,4.0,11.0,9.0,15.0,4.0,6.0,27.0,9.0,12.0,65.0
+115ea14d,2026-08-16,FC Dallas,Austin FC,Away,2.0,1.0,3-4-3,3-4-3,4.0,7.0,11.0,15.0,9.0,6.0,4.0,9.0,27.0,17.0,36.0
+b077cd41,2026-08-16,Chicago Fire,Portland Timbers,Home,2.0,1.0,4-2-3-1,4-3-3,0.0,4.0,4.0,8.0,11.0,4.0,2.0,7.0,18.0,15.0,37.0
+b077cd41,2026-08-16,Portland Timbers,Chicago Fire,Away,1.0,2.0,4-3-3,4-2-3-1,4.0,0.0,4.0,11.0,8.0,2.0,4.0,18.0,7.0,6.0,63.0
+dcc49d03,2026-08-16,NYCFC,Philadelphia,Home,2.0,3.0,4-3-3,4-4-2,8.0,4.0,12.0,16.0,17.0,4.0,5.0,16.0,23.0,15.0,51.0
+dcc49d03,2026-08-16,Philadelphia,NYCFC,Away,3.0,2.0,4-4-2,4-3-3,4.0,8.0,12.0,17.0,16.0,5.0,4.0,23.0,16.0,21.0,49.0
+076b4cec,2026-08-16,Seattle Sounders,Vancouver,Home,0.0,2.0,4-2-3-1,4-2-3-1,1.0,8.0,9.0,5.0,19.0,0.0,6.0,4.0,21.0,16.0,43.0
+076b4cec,2026-08-16,Vancouver,Seattle Sounders,Away,2.0,0.0,4-2-3-1,4-2-3-1,8.0,1.0,9.0,19.0,5.0,6.0,0.0,21.0,4.0,11.0,57.0
+dcda491d,2026-08-19,Colorado Rapids,LAFC,Home,1.0,0.0,4-3-3,4-3-3,4.0,4.0,8.0,13.0,10.0,4.0,2.0,12.0,24.0,13.0,51.0
+dcda491d,2026-08-19,LAFC,Colorado Rapids,Away,0.0,1.0,4-3-3,4-3-3,4.0,4.0,8.0,10.0,13.0,2.0,4.0,24.0,12.0,10.0,49.0
+63429996,2026-08-19,Columbus Crew,CF Montréal,Home,1.0,2.0,4-4-2,4-3-3,5.0,3.0,8.0,6.0,14.0,2.0,7.0,18.0,15.0,7.0,62.0
+63429996,2026-08-19,CF Montréal,Columbus Crew,Away,2.0,1.0,4-3-3,4-4-2,3.0,5.0,8.0,14.0,6.0,7.0,2.0,15.0,18.0,7.0,38.0
+8dba82d7,2026-08-19,D.C. United,NE Revolution,Home,0.0,3.0,4-4-2,4-3-3,4.0,5.0,9.0,15.0,18.0,3.0,7.0,18.0,18.0,15.0,40.0
+8dba82d7,2026-08-19,NE Revolution,D.C. United,Away,3.0,0.0,4-3-3,4-4-2,5.0,4.0,9.0,18.0,15.0,7.0,3.0,18.0,18.0,10.0,60.0
+988a7135,2026-08-19,FC Cincinnati,NYCFC,Home,2.0,1.0,3-5-2,4-2-3-1,2.0,5.0,7.0,14.0,16.0,6.0,8.0,8.0,17.0,10.0,56.0
+988a7135,2026-08-19,NYCFC,FC Cincinnati,Away,1.0,2.0,4-2-3-1,3-5-2,5.0,2.0,7.0,16.0,14.0,8.0,6.0,17.0,8.0,9.0,44.0
+c22d267d,2026-08-19,LA Galaxy,SJ Earthquakes,Home,1.0,0.0,4-2-3-1,4-2-3-1,2.0,5.0,7.0,10.0,22.0,7.0,5.0,7.0,31.0,12.0,37.0
+c22d267d,2026-08-19,SJ Earthquakes,LA Galaxy,Away,0.0,1.0,4-2-3-1,4-2-3-1,5.0,2.0,7.0,22.0,10.0,5.0,7.0,31.0,7.0,17.0,63.0
+8867e37a,2026-08-19,Minnesota Utd,Atlanta Utd,Home,1.0,2.0,3-4-3,4-3-3,6.0,4.0,10.0,13.0,10.0,4.0,3.0,22.0,10.0,13.0,53.0
+8867e37a,2026-08-19,Atlanta Utd,Minnesota Utd,Away,2.0,1.0,4-3-3,3-4-3,4.0,6.0,10.0,10.0,13.0,3.0,4.0,10.0,22.0,13.0,47.0
+acd192d3,2026-08-19,Orlando City,Chicago Fire,Home,1.0,2.0,4-2-3-1,4-3-3,3.0,3.0,6.0,16.0,7.0,5.0,3.0,13.0,9.0,15.0,57.0
+acd192d3,2026-08-19,Chicago Fire,Orlando City,Away,2.0,1.0,4-3-3,4-2-3-1,3.0,3.0,6.0,7.0,16.0,3.0,5.0,9.0,13.0,11.0,43.0
+3f104bf2,2026-08-19,Philadelphia,Inter Miami,Home,2.0,2.0,4-4-2,4-3-3,4.0,1.0,5.0,17.0,5.0,6.0,3.0,25.0,8.0,18.0,43.0
+3f104bf2,2026-08-19,Inter Miami,Philadelphia,Away,2.0,2.0,4-3-3,4-4-2,1.0,4.0,5.0,5.0,17.0,3.0,6.0,8.0,25.0,13.0,57.0
+34efc4a8,2026-08-19,Portland Timbers,San Diego FC,Home,3.0,1.0,4-2-3-1,4-3-3,0.0,7.0,7.0,11.0,21.0,5.0,6.0,6.0,28.0,15.0,30.0
+34efc4a8,2026-08-19,San Diego FC,Portland Timbers,Away,1.0,3.0,4-3-3,4-2-3-1,7.0,0.0,7.0,21.0,11.0,6.0,5.0,28.0,6.0,11.0,70.0
+56941129,2026-08-19,RB New York,Nashville SC,Home,0.0,1.0,4-3-3,4-2-3-1,7.0,10.0,17.0,13.0,11.0,1.0,3.0,17.0,24.0,4.0,54.0
+56941129,2026-08-19,Nashville SC,RB New York,Away,1.0,0.0,4-2-3-1,4-3-3,10.0,7.0,17.0,11.0,13.0,3.0,1.0,24.0,17.0,12.0,46.0
+5359ba9f,2026-08-19,Real Salt Lake,FC Dallas,Home,3.0,4.0,3-4-3,3-4-3,6.0,3.0,9.0,14.0,13.0,7.0,5.0,27.0,6.0,11.0,59.0
+5359ba9f,2026-08-19,FC Dallas,Real Salt Lake,Away,4.0,3.0,3-4-3,3-4-3,3.0,6.0,9.0,13.0,14.0,5.0,7.0,6.0,27.0,13.0,41.0
+247d8ac7,2026-08-19,Seattle Sounders,Austin FC,Home,1.0,2.0,4-2-3-1,3-4-3,7.0,5.0,12.0,19.0,12.0,7.0,7.0,30.0,15.0,10.0,46.0
+247d8ac7,2026-08-19,Austin FC,Seattle Sounders,Away,2.0,1.0,3-4-3,4-2-3-1,5.0,7.0,12.0,12.0,19.0,7.0,7.0,15.0,30.0,9.0,54.0
+9063f234,2026-08-19,Sporting KC,St. Louis City,Home,1.0,1.0,4-4-2,3-4-3,9.0,2.0,11.0,18.0,7.0,3.0,2.0,26.0,5.0,12.0,49.0
+9063f234,2026-08-19,St. Louis City,Sporting KC,Away,1.0,1.0,3-4-3,4-4-2,2.0,9.0,11.0,7.0,18.0,2.0,3.0,5.0,26.0,11.0,52.0
+6fb55b8e,2026-08-19,Toronto FC,Charlotte,Home,3.0,3.0,4-2-3-1,4-3-3,6.0,5.0,11.0,16.0,16.0,6.0,10.0,22.0,22.0,10.0,46.0
+6fb55b8e,2026-08-19,Charlotte,Toronto FC,Away,3.0,3.0,4-3-3,4-2-3-1,5.0,6.0,11.0,16.0,16.0,10.0,6.0,22.0,22.0,10.0,54.0
+7705711d,2026-08-19,Vancouver,Houston,Home,0.0,1.0,4-2-3-1,4-2-3-1,8.0,2.0,10.0,17.0,9.0,1.0,5.0,47.0,4.0,13.0,64.0
+7705711d,2026-08-19,Houston,Vancouver,Away,1.0,0.0,4-2-3-1,4-2-3-1,2.0,8.0,10.0,9.0,17.0,5.0,1.0,4.0,47.0,12.0,37.0
+,2026-08-22,Austin FC,Philadelphia,Home,,,,,,,,,,,,,,,
+,2026-08-22,Philadelphia,Austin FC,Away,,,,,,,,,,,,,,,
+,2026-08-22,CF Montréal,LA Galaxy,Home,,,,,,,,,,,,,,,
+,2026-08-22,LA Galaxy,CF Montréal,Away,,,,,,,,,,,,,,,
+,2026-08-22,Charlotte,D.C. United,Home,,,,,,,,,,,,,,,
+,2026-08-22,D.C. United,Charlotte,Away,,,,,,,,,,,,,,,
+,2026-08-22,FC Cincinnati,Seattle Sounders,Home,,,,,,,,,,,,,,,
+,2026-08-22,Seattle Sounders,FC Cincinnati,Away,,,,,,,,,,,,,,,
+,2026-08-22,Inter Miami,Toronto FC,Home,,,,,,,,,,,,,,,
+,2026-08-22,Toronto FC,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-08-22,LAFC,Portland Timbers,Home,,,,,,,,,,,,,,,
+,2026-08-22,Portland Timbers,LAFC,Away,,,,,,,,,,,,,,,
+,2026-08-22,Nashville SC,Columbus Crew,Home,,,,,,,,,,,,,,,
+,2026-08-22,Columbus Crew,Nashville SC,Away,,,,,,,,,,,,,,,
+,2026-08-22,Orlando City,Real Salt Lake,Home,,,,,,,,,,,,,,,
+,2026-08-22,Real Salt Lake,Orlando City,Away,,,,,,,,,,,,,,,
+,2026-08-22,RB New York,Chicago Fire,Home,,,,,,,,,,,,,,,
+,2026-08-22,Chicago Fire,RB New York,Away,,,,,,,,,,,,,,,
+,2026-08-22,SJ Earthquakes,Minnesota Utd,Home,,,,,,,,,,,,,,,
+,2026-08-22,Minnesota Utd,SJ Earthquakes,Away,,,,,,,,,,,,,,,
+,2026-08-22,San Diego FC,Colorado Rapids,Home,,,,,,,,,,,,,,,
+,2026-08-22,Colorado Rapids,San Diego FC,Away,,,,,,,,,,,,,,,
+,2026-08-22,St. Louis City,Houston,Home,,,,,,,,,,,,,,,
+,2026-08-22,Houston,St. Louis City,Away,,,,,,,,,,,,,,,
+,2026-08-22,Vancouver,FC Dallas,Home,,,,,,,,,,,,,,,
+,2026-08-22,FC Dallas,Vancouver,Away,,,,,,,,,,,,,,,
+,2026-08-23,Atlanta Utd,Sporting KC,Home,,,,,,,,,,,,,,,
+,2026-08-23,Sporting KC,Atlanta Utd,Away,,,,,,,,,,,,,,,
+,2026-08-23,NE Revolution,NYCFC,Home,,,,,,,,,,,,,,,
+,2026-08-23,NYCFC,NE Revolution,Away,,,,,,,,,,,,,,,
+,2026-08-29,Atlanta Utd,Charlotte,Home,,,,,,,,,,,,,,,
+,2026-08-29,Charlotte,Atlanta Utd,Away,,,,,,,,,,,,,,,
+,2026-08-29,Colorado Rapids,Real Salt Lake,Home,,,,,,,,,,,,,,,
+,2026-08-29,Real Salt Lake,Colorado Rapids,Away,,,,,,,,,,,,,,,
+,2026-08-29,Columbus Crew,NE Revolution,Home,,,,,,,,,,,,,,,
+,2026-08-29,NE Revolution,Columbus Crew,Away,,,,,,,,,,,,,,,
+,2026-08-29,D.C. United,LAFC,Home,,,,,,,,,,,,,,,
+,2026-08-29,LAFC,D.C. United,Away,,,,,,,,,,,,,,,
+,2026-08-29,Houston,SJ Earthquakes,Home,,,,,,,,,,,,,,,
+,2026-08-29,SJ Earthquakes,Houston,Away,,,,,,,,,,,,,,,
+,2026-08-29,Inter Miami,CF Montréal,Home,,,,,,,,,,,,,,,
+,2026-08-29,CF Montréal,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-08-29,Minnesota Utd,Orlando City,Home,,,,,,,,,,,,,,,
+,2026-08-29,Orlando City,Minnesota Utd,Away,,,,,,,,,,,,,,,
+,2026-08-29,Nashville SC,FC Cincinnati,Home,,,,,,,,,,,,,,,
+,2026-08-29,FC Cincinnati,Nashville SC,Away,,,,,,,,,,,,,,,
+,2026-08-29,Portland Timbers,Austin FC,Home,,,,,,,,,,,,,,,
+,2026-08-29,Austin FC,Portland Timbers,Away,,,,,,,,,,,,,,,
+,2026-08-29,RB New York,Philadelphia,Home,,,,,,,,,,,,,,,
+,2026-08-29,Philadelphia,RB New York,Away,,,,,,,,,,,,,,,
+,2026-08-29,San Diego FC,LA Galaxy,Home,,,,,,,,,,,,,,,
+,2026-08-29,LA Galaxy,San Diego FC,Away,,,,,,,,,,,,,,,
+,2026-08-29,Seattle Sounders,Chicago Fire,Home,,,,,,,,,,,,,,,
+,2026-08-29,Chicago Fire,Seattle Sounders,Away,,,,,,,,,,,,,,,
+,2026-08-29,Sporting KC,Vancouver,Home,,,,,,,,,,,,,,,
+,2026-08-29,Vancouver,Sporting KC,Away,,,,,,,,,,,,,,,
+,2026-08-29,Toronto FC,NYCFC,Home,,,,,,,,,,,,,,,
+,2026-08-29,NYCFC,Toronto FC,Away,,,,,,,,,,,,,,,
+,2026-08-30,St. Louis City,FC Dallas,Home,,,,,,,,,,,,,,,
+,2026-08-30,FC Dallas,St. Louis City,Away,,,,,,,,,,,,,,,
+,2026-09-04,NYCFC,Nashville SC,Home,,,,,,,,,,,,,,,
+,2026-09-04,Nashville SC,NYCFC,Away,,,,,,,,,,,,,,,
+,2026-09-05,Austin FC,SJ Earthquakes,Home,,,,,,,,,,,,,,,
+,2026-09-05,SJ Earthquakes,Austin FC,Away,,,,,,,,,,,,,,,
+,2026-09-05,Charlotte,Houston,Home,,,,,,,,,,,,,,,
+,2026-09-05,Houston,Charlotte,Away,,,,,,,,,,,,,,,
+,2026-09-05,Columbus Crew,Colorado Rapids,Home,,,,,,,,,,,,,,,
+,2026-09-05,Colorado Rapids,Columbus Crew,Away,,,,,,,,,,,,,,,
+,2026-09-05,FC Cincinnati,D.C. United,Home,,,,,,,,,,,,,,,
+,2026-09-05,D.C. United,FC Cincinnati,Away,,,,,,,,,,,,,,,
+,2026-09-05,FC Dallas,Sporting KC,Home,,,,,,,,,,,,,,,
+,2026-09-05,Sporting KC,FC Dallas,Away,,,,,,,,,,,,,,,
+,2026-09-05,Inter Miami,Atlanta Utd,Home,,,,,,,,,,,,,,,
+,2026-09-05,Atlanta Utd,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-09-05,LA Galaxy,NE Revolution,Home,,,,,,,,,,,,,,,
+,2026-09-05,NE Revolution,LA Galaxy,Away,,,,,,,,,,,,,,,
+,2026-09-05,Orlando City,San Diego FC,Home,,,,,,,,,,,,,,,
+,2026-09-05,San Diego FC,Orlando City,Away,,,,,,,,,,,,,,,
+,2026-09-05,Philadelphia,CF Montréal,Home,,,,,,,,,,,,,,,
+,2026-09-05,CF Montréal,Philadelphia,Away,,,,,,,,,,,,,,,
+,2026-09-05,Portland Timbers,Minnesota Utd,Home,,,,,,,,,,,,,,,
+,2026-09-05,Minnesota Utd,Portland Timbers,Away,,,,,,,,,,,,,,,
+,2026-09-05,Real Salt Lake,LAFC,Home,,,,,,,,,,,,,,,
+,2026-09-05,LAFC,Real Salt Lake,Away,,,,,,,,,,,,,,,
+,2026-09-05,Seattle Sounders,RB New York,Home,,,,,,,,,,,,,,,
+,2026-09-05,RB New York,Seattle Sounders,Away,,,,,,,,,,,,,,,
+,2026-09-05,Toronto FC,Chicago Fire,Home,,,,,,,,,,,,,,,
+,2026-09-05,Chicago Fire,Toronto FC,Away,,,,,,,,,,,,,,,
+,2026-09-05,Vancouver,St. Louis City,Home,,,,,,,,,,,,,,,
+,2026-09-05,St. Louis City,Vancouver,Away,,,,,,,,,,,,,,,
+,2026-09-09,Atlanta Utd,Orlando City,Home,,,,,,,,,,,,,,,
+,2026-09-09,Orlando City,Atlanta Utd,Away,,,,,,,,,,,,,,,
+,2026-09-09,Austin FC,Colorado Rapids,Home,,,,,,,,,,,,,,,
+,2026-09-09,Colorado Rapids,Austin FC,Away,,,,,,,,,,,,,,,
+,2026-09-09,CF Montréal,Charlotte,Home,,,,,,,,,,,,,,,
+,2026-09-09,Charlotte,CF Montréal,Away,,,,,,,,,,,,,,,
+,2026-09-09,Chicago Fire,Inter Miami,Home,,,,,,,,,,,,,,,
+,2026-09-09,Inter Miami,Chicago Fire,Away,,,,,,,,,,,,,,,
+,2026-09-09,D.C. United,Columbus Crew,Home,,,,,,,,,,,,,,,
+,2026-09-09,Columbus Crew,D.C. United,Away,,,,,,,,,,,,,,,
+,2026-09-09,Houston,Real Salt Lake,Home,,,,,,,,,,,,,,,
+,2026-09-09,Real Salt Lake,Houston,Away,,,,,,,,,,,,,,,
+,2026-09-09,LAFC,RB New York,Home,,,,,,,,,,,,,,,
+,2026-09-09,RB New York,LAFC,Away,,,,,,,,,,,,,,,
+,2026-09-09,Minnesota Utd,FC Dallas,Home,,,,,,,,,,,,,,,
+,2026-09-09,FC Dallas,Minnesota Utd,Away,,,,,,,,,,,,,,,
+,2026-09-09,NYCFC,NE Revolution,Home,,,,,,,,,,,,,,,
+,2026-09-09,NE Revolution,NYCFC,Away,,,,,,,,,,,,,,,
+,2026-09-09,Philadelphia,FC Cincinnati,Home,,,,,,,,,,,,,,,
+,2026-09-09,FC Cincinnati,Philadelphia,Away,,,,,,,,,,,,,,,
+,2026-09-09,Portland Timbers,St. Louis City,Home,,,,,,,,,,,,,,,
+,2026-09-09,St. Louis City,Portland Timbers,Away,,,,,,,,,,,,,,,
+,2026-09-09,San Diego FC,SJ Earthquakes,Home,,,,,,,,,,,,,,,
+,2026-09-09,SJ Earthquakes,San Diego FC,Away,,,,,,,,,,,,,,,
+,2026-09-09,Toronto FC,Nashville SC,Home,,,,,,,,,,,,,,,
+,2026-09-09,Nashville SC,Toronto FC,Away,,,,,,,,,,,,,,,
+,2026-09-09,Vancouver,LA Galaxy,Home,,,,,,,,,,,,,,,
+,2026-09-09,LA Galaxy,Vancouver,Away,,,,,,,,,,,,,,,
+,2026-09-12,Colorado Rapids,CF Montréal,Home,,,,,,,,,,,,,,,
+,2026-09-12,CF Montréal,Colorado Rapids,Away,,,,,,,,,,,,,,,
+,2026-09-12,Columbus Crew,RB New York,Home,,,,,,,,,,,,,,,
+,2026-09-12,RB New York,Columbus Crew,Away,,,,,,,,,,,,,,,
+,2026-09-12,D.C. United,Atlanta Utd,Home,,,,,,,,,,,,,,,
+,2026-09-12,Atlanta Utd,D.C. United,Away,,,,,,,,,,,,,,,
+,2026-09-12,FC Cincinnati,Charlotte,Home,,,,,,,,,,,,,,,
+,2026-09-12,Charlotte,FC Cincinnati,Away,,,,,,,,,,,,,,,
+,2026-09-12,FC Dallas,Portland Timbers,Home,,,,,,,,,,,,,,,
+,2026-09-12,Portland Timbers,FC Dallas,Away,,,,,,,,,,,,,,,
+,2026-09-12,Inter Miami,Nashville SC,Home,,,,,,,,,,,,,,,
+,2026-09-12,Nashville SC,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-09-12,LA Galaxy,Seattle Sounders,Home,,,,,,,,,,,,,,,
+,2026-09-12,Seattle Sounders,LA Galaxy,Away,,,,,,,,,,,,,,,
+,2026-09-12,Orlando City,Toronto FC,Home,,,,,,,,,,,,,,,
+,2026-09-12,Toronto FC,Orlando City,Away,,,,,,,,,,,,,,,
+,2026-09-12,Real Salt Lake,NYCFC,Home,,,,,,,,,,,,,,,
+,2026-09-12,NYCFC,Real Salt Lake,Away,,,,,,,,,,,,,,,
+,2026-09-12,SJ Earthquakes,Houston,Home,,,,,,,,,,,,,,,
+,2026-09-12,Houston,SJ Earthquakes,Away,,,,,,,,,,,,,,,
+,2026-09-12,Sporting KC,LAFC,Home,,,,,,,,,,,,,,,
+,2026-09-12,LAFC,Sporting KC,Away,,,,,,,,,,,,,,,
+,2026-09-12,St. Louis City,Minnesota Utd,Home,,,,,,,,,,,,,,,
+,2026-09-12,Minnesota Utd,St. Louis City,Away,,,,,,,,,,,,,,,
+,2026-09-13,Chicago Fire,NE Revolution,Home,,,,,,,,,,,,,,,
+,2026-09-13,NE Revolution,Chicago Fire,Away,,,,,,,,,,,,,,,
+,2026-09-13,San Diego FC,Philadelphia,Home,,,,,,,,,,,,,,,
+,2026-09-13,Philadelphia,San Diego FC,Away,,,,,,,,,,,,,,,
+,2026-09-13,Vancouver,Austin FC,Home,,,,,,,,,,,,,,,
+,2026-09-13,Austin FC,Vancouver,Away,,,,,,,,,,,,,,,
+,2026-09-18,NYCFC,RB New York,Home,,,,,,,,,,,,,,,
+,2026-09-18,RB New York,NYCFC,Away,,,,,,,,,,,,,,,
+,2026-09-19,CF Montréal,Columbus Crew,Home,,,,,,,,,,,,,,,
+,2026-09-19,Columbus Crew,CF Montréal,Away,,,,,,,,,,,,,,,
+,2026-09-19,Colorado Rapids,Seattle Sounders,Home,,,,,,,,,,,,,,,
+,2026-09-19,Seattle Sounders,Colorado Rapids,Away,,,,,,,,,,,,,,,
+,2026-09-19,D.C. United,Charlotte,Home,,,,,,,,,,,,,,,
+,2026-09-19,Charlotte,D.C. United,Away,,,,,,,,,,,,,,,
+,2026-09-19,FC Dallas,Austin FC,Home,,,,,,,,,,,,,,,
+,2026-09-19,Austin FC,FC Dallas,Away,,,,,,,,,,,,,,,
+,2026-09-19,Houston,FC Cincinnati,Home,,,,,,,,,,,,,,,
+,2026-09-19,FC Cincinnati,Houston,Away,,,,,,,,,,,,,,,
+,2026-09-19,Minnesota Utd,LA Galaxy,Home,,,,,,,,,,,,,,,
+,2026-09-19,LA Galaxy,Minnesota Utd,Away,,,,,,,,,,,,,,,
+,2026-09-19,NE Revolution,Orlando City,Home,,,,,,,,,,,,,,,
+,2026-09-19,Orlando City,NE Revolution,Away,,,,,,,,,,,,,,,
+,2026-09-19,Nashville SC,Chicago Fire,Home,,,,,,,,,,,,,,,
+,2026-09-19,Chicago Fire,Nashville SC,Away,,,,,,,,,,,,,,,
+,2026-09-19,Portland Timbers,Atlanta Utd,Home,,,,,,,,,,,,,,,
+,2026-09-19,Atlanta Utd,Portland Timbers,Away,,,,,,,,,,,,,,,
+,2026-09-19,Real Salt Lake,Vancouver,Home,,,,,,,,,,,,,,,
+,2026-09-19,Vancouver,Real Salt Lake,Away,,,,,,,,,,,,,,,
+,2026-09-19,SJ Earthquakes,LAFC,Home,,,,,,,,,,,,,,,
+,2026-09-19,LAFC,SJ Earthquakes,Away,,,,,,,,,,,,,,,
+,2026-09-19,Sporting KC,Philadelphia,Home,,,,,,,,,,,,,,,
+,2026-09-19,Philadelphia,Sporting KC,Away,,,,,,,,,,,,,,,
+,2026-09-19,St. Louis City,Toronto FC,Home,,,,,,,,,,,,,,,
+,2026-09-19,Toronto FC,St. Louis City,Away,,,,,,,,,,,,,,,
+,2026-09-20,Inter Miami,San Diego FC,Home,,,,,,,,,,,,,,,
+,2026-09-20,San Diego FC,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-09-23,Seattle Sounders,Real Salt Lake,Home,,,,,,,,,,,,,,,
+,2026-09-23,Real Salt Lake,Seattle Sounders,Away,,,,,,,,,,,,,,,
+,2026-09-26,Atlanta Utd,NYCFC,Home,,,,,,,,,,,,,,,
+,2026-09-26,NYCFC,Atlanta Utd,Away,,,,,,,,,,,,,,,
+,2026-09-26,Austin FC,San Diego FC,Home,,,,,,,,,,,,,,,
+,2026-09-26,San Diego FC,Austin FC,Away,,,,,,,,,,,,,,,
+,2026-09-26,CF Montréal,FC Cincinnati,Home,,,,,,,,,,,,,,,
+,2026-09-26,FC Cincinnati,CF Montréal,Away,,,,,,,,,,,,,,,
+,2026-09-26,Charlotte,Chicago Fire,Home,,,,,,,,,,,,,,,
+,2026-09-26,Chicago Fire,Charlotte,Away,,,,,,,,,,,,,,,
+,2026-09-26,FC Dallas,LAFC,Home,,,,,,,,,,,,,,,
+,2026-09-26,LAFC,FC Dallas,Away,,,,,,,,,,,,,,,
+,2026-09-26,Houston,Sporting KC,Home,,,,,,,,,,,,,,,
+,2026-09-26,Sporting KC,Houston,Away,,,,,,,,,,,,,,,
+,2026-09-26,LA Galaxy,Colorado Rapids,Home,,,,,,,,,,,,,,,
+,2026-09-26,Colorado Rapids,LA Galaxy,Away,,,,,,,,,,,,,,,
+,2026-09-26,Nashville SC,Toronto FC,Home,,,,,,,,,,,,,,,
+,2026-09-26,Toronto FC,Nashville SC,Away,,,,,,,,,,,,,,,
+,2026-09-26,Philadelphia,Orlando City,Home,,,,,,,,,,,,,,,
+,2026-09-26,Orlando City,Philadelphia,Away,,,,,,,,,,,,,,,
+,2026-09-26,RB New York,St. Louis City,Home,,,,,,,,,,,,,,,
+,2026-09-26,St. Louis City,RB New York,Away,,,,,,,,,,,,,,,
+,2026-09-26,Real Salt Lake,NE Revolution,Home,,,,,,,,,,,,,,,
+,2026-09-26,NE Revolution,Real Salt Lake,Away,,,,,,,,,,,,,,,
+,2026-09-26,SJ Earthquakes,Portland Timbers,Home,,,,,,,,,,,,,,,
+,2026-09-26,Portland Timbers,SJ Earthquakes,Away,,,,,,,,,,,,,,,
+,2026-09-26,Seattle Sounders,Minnesota Utd,Home,,,,,,,,,,,,,,,
+,2026-09-26,Minnesota Utd,Seattle Sounders,Away,,,,,,,,,,,,,,,
+,2026-09-26,Vancouver,D.C. United,Home,,,,,,,,,,,,,,,
+,2026-09-26,D.C. United,Vancouver,Away,,,,,,,,,,,,,,,
+,2026-09-27,Columbus Crew,Inter Miami,Home,,,,,,,,,,,,,,,
+,2026-09-27,Inter Miami,Columbus Crew,Away,,,,,,,,,,,,,,,
+,2026-10-01,Seattle Sounders,Sporting KC,Home,,,,,,,,,,,,,,,
+,2026-10-01,Sporting KC,Seattle Sounders,Away,,,,,,,,,,,,,,,
+,2026-10-06,Chicago Fire,Vancouver,Home,,,,,,,,,,,,,,,
+,2026-10-06,Vancouver,Chicago Fire,Away,,,,,,,,,,,,,,,
+,2026-10-10,Atlanta Utd,FC Cincinnati,Home,,,,,,,,,,,,,,,
+,2026-10-10,FC Cincinnati,Atlanta Utd,Away,,,,,,,,,,,,,,,
+,2026-10-10,Austin FC,Nashville SC,Home,,,,,,,,,,,,,,,
+,2026-10-10,Nashville SC,Austin FC,Away,,,,,,,,,,,,,,,
+,2026-10-10,Charlotte,FC Dallas,Home,,,,,,,,,,,,,,,
+,2026-10-10,FC Dallas,Charlotte,Away,,,,,,,,,,,,,,,
+,2026-10-10,Chicago Fire,NYCFC,Home,,,,,,,,,,,,,,,
+,2026-10-10,NYCFC,Chicago Fire,Away,,,,,,,,,,,,,,,
+,2026-10-10,Colorado Rapids,SJ Earthquakes,Home,,,,,,,,,,,,,,,
+,2026-10-10,SJ Earthquakes,Colorado Rapids,Away,,,,,,,,,,,,,,,
+,2026-10-10,Inter Miami,D.C. United,Home,,,,,,,,,,,,,,,
+,2026-10-10,D.C. United,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-10-10,LAFC,Vancouver,Home,,,,,,,,,,,,,,,
+,2026-10-10,Vancouver,LAFC,Away,,,,,,,,,,,,,,,
+,2026-10-10,Minnesota Utd,Houston,Home,,,,,,,,,,,,,,,
+,2026-10-10,Houston,Minnesota Utd,Away,,,,,,,,,,,,,,,
+,2026-10-10,NE Revolution,Seattle Sounders,Home,,,,,,,,,,,,,,,
+,2026-10-10,Seattle Sounders,NE Revolution,Away,,,,,,,,,,,,,,,
+,2026-10-10,Orlando City,Columbus Crew,Home,,,,,,,,,,,,,,,
+,2026-10-10,Columbus Crew,Orlando City,Away,,,,,,,,,,,,,,,
+,2026-10-10,Philadelphia,Real Salt Lake,Home,,,,,,,,,,,,,,,
+,2026-10-10,Real Salt Lake,Philadelphia,Away,,,,,,,,,,,,,,,
+,2026-10-10,RB New York,San Diego FC,Home,,,,,,,,,,,,,,,
+,2026-10-10,San Diego FC,RB New York,Away,,,,,,,,,,,,,,,
+,2026-10-10,Sporting KC,Portland Timbers,Home,,,,,,,,,,,,,,,
+,2026-10-10,Portland Timbers,Sporting KC,Away,,,,,,,,,,,,,,,
+,2026-10-10,Toronto FC,CF Montréal,Home,,,,,,,,,,,,,,,
+,2026-10-10,CF Montréal,Toronto FC,Away,,,,,,,,,,,,,,,
+,2026-10-11,St. Louis City,LA Galaxy,Home,,,,,,,,,,,,,,,
+,2026-10-11,LA Galaxy,St. Louis City,Away,,,,,,,,,,,,,,,
+,2026-10-14,CF Montréal,Atlanta Utd,Home,,,,,,,,,,,,,,,
+,2026-10-14,Atlanta Utd,CF Montréal,Away,,,,,,,,,,,,,,,
+,2026-10-14,Chicago Fire,Philadelphia,Home,,,,,,,,,,,,,,,
+,2026-10-14,Philadelphia,Chicago Fire,Away,,,,,,,,,,,,,,,
+,2026-10-14,Colorado Rapids,Minnesota Utd,Home,,,,,,,,,,,,,,,
+,2026-10-14,Minnesota Utd,Colorado Rapids,Away,,,,,,,,,,,,,,,
+,2026-10-14,Columbus Crew,Charlotte,Home,,,,,,,,,,,,,,,
+,2026-10-14,Charlotte,Columbus Crew,Away,,,,,,,,,,,,,,,
+,2026-10-14,D.C. United,RB New York,Home,,,,,,,,,,,,,,,
+,2026-10-14,RB New York,D.C. United,Away,,,,,,,,,,,,,,,
+,2026-10-14,FC Cincinnati,NE Revolution,Home,,,,,,,,,,,,,,,
+,2026-10-14,NE Revolution,FC Cincinnati,Away,,,,,,,,,,,,,,,
+,2026-10-14,FC Dallas,Seattle Sounders,Home,,,,,,,,,,,,,,,
+,2026-10-14,Seattle Sounders,FC Dallas,Away,,,,,,,,,,,,,,,
+,2026-10-14,Inter Miami,NYCFC,Home,,,,,,,,,,,,,,,
+,2026-10-14,NYCFC,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-10-14,LA Galaxy,Portland Timbers,Home,,,,,,,,,,,,,,,
+,2026-10-14,Portland Timbers,LA Galaxy,Away,,,,,,,,,,,,,,,
+,2026-10-14,LAFC,Austin FC,Home,,,,,,,,,,,,,,,
+,2026-10-14,Austin FC,LAFC,Away,,,,,,,,,,,,,,,
+,2026-10-14,Nashville SC,Sporting KC,Home,,,,,,,,,,,,,,,
+,2026-10-14,Sporting KC,Nashville SC,Away,,,,,,,,,,,,,,,
+,2026-10-14,Real Salt Lake,SJ Earthquakes,Home,,,,,,,,,,,,,,,
+,2026-10-14,SJ Earthquakes,Real Salt Lake,Away,,,,,,,,,,,,,,,
+,2026-10-14,San Diego FC,Houston,Home,,,,,,,,,,,,,,,
+,2026-10-14,Houston,San Diego FC,Away,,,,,,,,,,,,,,,
+,2026-10-14,St. Louis City,Vancouver,Home,,,,,,,,,,,,,,,
+,2026-10-14,Vancouver,St. Louis City,Away,,,,,,,,,,,,,,,
+,2026-10-14,Toronto FC,Orlando City,Home,,,,,,,,,,,,,,,
+,2026-10-14,Orlando City,Toronto FC,Away,,,,,,,,,,,,,,,
+,2026-10-17,Atlanta Utd,Inter Miami,Home,,,,,,,,,,,,,,,
+,2026-10-17,Inter Miami,Atlanta Utd,Away,,,,,,,,,,,,,,,
+,2026-10-17,Austin FC,Vancouver,Home,,,,,,,,,,,,,,,
+,2026-10-17,Vancouver,Austin FC,Away,,,,,,,,,,,,,,,
+,2026-10-17,Houston,FC Dallas,Home,,,,,,,,,,,,,,,
+,2026-10-17,FC Dallas,Houston,Away,,,,,,,,,,,,,,,
+,2026-10-17,LA Galaxy,San Diego FC,Home,,,,,,,,,,,,,,,
+,2026-10-17,San Diego FC,LA Galaxy,Away,,,,,,,,,,,,,,,
+,2026-10-17,Minnesota Utd,St. Louis City,Home,,,,,,,,,,,,,,,
+,2026-10-17,St. Louis City,Minnesota Utd,Away,,,,,,,,,,,,,,,
+,2026-10-17,NE Revolution,Chicago Fire,Home,,,,,,,,,,,,,,,
+,2026-10-17,Chicago Fire,NE Revolution,Away,,,,,,,,,,,,,,,
+,2026-10-17,Orlando City,D.C. United,Home,,,,,,,,,,,,,,,
+,2026-10-17,D.C. United,Orlando City,Away,,,,,,,,,,,,,,,
+,2026-10-17,Philadelphia,Charlotte,Home,,,,,,,,,,,,,,,
+,2026-10-17,Charlotte,Philadelphia,Away,,,,,,,,,,,,,,,
+,2026-10-17,Portland Timbers,Colorado Rapids,Home,,,,,,,,,,,,,,,
+,2026-10-17,Colorado Rapids,Portland Timbers,Away,,,,,,,,,,,,,,,
+,2026-10-17,RB New York,Toronto FC,Home,,,,,,,,,,,,,,,
+,2026-10-17,Toronto FC,RB New York,Away,,,,,,,,,,,,,,,
+,2026-10-17,SJ Earthquakes,Nashville SC,Home,,,,,,,,,,,,,,,
+,2026-10-17,Nashville SC,SJ Earthquakes,Away,,,,,,,,,,,,,,,
+,2026-10-17,Seattle Sounders,CF Montréal,Home,,,,,,,,,,,,,,,
+,2026-10-17,CF Montréal,Seattle Sounders,Away,,,,,,,,,,,,,,,
+,2026-10-17,Sporting KC,Real Salt Lake,Home,,,,,,,,,,,,,,,
+,2026-10-17,Real Salt Lake,Sporting KC,Away,,,,,,,,,,,,,,,
+,2026-10-18,FC Cincinnati,Columbus Crew,Home,,,,,,,,,,,,,,,
+,2026-10-18,Columbus Crew,FC Cincinnati,Away,,,,,,,,,,,,,,,
+,2026-10-24,Atlanta Utd,Chicago Fire,Home,,,,,,,,,,,,,,,
+,2026-10-24,Chicago Fire,Atlanta Utd,Away,,,,,,,,,,,,,,,
+,2026-10-24,CF Montréal,Nashville SC,Home,,,,,,,,,,,,,,,
+,2026-10-24,Nashville SC,CF Montréal,Away,,,,,,,,,,,,,,,
+,2026-10-24,Colorado Rapids,Vancouver,Home,,,,,,,,,,,,,,,
+,2026-10-24,Vancouver,Colorado Rapids,Away,,,,,,,,,,,,,,,
+,2026-10-24,Columbus Crew,Toronto FC,Home,,,,,,,,,,,,,,,
+,2026-10-24,Toronto FC,Columbus Crew,Away,,,,,,,,,,,,,,,
+,2026-10-24,D.C. United,FC Cincinnati,Home,,,,,,,,,,,,,,,
+,2026-10-24,FC Cincinnati,D.C. United,Away,,,,,,,,,,,,,,,
+,2026-10-24,FC Dallas,SJ Earthquakes,Home,,,,,,,,,,,,,,,
+,2026-10-24,SJ Earthquakes,FC Dallas,Away,,,,,,,,,,,,,,,
+,2026-10-24,Houston,Minnesota Utd,Home,,,,,,,,,,,,,,,
+,2026-10-24,Minnesota Utd,Houston,Away,,,,,,,,,,,,,,,
+,2026-10-24,Orlando City,NYCFC,Home,,,,,,,,,,,,,,,
+,2026-10-24,NYCFC,Orlando City,Away,,,,,,,,,,,,,,,
+,2026-10-24,Philadelphia,NE Revolution,Home,,,,,,,,,,,,,,,
+,2026-10-24,NE Revolution,Philadelphia,Away,,,,,,,,,,,,,,,
+,2026-10-24,Portland Timbers,Charlotte,Home,,,,,,,,,,,,,,,
+,2026-10-24,Charlotte,Portland Timbers,Away,,,,,,,,,,,,,,,
+,2026-10-24,RB New York,Inter Miami,Home,,,,,,,,,,,,,,,
+,2026-10-24,Inter Miami,RB New York,Away,,,,,,,,,,,,,,,
+,2026-10-24,Real Salt Lake,St. Louis City,Home,,,,,,,,,,,,,,,
+,2026-10-24,St. Louis City,Real Salt Lake,Away,,,,,,,,,,,,,,,
+,2026-10-24,San Diego FC,Seattle Sounders,Home,,,,,,,,,,,,,,,
+,2026-10-24,Seattle Sounders,San Diego FC,Away,,,,,,,,,,,,,,,
+,2026-10-24,Sporting KC,Austin FC,Home,,,,,,,,,,,,,,,
+,2026-10-24,Austin FC,Sporting KC,Away,,,,,,,,,,,,,,,
+,2026-10-25,LAFC,LA Galaxy,Home,,,,,,,,,,,,,,,
+,2026-10-25,LA Galaxy,LAFC,Away,,,,,,,,,,,,,,,
+,2026-10-28,Austin FC,Real Salt Lake,Home,,,,,,,,,,,,,,,
+,2026-10-28,Real Salt Lake,Austin FC,Away,,,,,,,,,,,,,,,
+,2026-10-28,Charlotte,CF Montréal,Home,,,,,,,,,,,,,,,
+,2026-10-28,CF Montréal,Charlotte,Away,,,,,,,,,,,,,,,
+,2026-10-28,Chicago Fire,Orlando City,Home,,,,,,,,,,,,,,,
+,2026-10-28,Orlando City,Chicago Fire,Away,,,,,,,,,,,,,,,
+,2026-10-28,FC Dallas,Columbus Crew,Home,,,,,,,,,,,,,,,
+,2026-10-28,Columbus Crew,FC Dallas,Away,,,,,,,,,,,,,,,
+,2026-10-28,Inter Miami,FC Cincinnati,Home,,,,,,,,,,,,,,,
+,2026-10-28,FC Cincinnati,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-10-28,Minnesota Utd,Sporting KC,Home,,,,,,,,,,,,,,,
+,2026-10-28,Sporting KC,Minnesota Utd,Away,,,,,,,,,,,,,,,
+,2026-10-28,NE Revolution,RB New York,Home,,,,,,,,,,,,,,,
+,2026-10-28,RB New York,NE Revolution,Away,,,,,,,,,,,,,,,
+,2026-10-28,NYCFC,Atlanta Utd,Home,,,,,,,,,,,,,,,
+,2026-10-28,Atlanta Utd,NYCFC,Away,,,,,,,,,,,,,,,
+,2026-10-28,Nashville SC,Philadelphia,Home,,,,,,,,,,,,,,,
+,2026-10-28,Philadelphia,Nashville SC,Away,,,,,,,,,,,,,,,
+,2026-10-28,SJ Earthquakes,Colorado Rapids,Home,,,,,,,,,,,,,,,
+,2026-10-28,Colorado Rapids,SJ Earthquakes,Away,,,,,,,,,,,,,,,
+,2026-10-28,Seattle Sounders,Houston,Home,,,,,,,,,,,,,,,
+,2026-10-28,Houston,Seattle Sounders,Away,,,,,,,,,,,,,,,
+,2026-10-28,St. Louis City,Portland Timbers,Home,,,,,,,,,,,,,,,
+,2026-10-28,Portland Timbers,St. Louis City,Away,,,,,,,,,,,,,,,
+,2026-10-28,Toronto FC,D.C. United,Home,,,,,,,,,,,,,,,
+,2026-10-28,D.C. United,Toronto FC,Away,,,,,,,,,,,,,,,
+,2026-10-28,Vancouver,San Diego FC,Home,,,,,,,,,,,,,,,
+,2026-10-28,San Diego FC,Vancouver,Away,,,,,,,,,,,,,,,
+,2026-10-31,Charlotte,Orlando City,Home,,,,,,,,,,,,,,,
+,2026-10-31,Orlando City,Charlotte,Away,,,,,,,,,,,,,,,
+,2026-10-31,Colorado Rapids,Chicago Fire,Home,,,,,,,,,,,,,,,
+,2026-10-31,Chicago Fire,Colorado Rapids,Away,,,,,,,,,,,,,,,
+,2026-10-31,Columbus Crew,D.C. United,Home,,,,,,,,,,,,,,,
+,2026-10-31,D.C. United,Columbus Crew,Away,,,,,,,,,,,,,,,
+,2026-10-31,FC Cincinnati,Philadelphia,Home,,,,,,,,,,,,,,,
+,2026-10-31,Philadelphia,FC Cincinnati,Away,,,,,,,,,,,,,,,
+,2026-10-31,LA Galaxy,Austin FC,Home,,,,,,,,,,,,,,,
+,2026-10-31,Austin FC,LA Galaxy,Away,,,,,,,,,,,,,,,
+,2026-10-31,Sporting KC,FC Dallas,Home,,,,,,,,,,,,,,,
+,2026-10-31,FC Dallas,Sporting KC,Away,,,,,,,,,,,,,,,
+,2026-11-01,Atlanta Utd,Toronto FC,Home,,,,,,,,,,,,,,,
+,2026-11-01,Toronto FC,Atlanta Utd,Away,,,,,,,,,,,,,,,
+,2026-11-01,LAFC,Minnesota Utd,Home,,,,,,,,,,,,,,,
+,2026-11-01,Minnesota Utd,LAFC,Away,,,,,,,,,,,,,,,
+,2026-11-01,NE Revolution,Inter Miami,Home,,,,,,,,,,,,,,,
+,2026-11-01,Inter Miami,NE Revolution,Away,,,,,,,,,,,,,,,
+,2026-11-01,NYCFC,CF Montréal,Home,,,,,,,,,,,,,,,
+,2026-11-01,CF Montréal,NYCFC,Away,,,,,,,,,,,,,,,
+,2026-11-01,Nashville SC,RB New York,Home,,,,,,,,,,,,,,,
+,2026-11-01,RB New York,Nashville SC,Away,,,,,,,,,,,,,,,
+,2026-11-01,Portland Timbers,Houston,Home,,,,,,,,,,,,,,,
+,2026-11-01,Houston,Portland Timbers,Away,,,,,,,,,,,,,,,
+,2026-11-01,SJ Earthquakes,Real Salt Lake,Home,,,,,,,,,,,,,,,
+,2026-11-01,Real Salt Lake,SJ Earthquakes,Away,,,,,,,,,,,,,,,
+,2026-11-01,St. Louis City,San Diego FC,Home,,,,,,,,,,,,,,,
+,2026-11-01,San Diego FC,St. Louis City,Away,,,,,,,,,,,,,,,
+,2026-11-01,Vancouver,Seattle Sounders,Home,,,,,,,,,,,,,,,
+,2026-11-01,Seattle Sounders,Vancouver,Away,,,,,,,,,,,,,,,
+,2026-11-04,NYCFC,LAFC,Home,,,,,,,,,,,,,,,
+,2026-11-04,LAFC,NYCFC,Away,,,,,,,,,,,,,,,
+,2026-11-07,Austin FC,Portland Timbers,Home,,,,,,,,,,,,,,,
+,2026-11-07,Portland Timbers,Austin FC,Away,,,,,,,,,,,,,,,
+,2026-11-07,CF Montréal,Vancouver,Home,,,,,,,,,,,,,,,
+,2026-11-07,Vancouver,CF Montréal,Away,,,,,,,,,,,,,,,
+,2026-11-07,Chicago Fire,Columbus Crew,Home,,,,,,,,,,,,,,,
+,2026-11-07,Columbus Crew,Chicago Fire,Away,,,,,,,,,,,,,,,
+,2026-11-07,D.C. United,NYCFC,Home,,,,,,,,,,,,,,,
+,2026-11-07,NYCFC,D.C. United,Away,,,,,,,,,,,,,,,
+,2026-11-07,FC Cincinnati,Nashville SC,Home,,,,,,,,,,,,,,,
+,2026-11-07,Nashville SC,FC Cincinnati,Away,,,,,,,,,,,,,,,
+,2026-11-07,FC Dallas,Colorado Rapids,Home,,,,,,,,,,,,,,,
+,2026-11-07,Colorado Rapids,FC Dallas,Away,,,,,,,,,,,,,,,
+,2026-11-07,Houston,St. Louis City,Home,,,,,,,,,,,,,,,
+,2026-11-07,St. Louis City,Houston,Away,,,,,,,,,,,,,,,
+,2026-11-07,Inter Miami,Charlotte,Home,,,,,,,,,,,,,,,
+,2026-11-07,Charlotte,Inter Miami,Away,,,,,,,,,,,,,,,
+,2026-11-07,Minnesota Utd,SJ Earthquakes,Home,,,,,,,,,,,,,,,
+,2026-11-07,SJ Earthquakes,Minnesota Utd,Away,,,,,,,,,,,,,,,
+,2026-11-07,Orlando City,NE Revolution,Home,,,,,,,,,,,,,,,
+,2026-11-07,NE Revolution,Orlando City,Away,,,,,,,,,,,,,,,
+,2026-11-07,Philadelphia,Toronto FC,Home,,,,,,,,,,,,,,,
+,2026-11-07,Toronto FC,Philadelphia,Away,,,,,,,,,,,,,,,
+,2026-11-07,RB New York,Atlanta Utd,Home,,,,,,,,,,,,,,,
+,2026-11-07,Atlanta Utd,RB New York,Away,,,,,,,,,,,,,,,
+,2026-11-07,Real Salt Lake,LA Galaxy,Home,,,,,,,,,,,,,,,
+,2026-11-07,LA Galaxy,Real Salt Lake,Away,,,,,,,,,,,,,,,
+,2026-11-07,San Diego FC,Sporting KC,Home,,,,,,,,,,,,,,,
+,2026-11-07,Sporting KC,San Diego FC,Away,,,,,,,,,,,,,,,
+,2026-11-07,Seattle Sounders,LAFC,Home,,,,,,,,,,,,,,,
+,2026-11-07,LAFC,Seattle Sounders,Away,,,,,,,,,,,,,,,

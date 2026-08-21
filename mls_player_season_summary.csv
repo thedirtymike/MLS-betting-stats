@@ -1,0 +1,623 @@
+Player,Team,Pos,GP,Total_Minutes,Avg_Min_Per_Game,Total_Shots,Total_SoT,Total_Goals,Total_xG,Shots_per_90,SoT_per_90,L5_SoT_per_90,SoT_Accuracy_%
+Petar Musa,FC Dallas,Unknown,5,0.0,0.0,18,11,4,0.0,0.0,0.0,0.0,61.1
+Milan Iloski,Philadelphia Union,Unknown,5,0.0,0.0,24,10,3,0.0,0.0,0.0,0.0,41.7
+Hennadii Synchuk,CF Montréal,Unknown,5,0.0,0.0,15,8,0,0.0,0.0,0.0,0.0,53.3
+Miguel Almirón,Atlanta United,Unknown,5,0.0,0.0,16,8,3,0.0,0.0,0.0,0.0,50.0
+Evander,FC Cincinnati,Unknown,5,0.0,0.0,21,8,3,0.0,0.0,0.0,0.0,38.1
+Simon Becher,St. Louis City,Unknown,5,0.0,0.0,18,8,3,0.0,0.0,0.0,0.0,44.4
+Joseph Paintsil,LA Galaxy,Unknown,5,0.0,0.0,15,8,2,0.0,0.0,0.0,0.0,53.3
+Mateusz Bogusz,Houston Dynamo,Unknown,5,0.0,0.0,11,7,2,0.0,0.0,0.0,0.0,63.6
+Mamadou Dieng,Minnesota United,Unknown,5,0.0,0.0,9,7,0,0.0,0.0,0.0,0.0,77.8
+Justin Ellis,Orlando City,Unknown,5,0.0,0.0,15,7,0,0.0,0.0,0.0,0.0,46.7
+Louis Munteanu,D.C. United,Unknown,5,0.0,0.0,14,7,0,0.0,0.0,0.0,0.0,50.0
+Rafael Navarro,Colorado Rapids,Unknown,5,0.0,0.0,20,7,2,0.0,0.0,0.0,0.0,35.0
+Prince Owusu,CF Montréal,Unknown,5,0.0,0.0,16,7,3,0.0,0.0,0.0,0.0,43.8
+Guilherme,Houston Dynamo,Unknown,6,0.0,0.0,19,7,4,0.0,0.0,0.0,0.0,36.8
+Tyrese Spicer,Orlando City,Unknown,5,0.0,0.0,13,7,3,0.0,0.0,0.0,0.0,53.8
+Brandon Vazquez,Austin FC,Unknown,5,0.0,0.0,12,7,0,0.0,0.0,0.0,0.0,58.3
+Peyton Miller,New England Revolution,Unknown,6,0.0,0.0,13,6,1,0.0,0.0,0.0,0.0,46.2
+Dor Turgeman,New England Revolution,Unknown,6,0.0,0.0,14,6,2,0.0,0.0,0.0,0.0,42.9
+Anders Dreyer,San Diego FC,Unknown,4,0.0,0.0,15,6,2,0.0,0.0,0.0,0.0,40.0
+Luis Suárez,Inter Miami,Unknown,5,0.0,0.0,10,6,4,0.0,0.0,0.0,0.0,60.0
+Dániel Sallói,Toronto FC,Unknown,5,0.0,0.0,12,6,1,0.0,0.0,0.0,0.0,50.0
+Tai Baribo,D.C. United,Unknown,5,0.0,0.0,13,6,4,0.0,0.0,0.0,0.0,46.2
+Son Heung-min,Los Angeles FC,Unknown,5,0.0,0.0,16,6,3,0.0,0.0,0.0,0.0,37.5
+Kévin Denkey,FC Cincinnati,Unknown,5,0.0,0.0,10,6,2,0.0,0.0,0.0,0.0,60.0
+Pep Biel,Charlotte FC,Unknown,5,0.0,0.0,15,6,3,0.0,0.0,0.0,0.0,40.0
+Cavan Sullivan,Philadelphia Union,Unknown,5,0.0,0.0,21,6,0,0.0,0.0,0.0,0.0,28.6
+Carles Gil,New England Revolution,Unknown,6,0.0,0.0,17,6,2,0.0,0.0,0.0,0.0,35.3
+Kristoffer Velde,Portland Timbers,Unknown,5,0.0,0.0,18,6,1,0.0,0.0,0.0,0.0,33.3
+Thomas Müller,Vancouver Whitecaps,Unknown,4,0.0,0.0,11,6,2,0.0,0.0,0.0,0.0,54.5
+Bruno Damiani,Philadelphia Union,Unknown,5,0.0,0.0,10,6,2,0.0,0.0,0.0,0.0,60.0
+Emil Forsberg,Red Bull New York,Unknown,5,0.0,0.0,12,6,2,0.0,0.0,0.0,0.0,50.0
+Julian Hall,Red Bull New York,Unknown,5,0.0,0.0,13,5,0,0.0,0.0,0.0,0.0,38.5
+Tomás Chancalay,Minnesota United,Unknown,5,0.0,0.0,15,5,1,0.0,0.0,0.0,0.0,33.3
+Timo Werner,San Jose Earthquakes,Unknown,5,0.0,0.0,7,5,1,0.0,0.0,0.0,0.0,71.4
+Anthony Markanich,Minnesota United,Unknown,5,0.0,0.0,12,5,1,0.0,0.0,0.0,0.0,41.7
+Dejan Joveljić,Sporting Kansas City,Unknown,5,0.0,0.0,11,5,1,0.0,0.0,0.0,0.0,45.5
+Idan Markovich,Charlotte FC,Unknown,5,0.0,0.0,11,5,1,0.0,0.0,0.0,0.0,45.5
+Marcel Hartel,St. Louis City,Unknown,3,0.0,0.0,13,5,2,0.0,0.0,0.0,0.0,38.5
+Luighi,New York City FC,Unknown,2,0.0,0.0,6,5,2,0.0,0.0,0.0,0.0,83.3
+Robert Lewandowski,Chicago Fire,Unknown,5,0.0,0.0,13,5,3,0.0,0.0,0.0,0.0,38.5
+Puso Dithejane,Chicago Fire,Unknown,5,0.0,0.0,7,5,2,0.0,0.0,0.0,0.0,71.4
+Andrés Perea,New York City FC,Unknown,5,0.0,0.0,7,4,0,0.0,0.0,0.0,0.0,57.1
+Ryan Gauld,Vancouver Whitecaps,Unknown,5,0.0,0.0,10,4,2,0.0,0.0,0.0,0.0,40.0
+Héctor Herrera,Houston Dynamo,Unknown,6,0.0,0.0,7,4,1,0.0,0.0,0.0,0.0,57.1
+Talles Magno,New York City FC,Unknown,5,0.0,0.0,9,4,0,0.0,0.0,0.0,0.0,44.4
+Taha Habroune,Columbus Crew,Unknown,5,0.0,0.0,11,4,0,0.0,0.0,0.0,0.0,36.4
+Cade Cowell,Red Bull New York,Unknown,5,0.0,0.0,8,4,1,0.0,0.0,0.0,0.0,50.0
+Neil Pierre,Philadelphia Union,Unknown,5,0.0,0.0,11,4,3,0.0,0.0,0.0,0.0,36.4
+Nicolás Fernández,New York City FC,Unknown,4,0.0,0.0,9,4,3,0.0,0.0,0.0,0.0,44.4
+Przemysław Płacheta,Austin FC,Unknown,5,0.0,0.0,8,4,0,0.0,0.0,0.0,0.0,50.0
+Sam Surridge,Nashville SC,Unknown,5,0.0,0.0,10,4,3,0.0,0.0,0.0,0.0,40.0
+Brian White,Vancouver Whitecaps,Unknown,3,0.0,0.0,7,4,0,0.0,0.0,0.0,0.0,57.1
+Liel Abada,Charlotte FC,Unknown,5,0.0,0.0,9,4,2,0.0,0.0,0.0,0.0,44.4
+David Brekalo,Orlando City,Unknown,5,0.0,0.0,4,4,2,0.0,0.0,0.0,0.0,100.0
+Lionel Messi,Inter Miami,Unknown,3,0.0,0.0,18,4,1,0.0,0.0,0.0,0.0,22.2
+Kenji Mboma Dem,FC Cincinnati,Unknown,5,0.0,0.0,10,4,1,0.0,0.0,0.0,0.0,40.0
+Paul Rothrock,Seattle Sounders,Unknown,5,0.0,0.0,10,4,1,0.0,0.0,0.0,0.0,40.0
+Sergi Solans,Real Salt Lake,Unknown,5,0.0,0.0,12,4,3,0.0,0.0,0.0,0.0,33.3
+Pavel Bucha,FC Cincinnati,Unknown,5,0.0,0.0,6,4,3,0.0,0.0,0.0,0.0,66.7
+Hany Mukhtar,Nashville SC,Unknown,5,0.0,0.0,14,4,2,0.0,0.0,0.0,0.0,28.6
+Griffin Yow,New England Revolution,Unknown,6,0.0,0.0,6,4,0,0.0,0.0,0.0,0.0,66.7
+Denis Bouanga,Los Angeles FC,Unknown,5,0.0,0.0,7,4,3,0.0,0.0,0.0,0.0,57.1
+Gabriel Pirani,San Diego FC,Unknown,3,0.0,0.0,8,3,1,0.0,0.0,0.0,0.0,37.5
+Calvin Harris,Sporting Kansas City,Unknown,5,0.0,0.0,8,3,1,0.0,0.0,0.0,0.0,37.5
+Kelvin Yeboah,Minnesota United,Unknown,5,0.0,0.0,6,3,0,0.0,0.0,0.0,0.0,50.0
+Felipe Mora,Portland Timbers,Unknown,2,0.0,0.0,5,3,3,0.0,0.0,0.0,0.0,60.0
+Elías Báez,Atlanta United,Unknown,5,0.0,0.0,7,3,1,0.0,0.0,0.0,0.0,42.9
+Telasco Segovia,Inter Miami,Unknown,4,0.0,0.0,7,3,1,0.0,0.0,0.0,0.0,42.9
+Ervin Torres,Austin FC,Unknown,5,0.0,0.0,3,3,1,0.0,0.0,0.0,0.0,100.0
+Robin Lod,Chicago Fire,Unknown,5,0.0,0.0,6,3,1,0.0,0.0,0.0,0.0,50.0
+Jeong Sangbin,St. Louis City,Unknown,5,0.0,0.0,7,3,0,0.0,0.0,0.0,0.0,42.9
+Juan Manuel Sanabria,Real Salt Lake,Unknown,5,0.0,0.0,4,3,1,0.0,0.0,0.0,0.0,75.0
+Onni Valakari,San Diego FC,Unknown,5,0.0,0.0,7,3,0,0.0,0.0,0.0,0.0,42.9
+Dante Sealy,Colorado Rapids,Unknown,5,0.0,0.0,10,3,0,0.0,0.0,0.0,0.0,30.0
+Dániel Gazdag,Columbus Crew,Unknown,5,0.0,0.0,6,3,2,0.0,0.0,0.0,0.0,50.0
+David Costa,Portland Timbers,Unknown,5,0.0,0.0,7,3,1,0.0,0.0,0.0,0.0,42.9
+Joaquín Pereyra,Minnesota United,Unknown,5,0.0,0.0,9,3,1,0.0,0.0,0.0,0.0,33.3
+Bryan Ramírez,FC Cincinnati,Unknown,5,0.0,0.0,4,3,1,0.0,0.0,0.0,0.0,75.0
+Djordje Mihailovic,Toronto FC,Unknown,3,0.0,0.0,5,3,1,0.0,0.0,0.0,0.0,60.0
+Kevin Kelsy,Portland Timbers,Unknown,4,0.0,0.0,15,3,2,0.0,0.0,0.0,0.0,20.0
+Matthew Longstaff,CF Montréal,Unknown,5,0.0,0.0,6,3,0,0.0,0.0,0.0,0.0,50.0
+Allan Saint-Maximin,Charlotte FC,Unknown,2,0.0,0.0,5,3,0,0.0,0.0,0.0,0.0,60.0
+Morgan Guilavogui,Real Salt Lake,Unknown,3,0.0,0.0,5,3,1,0.0,0.0,0.0,0.0,60.0
+Beau Leroux,San Jose Earthquakes,Unknown,5,0.0,0.0,9,3,1,0.0,0.0,0.0,0.0,33.3
+Marcus Ingvartsen,San Diego FC,Unknown,5,0.0,0.0,14,3,0,0.0,0.0,0.0,0.0,21.4
+Tristan Muyumba,Atlanta United,Unknown,5,0.0,0.0,7,3,3,0.0,0.0,0.0,0.0,42.9
+Antoine Griezmann,Orlando City,Unknown,5,0.0,0.0,16,3,1,0.0,0.0,0.0,0.0,18.8
+Albert Rusnák,Seattle Sounders,Unknown,5,0.0,0.0,14,3,0,0.0,0.0,0.0,0.0,21.4
+Myrto Uzuni,Austin FC,Unknown,4,0.0,0.0,8,3,1,0.0,0.0,0.0,0.0,37.5
+Aleksei Miranchuk,Atlanta United,Unknown,5,0.0,0.0,7,3,0,0.0,0.0,0.0,0.0,42.9
+Marco Reus,LA Galaxy,Unknown,4,0.0,0.0,6,3,0,0.0,0.0,0.0,0.0,50.0
+Alhassan Yusuf,New England Revolution,Unknown,6,0.0,0.0,8,3,3,0.0,0.0,0.0,0.0,37.5
+Agustin Ojeda,New York City FC,Unknown,5,0.0,0.0,8,3,2,0.0,0.0,0.0,0.0,37.5
+Brayan Vera,CF Montréal,Unknown,5,0.0,0.0,6,3,1,0.0,0.0,0.0,0.0,50.0
+Quinn Sullivan,Philadelphia Union,Unknown,5,0.0,0.0,7,2,0,0.0,0.0,0.0,0.0,28.6
+Dániel Pintér,Inter Miami,Unknown,3,0.0,0.0,3,2,1,0.0,0.0,0.0,0.0,66.7
+Ashley Westwood,Charlotte FC,Unknown,5,0.0,0.0,3,2,1,0.0,0.0,0.0,0.0,66.7
+Indiana Vassilev,Philadelphia Union,Unknown,5,0.0,0.0,4,2,2,0.0,0.0,0.0,0.0,50.0
+Ariel Lassiter,Portland Timbers,Unknown,5,0.0,0.0,5,2,1,0.0,0.0,0.0,0.0,40.0
+John Nelson,LA Galaxy,Unknown,5,0.0,0.0,4,2,0,0.0,0.0,0.0,0.0,50.0
+Markus Cimermancic,Toronto FC,Unknown,2,0.0,0.0,2,2,1,0.0,0.0,0.0,0.0,100.0
+Magomed-Shapi Suleymanov,Sporting Kansas City,Unknown,4,0.0,0.0,3,2,0,0.0,0.0,0.0,0.0,66.7
+Shakur Mohammed,Nashville SC,Unknown,5,0.0,0.0,6,2,1,0.0,0.0,0.0,0.0,33.3
+Archie Goodwin,Charlotte FC,Unknown,5,0.0,0.0,2,2,0,0.0,0.0,0.0,0.0,100.0
+Innocent Dje,Chicago Fire,Unknown,5,0.0,0.0,2,2,1,0.0,0.0,0.0,0.0,100.0
+Iván Angulo,Orlando City,Unknown,5,0.0,0.0,4,2,1,0.0,0.0,0.0,0.0,50.0
+Anton Salétros,Chicago Fire,Unknown,5,0.0,0.0,6,2,0,0.0,0.0,0.0,0.0,33.3
+Mijahir Jiménez,Red Bull New York,Unknown,4,0.0,0.0,7,2,2,0.0,0.0,0.0,0.0,28.6
+Jackson Hopkins,D.C. United,Unknown,5,0.0,0.0,7,2,0,0.0,0.0,0.0,0.0,28.6
+Paxten Aaronson,Colorado Rapids,Unknown,5,0.0,0.0,11,2,0,0.0,0.0,0.0,0.0,18.2
+Jamal Thiaré,Columbus Crew,Unknown,3,0.0,0.0,9,2,1,0.0,0.0,0.0,0.0,22.2
+Jack Jasinski,San Jose Earthquakes,Unknown,3,0.0,0.0,4,2,0,0.0,0.0,0.0,0.0,50.0
+Bénie Traoré,New York City FC,Unknown,5,0.0,0.0,4,2,1,0.0,0.0,0.0,0.0,50.0
+Jack Skahan,San Jose Earthquakes,Unknown,5,0.0,0.0,3,2,0,0.0,0.0,0.0,0.0,66.7
+Morris Duggan,Minnesota United,Unknown,5,0.0,0.0,3,2,0,0.0,0.0,0.0,0.0,66.7
+Diego Luna,Real Salt Lake,Unknown,5,0.0,0.0,9,2,1,0.0,0.0,0.0,0.0,22.2
+Saba Lobzhanidze,Real Salt Lake,Unknown,5,0.0,0.0,4,2,0,0.0,0.0,0.0,0.0,50.0
+Philip Zinckernagel,Chicago Fire,Unknown,4,0.0,0.0,5,2,0,0.0,0.0,0.0,0.0,40.0
+Dominik Marczuk,Real Salt Lake,Unknown,2,0.0,0.0,2,2,0,0.0,0.0,0.0,0.0,100.0
+Manu García,Sporting Kansas City,Unknown,3,0.0,0.0,3,2,1,0.0,0.0,0.0,0.0,66.7
+Snyder Brunell,Seattle Sounders,Unknown,5,0.0,0.0,7,2,0,0.0,0.0,0.0,0.0,28.6
+Niklas Dorsch,Toronto FC,Unknown,3,0.0,0.0,5,2,2,0.0,0.0,0.0,0.0,40.0
+Patrickson Delgado,FC Dallas,Unknown,3,0.0,0.0,4,2,1,0.0,0.0,0.0,0.0,50.0
+Cristian Espinoza,Nashville SC,Unknown,2,0.0,0.0,5,2,0,0.0,0.0,0.0,0.0,40.0
+Noel Caliskan,Real Salt Lake,Unknown,5,0.0,0.0,8,2,0,0.0,0.0,0.0,0.0,25.0
+Brais Méndez,Columbus Crew,Unknown,3,0.0,0.0,7,2,1,0.0,0.0,0.0,0.0,28.6
+Cheikh Tidiane Sabaly,Vancouver Whitecaps,Unknown,5,0.0,0.0,4,2,0,0.0,0.0,0.0,0.0,50.0
+Brandon Bye,Portland Timbers,Unknown,5,0.0,0.0,4,2,1,0.0,0.0,0.0,0.0,50.0
+Theo Corbeanu,Toronto FC,Unknown,5,0.0,0.0,6,2,1,0.0,0.0,0.0,0.0,33.3
+Franco Negri,Houston Dynamo,Unknown,4,0.0,0.0,4,2,1,0.0,0.0,0.0,0.0,50.0
+Agustín Bouzat,Houston Dynamo,Unknown,5,0.0,0.0,3,2,1,0.0,0.0,0.0,0.0,66.7
+Troy Elgersma,LA Galaxy,Unknown,4,0.0,0.0,2,2,1,0.0,0.0,0.0,0.0,100.0
+Tyger Smalls,Charlotte FC,Unknown,4,0.0,0.0,2,2,0,0.0,0.0,0.0,0.0,100.0
+Max Arfsten,Columbus Crew,Unknown,2,0.0,0.0,2,2,0,0.0,0.0,0.0,0.0,100.0
+Oscar Verhoeven,San Diego FC,Unknown,4,0.0,0.0,2,2,0,0.0,0.0,0.0,0.0,100.0
+Ousseni Bouda,San Jose Earthquakes,Unknown,5,0.0,0.0,8,2,0,0.0,0.0,0.0,0.0,25.0
+Jorge Ruvalcaba,Red Bull New York,Unknown,4,0.0,0.0,11,2,0,0.0,0.0,0.0,0.0,18.2
+Daniel Edelman,St. Louis City,Unknown,5,0.0,0.0,5,2,1,0.0,0.0,0.0,0.0,40.0
+Fafà Picault,Atlanta United,Unknown,5,0.0,0.0,6,2,1,0.0,0.0,0.0,0.0,33.3
+Tom Barlow,FC Cincinnati,Unknown,5,0.0,0.0,3,2,1,0.0,0.0,0.0,0.0,66.7
+Brooklyn Raines,New England Revolution,Unknown,6,0.0,0.0,7,2,1,0.0,0.0,0.0,0.0,28.6
+Jonathan Osorio,Toronto FC,Unknown,3,0.0,0.0,5,2,0,0.0,0.0,0.0,0.0,40.0
+Kerwin Vargas,Charlotte FC,Unknown,2,0.0,0.0,5,2,1,0.0,0.0,0.0,0.0,40.0
+Hassani Dotson,Seattle Sounders,Unknown,2,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Robert Taylor,LA Galaxy,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Marco Pašalić,Orlando City,Unknown,2,0.0,0.0,5,1,0,0.0,0.0,0.0,0.0,20.0
+Mauricio Pineda,Chicago Fire,Unknown,4,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Jackson Gilman,Toronto FC,Unknown,5,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Harvey Sarajian,Orlando City,Unknown,3,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Malachi Jones,New York City FC,Unknown,5,0.0,0.0,4,1,1,0.0,0.0,0.0,0.0,25.0
+Matt Polster,New England Revolution,Unknown,6,0.0,0.0,6,1,0,0.0,0.0,0.0,0.0,16.7
+Henry Kessler,Charlotte FC,Unknown,4,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Maxwell Woledzi,Nashville SC,Unknown,5,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Marky Delgado,Los Angeles FC,Unknown,5,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Hirving Lozano,LA Galaxy,Unknown,2,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Jack Harrison,New England Revolution,Unknown,3,0.0,0.0,6,1,0,0.0,0.0,0.0,0.0,16.7
+Reid Roberts,San Jose Earthquakes,Unknown,4,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Mateo Silvetti,Inter Miami,Unknown,3,0.0,0.0,7,1,0,0.0,0.0,0.0,0.0,14.3
+Reggie Cannon,Colorado Rapids,Unknown,5,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Reed Baker-Whiting,Nashville SC,Unknown,3,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Rayan Elloumi,Vancouver Whitecaps,Unknown,4,0.0,0.0,7,1,1,0.0,0.0,0.0,0.0,14.3
+Ilie Sánchez,Austin FC,Unknown,5,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Ran Binyamin,FC Dallas,Unknown,4,0.0,0.0,4,1,1,0.0,0.0,0.0,0.0,25.0
+Herman Johansson,FC Dallas,Unknown,4,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Jeevan Badwal,Vancouver Whitecaps,Unknown,4,0.0,0.0,3,1,1,0.0,0.0,0.0,0.0,33.3
+Preston Plambeck,Inter Miami,Unknown,3,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Jakob Glesnes,LA Galaxy,Unknown,4,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Palmer Ault,St. Louis City,Unknown,5,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Pablo Ruíz,Real Salt Lake,Unknown,1,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Josh Sargent,Toronto FC,Unknown,4,0.0,0.0,5,1,0,0.0,0.0,0.0,0.0,20.0
+Oliver Larraz,Vancouver Whitecaps,Unknown,5,0.0,0.0,10,1,0,0.0,0.0,0.0,0.0,10.0
+Lasse Berg Johnsen,Sporting Kansas City,Unknown,4,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Julián Bazán,Red Bull New York,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Lalas Abubakar,FC Dallas,Unknown,1,0.0,0.0,3,1,1,0.0,0.0,0.0,0.0,33.3
+Adri Mehmeti,Red Bull New York,Unknown,4,0.0,0.0,6,1,0,0.0,0.0,0.0,0.0,16.7
+Kyogo Furuhashi,LA Galaxy,Unknown,3,0.0,0.0,7,1,0,0.0,0.0,0.0,0.0,14.3
+Justin Haak,LA Galaxy,Unknown,5,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Nəriman Axundzadə,Columbus Crew,Unknown,1,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Nouhou Tolo,Seattle Sounders,Unknown,5,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Kalani Rienzi,Seattle Sounders,Unknown,5,0.0,0.0,3,1,1,0.0,0.0,0.0,0.0,33.3
+Kyle Smith,FC Cincinnati,Unknown,5,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Noah Streit,CF Montréal,Unknown,4,0.0,0.0,6,1,1,0.0,0.0,0.0,0.0,16.7
+Kyle Duncan,Minnesota United,Unknown,4,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Noah Allen,Inter Miami,Unknown,5,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Kye Rowles,D.C. United,Unknown,2,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Kimito Nono,D.C. United,Unknown,2,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Jonathan Shore,New York City FC,Unknown,5,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Jon Gallagher,Austin FC,Unknown,4,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Nathan Ordaz,D.C. United,Unknown,5,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Jean-Claude Ngando,Vancouver Whitecaps,Unknown,1,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Preston Judd,San Jose Earthquakes,Unknown,4,0.0,0.0,11,1,0,0.0,0.0,0.0,0.0,9.1
+Lukas MacNaughton,St. Louis City,Unknown,5,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+James Sands,New York City FC,Unknown,5,0.0,0.0,6,1,0,0.0,0.0,0.0,0.0,16.7
+Jansen Miller,Sporting Kansas City,Unknown,1,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Lukas Engel,Real Salt Lake,Unknown,4,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Luka Jovanović,San Jose Earthquakes,Unknown,2,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Jayden Nelson,Austin FC,Unknown,3,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Jayden Reid,Sporting Kansas City,Unknown,4,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Lucas Bartlett,D.C. United,Unknown,4,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Lewis Morgan,San Diego FC,Unknown,4,0.0,0.0,5,1,0,0.0,0.0,0.0,0.0,20.0
+Morrison Agyemang,Charlotte FC,Unknown,3,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Loïc Williams,Colorado Rapids,Unknown,5,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Jesús Ferreira,Seattle Sounders,Unknown,4,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Logan Farrington,FC Dallas,Unknown,5,0.0,0.0,7,1,0,0.0,0.0,0.0,0.0,14.3
+Joaquín Valiente,FC Dallas,Unknown,4,0.0,0.0,4,1,1,0.0,0.0,0.0,0.0,25.0
+Joel Waterman,Chicago Fire,Unknown,4,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Lineker Rodrigues dos Santos,Real Salt Lake,Unknown,3,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Paul Marie,San Jose Earthquakes,Unknown,3,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Robin Jansson,Orlando City,Unknown,5,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Žan Kolmanič,Austin FC,Unknown,3,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Gustav Berggren,Red Bull New York,Unknown,2,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Brandt Bronico,Charlotte FC,Unknown,4,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Brooks Lennon,Columbus Crew,Unknown,2,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Capita,Sporting Kansas City,Unknown,4,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Chase Adams,Columbus Crew,Unknown,4,0.0,0.0,4,1,1,0.0,0.0,0.0,0.0,25.0
+Chris Durkin,St. Louis City,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Christian Ramirez,Austin FC,Unknown,3,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Guilherme Biro,Austin FC,Unknown,5,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Stuart Hawkins,Seattle Sounders,Unknown,4,0.0,0.0,3,1,1,0.0,0.0,0.0,0.0,33.3
+Cole Bassett,Portland Timbers,Unknown,5,0.0,0.0,7,1,0,0.0,0.0,0.0,0.0,14.3
+Conrad Wallem,St. Louis City,Unknown,4,0.0,0.0,7,1,0,0.0,0.0,0.0,0.0,14.3
+Stijn Spierings,Real Salt Lake,Unknown,5,0.0,0.0,7,1,0,0.0,0.0,0.0,0.0,14.3
+Steven Moreira,Columbus Crew,Unknown,5,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Daniel Armando Ríos,CF Montréal,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Stephen Afrifa,Sporting Kansas City,Unknown,3,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Daniel Munie,San Jose Earthquakes,Unknown,4,0.0,0.0,3,1,1,0.0,0.0,0.0,0.0,33.3
+Daniel Musovski,Seattle Sounders,Unknown,5,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Daniel Pereira,CF Montréal,Unknown,4,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Danley Jean-Jacques,Philadelphia Union,Unknown,5,0.0,0.0,8,1,1,0.0,0.0,0.0,0.0,12.5
+Darren Yapi,Colorado Rapids,Unknown,5,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+David Martínez,Los Angeles FC,Unknown,3,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Silvan Hefti,D.C. United,Unknown,5,0.0,0.0,3,1,1,0.0,0.0,0.0,0.0,33.3
+Sergio Reguilón,Inter Miami,Unknown,4,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Derrick Etienne,Toronto FC,Unknown,3,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Devin Padelford,Minnesota United,Unknown,3,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Tomas Totland,St. Louis City,Unknown,5,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Tomás Jacob,Atlanta United,Unknown,4,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Santiago Moreno,FC Dallas,Unknown,5,0.0,0.0,6,1,0,0.0,0.0,0.0,0.0,16.7
+Braian Ojeda,Orlando City,Unknown,3,0.0,0.0,4,1,1,0.0,0.0,0.0,0.0,25.0
+Édier Ocampo,Vancouver Whitecaps,Unknown,4,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Zorhan Bassong,Sporting Kansas City,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Agustín Resch,Houston Dynamo,Unknown,6,0.0,0.0,3,1,1,0.0,0.0,0.0,0.0,33.3
+Zavier Gozo,Real Salt Lake,Unknown,2,0.0,0.0,6,1,0,0.0,0.0,0.0,0.0,16.7
+Alejandro Alvarado Jr.,San Diego FC,Unknown,5,0.0,0.0,4,1,1,0.0,0.0,0.0,0.0,25.0
+Alex Mighten,San Diego FC,Unknown,4,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Alex Muyl,Nashville SC,Unknown,3,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Youssef Maziz,Colorado Rapids,Unknown,2,0.0,0.0,5,1,0,0.0,0.0,0.0,0.0,20.0
+Wilson Harris,New England Revolution,Unknown,6,0.0,0.0,4,1,1,0.0,0.0,0.0,0.0,25.0
+William Sands,New England Revolution,Unknown,6,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Andre Dozzell,D.C. United,Unknown,5,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Wil Trapp,Minnesota United,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Andrés Cubas,Vancouver Whitecaps,Unknown,5,0.0,0.0,5,1,0,0.0,0.0,0.0,0.0,20.0
+Andy Najar,Nashville SC,Unknown,5,0.0,0.0,3,1,1,0.0,0.0,0.0,0.0,33.3
+Antony,Portland Timbers,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Victor Olatunji,Real Salt Lake,Unknown,5,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Victor Loturi,CF Montréal,Unknown,5,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Artur,Houston Dynamo,Unknown,6,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Ayoub Jabbari,FC Cincinnati,Unknown,4,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Tyler Boyd,Los Angeles FC,Unknown,4,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Benjamin Kikanovic,San Jose Earthquakes,Unknown,4,0.0,0.0,5,1,0,0.0,0.0,0.0,0.0,20.0
+Besard Sabovic,Austin FC,Unknown,5,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Tomáš Ostrák,St. Louis City,Unknown,2,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Sean Zawadzki,Columbus Crew,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Germán Berterame,Inter Miami,Unknown,2,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Elijah Wynder,LA Galaxy,Unknown,4,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Duncan McGuire,Houston Dynamo,Unknown,6,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Emmanuel Sabbi,Vancouver Whitecaps,Unknown,3,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Ender Echenique,FC Cincinnati,Unknown,5,0.0,0.0,4,1,0,0.0,0.0,0.0,0.0,25.0
+Erik Sviatchenko,Houston Dynamo,Unknown,2,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Sam Junqua,Real Salt Lake,Unknown,2,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0,100.0
+Finn Surman,Portland Timbers,Unknown,5,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Efrain Morales,CF Montréal,Unknown,3,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Eduard Löwen,St. Louis City,Unknown,5,0.0,0.0,7,1,1,0.0,0.0,0.0,0.0,14.3
+Eduard Atuesta,Orlando City,Unknown,3,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0,50.0
+Georgi Minoungou,Colorado Rapids,Unknown,5,0.0,0.0,7,1,0,0.0,0.0,0.0,0.0,14.3
+Dylan Nealis,Red Bull New York,Unknown,5,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Dylan Chambost,Columbus Crew,Unknown,5,0.0,0.0,7,1,0,0.0,0.0,0.0,0.0,14.3
+Eddie Segura,Los Angeles FC,Unknown,5,0.0,0.0,8,1,0,0.0,0.0,0.0,0.0,12.5
+Gerardo Valenzuela,FC Cincinnati,Unknown,3,0.0,0.0,3,1,0,0.0,0.0,0.0,0.0,33.3
+Rodolfo Aloko,Charlotte FC,Unknown,4,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0,100.0
+Facundo Torres,Austin FC,Unknown,5,0.0,0.0,4,1,1,0.0,0.0,0.0,0.0,25.0
+Griffin Dorsey,Orlando City,Unknown,5,0.0,0.0,5,1,1,0.0,0.0,0.0,0.0,20.0
+Ezekiel Kwame Alladoh,Philadelphia Union,Unknown,4,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0,50.0
+Ezequiel Ponce,Houston Dynamo,Unknown,4,0.0,0.0,8,1,0,0.0,0.0,0.0,0.0,12.5
+Tristan Blackmon,Vancouver Whitecaps,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Richie Laryea,Toronto FC,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Mitja Ilenič,New York City FC,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Richard Chukwu,Toronto FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Mohamed Farsi,Columbus Crew,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Wayne Frederick,Colorado Rapids,Unknown,4,0.0,0.0,5,0,0,0.0,0.0,0.0,0.0,0.0
+Mohammed Sofo,Red Bull New York,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Moises Mosquera,Sporting Kansas City,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Warren Madrigal,Nashville SC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ronald Donkor,Red Bull New York,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Walker Zimmerman,Toronto FC,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Viktor Radojevic,Chicago Fire,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Nehuén Benedetti,Red Bull New York,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Mykhi Joyner,St. Louis City,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Vitor Costa,San Jose Earthquakes,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Nathan Byrne,Charlotte FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Rubén Ramos,LA Galaxy,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ranko Veselinović,Vancouver Whitecaps,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Will Cleary,Charlotte FC,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Raul Gustavo,New York City FC,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Vincent Janssen,Portland Timbers,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Ronaldo Vieira,San Jose Earthquakes,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Nathan Harriel,Philadelphia Union,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Ronald Hernández,Atlanta United,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Wilder Cartagena,Orlando City,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Sean Johnson,D.C. United,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Miles Robinson,FC Cincinnati,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+William Reilly,Atlanta United,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Rocco Ríos Novo,Inter Miami,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Max Floriani,San Jose Earthquakes,Unknown,1,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Max Murray,New York City FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Maxi Carrizo,New York City FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Maxime Crépeau,Orlando City,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Maximiliano Falcón,Inter Miami,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Mauricio Gonzalez,Minnesota United,Unknown,4,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Maya Yoshida,LA Galaxy,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Zane Monlouis,Toronto FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Micael,Inter Miami,Unknown,3,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Zakaria Taifi,Orlando City,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Zach Booth,Real Salt Lake,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Michael Boxall,Minnesota United,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Rodrigo De Paul,Inter Miami,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Miguel Navarro,Colorado Rapids,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Roman Bürki,St. Louis City,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Yohei Takaoka,Vancouver Whitecaps,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Miguel Perez,St. Louis City,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Mihail Gherasimencov,Vancouver Whitecaps,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Yevhen Cheberko,Los Angeles FC,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Yannick Bright,Inter Miami,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Wyatt Meyer,Sporting Kansas City,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Miki Yamane,LA Galaxy,Unknown,2,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Woobens Pacius,Nashville SC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Mikkel Desler,Austin FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Roman Celentano,FC Cincinnati,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Rob Holding,Colorado Rapids,Unknown,4,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Rudy Camacho,Columbus Crew,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Nick Fernandez,San Jose Earthquakes,Unknown,4,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Ramiro Benetti,FC Dallas,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ryan Hollingshead,Los Angeles FC,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Omir Fernandez,Portland Timbers,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Ondřej Lingr,Houston Dynamo,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Rafael Cabral,Real Salt Lake,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Or Blorian,Sporting Kansas City,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Osaze De Rosario,Seattle Sounders,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Osaze Urhoghide,FC Dallas,Unknown,5,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Stian Rode Gregersen,Atlanta United,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Sam Rogers,Chicago Fire,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Steven Alzate,Atlanta United,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Owen Géne,Minnesota United,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Owen Wolff,Austin FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Samuel Gidi,FC Cincinnati,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Patrick Schulte,Columbus Crew,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Patrick Yazbek,Nashville SC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Paul Arriola,Seattle Sounders,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Stefan Cleveland,Sporting Kansas City,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Philip Quinton,Real Salt Lake,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Shaq Moore,FC Dallas,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Seymour Reid,New York City FC,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Sergio Santos Gomes,Atlanta United,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Samuel Piette,CF Montréal,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Paulo Díaz,Atlanta United,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Sebastien Ibeagha,FC Dallas,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Sebastian Gomez,Seattle Sounders,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Samuel Sarver,FC Dallas,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Peglow,D.C. United,Unknown,3,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Peter Stroud,Minnesota United,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Sebastian Breza,CF Montréal,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Peter Kingston,Seattle Sounders,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Omar Valencia,Red Bull New York,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Sam Adekugbe,Vancouver Whitecaps,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Olger Escobar,CF Montréal,Unknown,4,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Nkosi Tafari,Los Angeles FC,Unknown,3,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Tommy Mihalič,Los Angeles FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Nicholas Hansen,Colorado Rapids,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ralph Priso-Mbongue,Vancouver Whitecaps,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Sean Nealis,D.C. United,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Nico Cavallo,New York City FC,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Timothy Tillman,Los Angeles FC,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Rafael Santos,St. Louis City,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Timo Baumgartl,St. Louis City,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Niko Tsakiris,San Jose Earthquakes,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Nikola Djordjevic,Vancouver Whitecaps,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Nikola Marković,D.C. United,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Tim Ream,Charlotte FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Tim Parker,Red Bull New York,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Tiago,Orlando City,Unknown,4,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Oleksandr Svatok,Austin FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Thomas Gillier,CF Montréal,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ryan Porteous,Los Angeles FC,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Noah Cobb,Colorado Rapids,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Thiago Martins,New York City FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Teenage Hadebe,FC Cincinnati,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Tayvon Gray,New York City FC,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Nolan Norris,FC Dallas,Unknown,4,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Taylor Calheira,Sporting Kansas City,Unknown,2,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Tate Johnson,Vancouver Whitecaps,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Tarun Karumanchi,Columbus Crew,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Ryan Raposo,Los Angeles FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Rafael Jauregui,Seattle Sounders,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Obinna Nwobodo,FC Cincinnati,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Sékou Tidiany Bangoura,Columbus Crew,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Aaron Long,Los Angeles FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Matti Peltola,D.C. United,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Daryl Dike,Orlando City,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Diadie Samassékou,Houston Dynamo,Unknown,6,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Deandre Kerr,Toronto FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+DeAndre Yedlin,Real Salt Lake,Unknown,4,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Dayne St. Clair,Inter Miami,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Dawid Bugaj,CF Montréal,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+David Vazquez,San Diego FC,Unknown,2,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+David Schnegg,Charlotte FC,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+David Ruíz,Inter Miami,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+David Romney,San Jose Earthquakes,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+David Poręba,Chicago Fire,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+David Ayala,Inter Miami,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Darius Johnson,San Jose Earthquakes,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Matthew Edwards,Atlanta United,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Dante Polvara,St. Louis City,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Daniel Lovitz,Nashville SC,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Daniel,FC Dallas,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Damian Las,Austin FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Dagur Dan Þórhallsson,San Diego FC,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Cooper Sanchez,Atlanta United,Unknown,4,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Cody Baker,New England Revolution,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Clay Holstad,FC Dallas,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Christopher McVey,San Diego FC,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Christian Cappis,FC Dallas,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Chris Brady,Chicago Fire,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Diego Chará,Portland Timbers,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Diego Fagúndez,New England Revolution,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Djibril Diani,Charlotte FC,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Donavan Phillip,Colorado Rapids,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Hamzat Ojediran,Colorado Rapids,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Griffin Dillon,Real Salt Lake,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Gonzalo Luján,Inter Miami,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Gallatin Sandnes,Seattle Sounders,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Fricio Caicedo,Inter Miami,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Frankie Amaya,CF Montréal,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Francis Westfield,Philadelphia Union,Unknown,5,0.0,0.0,7,0,0,0.0,0.0,0.0,0.0,0.0
+Felipe Andrade,Houston Dynamo,Unknown,4,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Facundo Mura,Inter Miami,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Fabian Herbers,CF Montréal,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Ethan Kohler,New England Revolution,Unknown,6,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Ethan Horvath,Red Bull New York,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Eric Miller,Portland Timbers,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Eric Maxim Choupo-Moting,Red Bull New York,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Enea Mihaj,Atlanta United,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Emir Karic,Sporting Kansas City,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Emilio Aristizábal,Toronto FC,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Elias Saad,Nashville SC,Unknown,3,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Elias Achouri,San Diego FC,Unknown,2,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Edwin Cerrillo,LA Galaxy,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Edvard Sandvik Tagseth,Nashville SC,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Duane Holmes,Houston Dynamo,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Drake Callender,Minnesota United,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Charlie Gaffney,Seattle Sounders,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Charles-Emile Brunet,Nashville SC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Cesar Ruvalcaba,Columbus Crew,Unknown,2,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Arif Kovac,Atlanta United,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Antino Lopez,Seattle Sounders,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Angus Gunn,San Jose Earthquakes,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Andy Rojas,Red Bull New York,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+André Gomes,Columbus Crew,Unknown,4,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Andrew Thomas,Seattle Sounders,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Andrew Gutman,Chicago Fire,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Andre Blake,Philadelphia Union,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Anderson Julio,FC Dallas,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Amahl Pellegrino,San Diego FC,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Alvas Powell,FC Cincinnati,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Alonso Coello,Toronto FC,Unknown,5,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Aliyu Ibrahim,Houston Dynamo,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Alexis Sánchez,CF Montréal,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Alexandru Mățan,St. Louis City,Unknown,3,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Alexandros Katranis,Real Salt Lake,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Alexander Aravena,Portland Timbers,Unknown,2,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Alex Roldan,Seattle Sounders,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Alex Harris,Colorado Rapids,Unknown,1,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Alejandro Bedoya,Philadelphia Union,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Aiden Hezarkhani,Real Salt Lake,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Ahmed Qasem,Nashville SC,Unknown,4,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Adrián Marín,Orlando City,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Adrian Gill,Atlanta United,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Aníbal Godoy,San Diego FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Arnau Farnós,New York City FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Cayman Togashi,Atlanta United,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Augustin Anello,Philadelphia Union,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Casemiro,Inter Miami,Unknown,4,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Carlos Harvey,Minnesota United,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Carlos Garcés,LA Galaxy,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Carlo Holse,St. Louis City,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Cameron Harper,Red Bull New York,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Cabral Carter,Los Angeles FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+CJ Fodrey,Austin FC,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+C.J. dos Santos,San Diego FC,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Bryan Zamblé,San Diego FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Bryan Acosta,Nashville SC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Bruno Caicedo,Vancouver Whitecaps,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Brian Schwake,Nashville SC,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Brian Anunga,FC Cincinnati,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Brendan Hines-Ike,Austin FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Brayan Ceballos,CF Montréal,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Brandon Servania,D.C. United,Unknown,5,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Brandan Craig,CF Montréal,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Brad Stuver,Austin FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Bongokuhle Hlongwane,Minnesota United,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Bernardo Rhein,Orlando City,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Bernard Kamungo,FC Dallas,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Benjamín Kuscevic,Toronto FC,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Aziel Jackson,Minnesota United,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Hannes Wolf,New York City FC,Unknown,3,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Harbor Miller,LA Galaxy,Unknown,5,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Harry Toffolo,Charlotte FC,Unknown,3,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Luca de la Torre,Charlotte FC,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Luca Langoni,New England Revolution,Unknown,3,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Luca Bombino,San Diego FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Lovens Delinois,Inter Miami,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Leonardo Barroso,Chicago Fire,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Lawrence Ennali,Houston Dynamo,Unknown,6,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Laurtaro Giaccone,Columbus Crew,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Kwaku Agyabeng,Sporting Kansas City,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Kristijan Kahlina,Charlotte FC,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Kosi Thompson,Colorado Rapids,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Kobe Franklin,Toronto FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Kim Kee-hee,Seattle Sounders,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Kieran Sargeant,San Diego FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Kevin Pierre,New York City FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Kevin O'Toole,New York City FC,Unknown,2,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Kenneth Nielsen,Los Angeles FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Keisuke Kurokawa,D.C. United,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Keegan Rosenberry,Colorado Rapids,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Keaton Parks,New York City FC,Unknown,2,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Kamal Miller,Portland Timbers,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Kaick,FC Dallas,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Kai Wagner,Philadelphia Union,Unknown,5,0.0,0.0,5,0,0,0.0,0.0,0.0,0.0,0.0
+Júnior Alonso,Atlanta United,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Julián Aude,LA Galaxy,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Luca Petrasso,CF Montréal,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Lucas Halter,Houston Dynamo,Unknown,6,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Julian Gressel,Minnesota United,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Lucas Herrington,Colorado Rapids,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Matthew Dos Santos,Red Bull New York,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Matthew Corcoran,Nashville SC,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Matt Turner,New England Revolution,Unknown,6,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Matt Miazga,FC Cincinnati,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Matt Freese,New York City FC,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Mathías Laborda,Vancouver Whitecaps,Unknown,5,0.0,0.0,10,0,0,0.0,0.0,0.0,0.0,0.0
+Mathieu Choinière,Los Angeles FC,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Matheus Pereira,Toronto FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Mateja Đorđević,Austin FC,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Maren Haile-Selassie,Chicago Fire,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Marcus Caldeira,Minnesota United,Unknown,2,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Marcos Zambrano,New England Revolution,Unknown,6,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Marcelo Saracchi,Houston Dynamo,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Marcelo Herrera,Columbus Crew,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Manu Duah,San Diego FC,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Mamadou Fofana,New England Revolution,Unknown,6,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Malte Amundsen,Columbus Crew,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Malik Henry,Toronto FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Luke Brennan,Atlanta United,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Luka Gavran,Toronto FC,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Luis Otávio,Orlando City,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Lucas Sanabria,LA Galaxy,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Lucas Hoyos,Atlanta United,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Julio Joao Ortíz,Portland Timbers,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jules-Anthony Vilsaint,Toronto FC,Unknown,1,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Hosei Kijima,D.C. United,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jared Stroud,D.C. United,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+James Pantemis,Portland Timbers,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jamar Ricketts,San Jose Earthquakes,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Jalen Neal,CF Montréal,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jake Davis,Sporting Kansas City,Unknown,5,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Jahkeele Marshall-Rutty,Red Bull New York,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jacob Shaffelburg,Los Angeles FC,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jacob Bartlett,Sporting Kansas City,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jackson Yueill,New England Revolution,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jackson Ragen,Seattle Sounders,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jack McGlynn,Houston Dynamo,Unknown,6,0.0,0.0,5,0,0,0.0,0.0,0.0,0.0,0.0
+Jack Maher,Nashville SC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jack Elliott,Chicago Fire,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+J.T. Marcinkowski,LA Galaxy,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Isaiah Parente,LA Galaxy,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ignacio Suarez,Atlanta United,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ian Smith,Portland Timbers,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ian Murphy,San Diego FC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ian James,Sporting Kansas City,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Ian Harkes,San Jose Earthquakes,Unknown,5,0.0,0.0,6,0,0,0.0,0.0,0.0,0.0,0.0
+Ian Fray,Inter Miami,Unknown,4,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Iago,Orlando City,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Hugo Picard,Columbus Crew,Unknown,3,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Hugo Lloris,Los Angeles FC,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Japhet Sery,Philadelphia Union,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jason Shokalook,Chicago Fire,Unknown,1,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jude Terry,Los Angeles FC,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jaziel Orozco,St. Louis City,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Judah Siqueira,New England Revolution,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Juan Arias,Real Salt Lake,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jovan Lukić,Philadelphia Union,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+José Caicedo,Portland Timbers,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Joshua Atencio,Colorado Rapids,Unknown,4,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Josh Bauer,Nashville SC,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Joseph Rosales,Austin FC,Unknown,4,0.0,0.0,3,0,0,0.0,0.0,0.0,0.0,0.0
+Josef Martínez,Columbus Crew,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jorge Alastuey,Austin FC,Unknown,1,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Jordan Knight,Nashville SC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Joran Gerbet,Orlando City,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jonathan Sirois,FC Dallas,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jonathan González,San Jose Earthquakes,Unknown,2,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jonathan Dean,Chicago Fire,Unknown,4,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jonathan Bond,Houston Dynamo,Unknown,6,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jonathan Bamba,Chicago Fire,Unknown,5,0.0,0.0,4,0,0,0.0,0.0,0.0,0.0,0.0
+Jon Bell,Austin FC,Unknown,1,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jimer Fory,Portland Timbers,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Jesús Daniel Bueno,Philadelphia Union,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jeremy Ebobisse,Los Angeles FC,Unknown,4,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0
+Jeppe Tverskov,San Diego FC,Unknown,5,0.0,0.0,2,0,0,0.0,0.0,0.0,0.0,0.0
+Jeison Palacios,Nashville SC,Unknown,3,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Jefferson Díaz,Minnesota United,Unknown,5,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Justin Che,Red Bull New York,Unknown,5,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0,0.0

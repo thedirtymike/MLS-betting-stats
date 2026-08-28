@@ -1,471 +1,4 @@
 league,season,game,team,player,jersey_number,nation,pos,age,min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_TklW,Performance_Int,Performance_OG,Performance_PKwon,Performance_PKcon,game_id,Min_Clean,Shots,SoT,Goals,Assists
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Besard Sabovic,14,SWE,CM,28-198,61,0,1,0,0,0,0,1,0,1,0,0,1,1,0,0,,,aa531d24,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Brad Stuver,1,USA,GK,35-097,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Brandon Vazquez,9,USA,FW,27-281,82,0,0,0,0,2,2,0,0,0,0,0,0,2,0,0,,,aa531d24,0.0,2,2,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Brendan Hines-Ike,4,USA,CB,31-234,62,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Christian Ramirez,21,USA,"FW,MF",35-109,8,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,aa531d24,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Ervin Torres,38,USA,DF,18-250,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,,aa531d24,0.0,0,0,0,2
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Facundo Torres,11,URU,FW,26-100,82,0,0,0,0,0,0,0,0,0,2,0,7,1,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Guilherme Biro,29,BRA,CB,26-082,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Ilie Sánchez,6,ESP,CM,35-243,90,1,0,0,0,1,1,0,0,0,1,0,0,1,1,0,,,aa531d24,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Jon Gallagher,17,IRL,LM,30-149,90,0,0,0,0,1,0,0,0,0,1,0,2,1,0,0,,,aa531d24,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Joseph Rosales,30,HON,RM,25-258,61,0,0,0,0,1,0,0,0,2,2,0,1,1,0,0,,,aa531d24,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Mateja Đorđević,35,SRB,DF,23-186,28,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Myrto Uzuni,10,ALB,FW,31-052,90,1,0,0,0,3,2,1,0,0,3,1,1,0,0,0,,,aa531d24,0.0,3,2,1,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Oleksandr Svatok,5,UKR,CB,31-298,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Owen Wolff,33,USA,MF,21-204,29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Austin FC,Przemysław Płacheta,77,POL,MF,28-121,29,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,aa531d24,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Albert Rusnák,11,SVK,AM,32-015,90,0,0,0,0,2,1,0,0,0,0,0,4,0,0,0,,,aa531d24,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Andrew Thomas,26,RUS,GK,27-324,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Daniel Musovski,19,MKD,FW,30-234,61,0,0,0,0,1,0,0,0,0,2,1,0,0,0,0,,,aa531d24,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Hassani Dotson,31,USA,DM,28-350,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Jackson Ragen,25,USA,CB,27-301,89,0,0,0,0,1,0,2,1,2,0,0,0,0,1,0,,,aa531d24,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Jesús Ferreira,9,USA,AM,25-210,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Kalani Rienzi,85,USA,DF,24-025,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Nouhou Tolo,5,CMR,LB,29-029,87,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Osaze De Rosario,95,GUY,FW,25-003,29,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,,,aa531d24,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Paul Arriola,17,USA,"FW,MF",31-167,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Paul Rothrock,14,USA,AM,27-194,90,1,0,0,0,2,1,0,0,4,1,1,1,1,0,0,,,aa531d24,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Peter Kingston,45,USA,RB,25-008,65,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Sebastian Gomez,90,USA,MF,20-062,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,aa531d24,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Snyder Brunell,37,USA,DM,19-121,66,0,0,0,0,2,1,0,0,2,0,0,0,1,0,0,,,aa531d24,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Austin FC-Seattle Sounders,Seattle Sounders,Stuart Hawkins,39,USA,CB,19-307,90,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,,,aa531d24,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Aleksei Miranchuk,59,RUS,RW,30-278,90,0,0,0,0,2,2,1,0,0,1,0,0,1,0,0,,,f04aff44,0.0,2,2,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Cooper Sanchez,48,USA,AM,18-118,88,0,0,0,0,0,0,0,0,2,0,0,1,3,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Elías Báez,3,ARG,LB,21-277,90,1,0,0,0,3,2,0,0,2,0,0,2,1,0,0,,,f04aff44,0.0,3,2,1,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Enea Mihaj,4,ALB,CB,28-017,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Fafà Picault,22,HAI,FW,35-149,81,0,0,0,0,2,0,0,0,0,1,1,2,0,1,0,,,f04aff44,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Ignacio Suarez,56,USA,MF,17-110,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Júnior Alonso,6,PAR,CB,33-163,89,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Lucas Hoyos,1,ARG,GK,37-084,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Luke Brennan,20,USA,FW,21-148,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Miguel Almirón,10,PAR,LW,32-162,90,1,0,0,0,4,2,0,0,0,1,1,5,0,0,0,,,f04aff44,0.0,4,2,1,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Stian Rode Gregersen,5,NOR,"DF,MF",31-066,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Tomás Jacob,55,ARG,RB,22-093,90,0,1,0,0,0,0,1,0,2,0,0,4,1,2,0,,,f04aff44,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,Tristan Muyumba,8,FRA,AM,29-137,90,0,0,0,0,1,0,0,0,1,0,0,1,1,4,0,,,f04aff44,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Atlanta United,William Reilly,28,USA,DM,23-231,90,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Archie Goodwin,7,AUS,FW,21-257,62,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,,,f04aff44,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Ashley Westwood,8,ENG,CM,36-112,90,0,0,0,0,1,0,0,0,1,0,0,8,0,2,0,,,f04aff44,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Djibril Diani,28,FRA,MF,28-161,28,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,f04aff44,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Harry Toffolo,15,ENG,LB,30-337,90,0,0,0,0,2,0,0,0,0,1,0,3,0,0,0,,,f04aff44,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Idan Markovich,9,ISR,FW,21-347,28,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,,,f04aff44,0.0,6,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Kerwin Vargas,18,COL,RM,24-201,84,1,0,0,0,5,2,0,0,0,3,1,1,1,0,0,,,f04aff44,0.0,5,2,1,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Kristijan Kahlina,1,CRO,GK,33-363,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Liel Abada,11,ISR,LM,24-292,62,1,0,0,0,3,2,0,0,0,0,0,1,1,0,0,,,f04aff44,0.0,3,2,1,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Luca de la Torre,17,USA,CM,28-060,62,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,,f04aff44,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Morrison Agyemang,44,GHA,CB,21-213,90,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,,,f04aff44,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Nathan Byrne,14,ENG,"DF,MF",34-047,27,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Pep Biel,16,ESP,FW,29-320,90,0,1,0,0,2,1,0,0,0,1,0,3,0,0,0,,,f04aff44,0.0,2,1,0,1
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Rodolfo Aloko,37,BEN,MF,19-208,28,0,0,0,0,0,0,0,0,1,1,0,5,1,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Tim Ream,3,USA,CB,38-290,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Tyger Smalls,25,,FW,23-307,6,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,f04aff44,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Charlotte-Atlanta Utd,Charlotte FC,Will Cleary,35,USA,RB,23-155,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f04aff44,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Dante Sealy,7,TRI,RW,23-096,90,0,0,0,0,2,1,0,0,2,2,0,8,0,0,0,,,3b1c031b,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Darren Yapi,77,USA,FW,21-245,19,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,,,3b1c031b,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Donavan Phillip,32,LCA,MF,21-199,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Georgi Minoungou,93,BFA,LW,23-362,71,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,,,3b1c031b,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Hamzat Ojediran,8,NGA,DM,22-250,90,0,0,0,0,1,0,0,0,3,0,0,2,1,0,0,,,3b1c031b,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Joshua Atencio,12,USA,AM,24-172,89,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Kosi Thompson,33,CAN,DM,23-176,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,3b1c031b,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Loïc Williams,5,ESP,CB,24-196,90,1,0,0,0,1,1,1,0,1,1,0,0,0,2,0,,,3b1c031b,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Lucas Herrington,22,AUS,DF,18-320,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Nicholas Hansen,41,DEN,GK,25-012,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Noah Cobb,24,USA,DF,21-002,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Paxten Aaronson,10,USA,AM,22-330,90,0,1,0,0,0,0,0,0,3,1,2,5,0,0,0,,,3b1c031b,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Rafael Navarro,9,BRA,FW,26-099,90,0,0,0,0,2,0,1,0,4,2,0,0,1,0,0,,,3b1c031b,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Reggie Cannon,4,USA,CB,28-041,89,0,0,0,0,0,0,1,0,1,0,1,3,1,1,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,Colorado Rapids,Rob Holding,6,ENG,CB,30-305,89,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Alejandro Alvarado Jr.,70,USA,MF,22-358,21,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Alex Mighten,77,ENG,AM,24-102,89,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,,,3b1c031b,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Anders Dreyer,10,DEN,AM,28-081,90,0,0,0,0,2,0,0,0,1,0,0,4,0,0,0,,,3b1c031b,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Aníbal Godoy,20,PAN,DM,36-162,69,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Bryan Zamblé,14,CIV,FW,18-153,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,C.J. dos Santos,1,CPV,GK,25-332,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Christopher McVey,97,SWE,CB,29-101,90,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Ian Murphy,32,USA,DF,26-187,21,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Jeppe Tverskov,6,DEN,DM,33-132,90,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Kieran Sargeant,5,USA,LB,23-098,69,0,0,0,0,0,0,0,0,0,0,0,1,4,3,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Lewis Morgan,9,SCO,"FW,MF",29-295,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Manu Duah,26,GHA,CB,21-047,90,0,0,0,0,0,0,0,0,1,5,0,0,2,1,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Marcus Ingvartsen,7,DEN,FW,30-199,82,0,0,0,0,1,1,0,0,2,2,0,0,0,0,0,,,3b1c031b,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Onni Valakari,8,FIN,AM,26-338,90,0,0,0,0,2,1,0,0,0,3,0,0,2,0,0,,,3b1c031b,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Colorado Rapids-San Diego FC,San Diego FC,Oscar Verhoeven,33,USA,RB,20-052,90,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,3b1c031b,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Chase Adams,46,USA,MF,18-096,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Dylan Chambost,7,FRA,"FW,MF",28-337,17,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Dániel Gazdag,8,HUN,"FW,MF",30-142,16,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,,,468c2a64,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Hugo Picard,30,FRA,MF,23-074,28,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Jamal Thiaré,19,SEN,FW,33-113,74,0,0,0,0,2,0,1,0,1,1,0,0,0,2,0,,,468c2a64,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Malte Amundsen,18,DEN,LB,28-161,63,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Max Arfsten,27,USA,LM,25-094,90,0,0,0,0,1,1,1,0,3,0,0,5,2,0,0,,,468c2a64,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Mohamed Farsi,23,ALG,RB,26-218,90,0,0,0,0,1,0,0,0,0,1,0,1,2,1,0,,,468c2a64,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Nəriman Axundzadə,90,AZE,RM,22-090,82,0,0,0,0,2,1,0,0,0,2,0,0,2,0,0,,,468c2a64,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Patrick Schulte,28,USA,GK,25-131,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Rudy Camacho,4,FRA,CB,35-139,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Sean Zawadzki,25,USA,CB,26-092,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Steven Moreira,31,CPV,"DF,MF",31-343,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Sékou Tidiany Bangoura,17,GUI,CM,24-108,73,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Taha Habroune,16,USA,FW,20-167,90,0,0,0,0,4,1,1,0,1,2,0,2,1,1,0,,,468c2a64,0.0,4,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,Columbus Crew,Tarun Karumanchi,50,USA,CM,23-112,62,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Agustin Ojeda,26,ARG,RW,22-033,90,1,0,0,0,2,2,0,0,0,1,0,0,2,0,0,,,468c2a64,0.0,2,2,1,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Andrés Perea,8,USA,AM,25-250,90,0,0,0,0,3,2,0,0,0,1,0,0,4,2,0,,,468c2a64,0.0,3,2,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Bénie Traoré,9,CIV,FW,23-234,54,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Hannes Wolf,17,AUT,"FW,MF",27-097,36,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,James Sands,6,USA,CB,26-016,90,0,0,0,0,0,0,1,0,1,1,0,0,2,2,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Jonathan Shore,32,USA,DM,19-100,76,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Kevin Pierre,15,USA,MF,23-031,14,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Malachi Jones,88,SLE,LW,22-302,54,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,,,468c2a64,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Matt Freese,49,USA,GK,27-323,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Maxi Carrizo,29,USA,MF,18-144,8,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Nico Cavallo,2,USA,LB,24-207,82,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Nicolás Fernández,7,ARG,AM,26-192,90,1,0,1,1,2,1,0,0,4,1,0,2,4,0,0,,,468c2a64,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Talles Magno,11,BRA,"FW,MF",24-026,36,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,,,468c2a64,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Tayvon Gray,24,JAM,RB,23-337,90,0,0,0,0,0,0,1,0,1,0,0,3,1,3,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Columbus Crew-NYCFC,New York City FC,Thiago Martins,13,BRA,CB,31-127,90,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,,,468c2a64,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Ayoub Jabbari,99,MAR,FW,26-173,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Bryan Ramírez,29,ECU,"DF,FW",25-345,27,0,0,0,0,0,0,0,0,0,1,0,0,4,1,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Ender Echenique,66,VEN,DM,22-111,63,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a95bd236,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Evander,10,BRA,AM,28-043,90,1,1,0,0,4,2,0,0,1,2,0,1,1,1,0,,,a95bd236,0.0,4,2,1,1
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Gerardo Valenzuela,22,USA,DM,21-297,90,0,1,0,0,1,0,0,0,3,2,0,0,0,1,0,,,a95bd236,0.0,1,0,0,1
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Kenji Mboma Dem,17,FRA,AM,24-181,63,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Kyle Smith,24,USA,"DF,MF",34-194,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Kévin Denkey,9,TOG,FW,25-234,88,1,0,0,0,3,2,0,0,2,2,0,0,0,0,0,,,a95bd236,0.0,3,2,1,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Matt Miazga,21,USA,CB,31-003,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Miles Robinson,12,USA,CB,29-130,63,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Obinna Nwobodo,5,NGA,DM,29-235,90,0,0,0,0,0,0,0,0,0,1,0,0,6,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Pavel Bucha,20,CZE,DM,28-133,90,2,0,0,0,2,2,1,0,3,0,0,0,3,2,0,,,a95bd236,0.0,2,2,2,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Roman Celentano,18,USA,GK,25-311,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Samuel Gidi,11,SVK,CB,22-098,88,0,1,0,0,0,0,0,0,1,3,0,0,0,3,0,,,a95bd236,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Teenage Hadebe,15,ZIM,DF,30-308,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,FC Cincinnati,Tom Barlow,16,USA,FW,31-014,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Andrés Cubas,20,PAR,DM,30-061,83,0,0,0,0,0,0,1,0,2,1,0,0,4,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Brian White,24,USA,FW,30-169,90,0,0,0,0,2,0,1,0,2,1,3,0,0,0,0,,,a95bd236,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Bruno Caicedo,14,ECU,AM,21-188,43,0,1,0,0,1,0,0,0,0,3,0,4,0,0,0,,,a95bd236,0.0,1,0,0,1
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Cheikh Tidiane Sabaly,7,SEN,"FW,MF",27-140,47,0,0,0,0,1,1,0,0,0,0,0,2,1,1,0,,,a95bd236,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Jean-Claude Ngando,26,CMR,MF,26-244,29,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,,,a95bd236,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Jeevan Badwal,59,CAN,AM,20-133,61,1,1,0,0,1,1,0,0,1,1,0,1,1,0,0,,,a95bd236,0.0,1,1,1,1
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Mathías Laborda,2,URU,CB,26-310,90,0,0,0,0,4,0,1,0,1,0,0,0,0,0,0,,,a95bd236,0.0,4,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Nikola Djordjevic,41,USA,DF,23-250,28,0,0,0,0,0,0,0,0,0,0,0,5,1,2,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Oliver Larraz,8,USA,DM,24-309,90,0,1,0,0,2,1,0,0,2,0,0,5,2,0,0,,,a95bd236,0.0,2,1,0,1
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Ranko Veselinović,4,SRB,DF,27-120,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Rayan Elloumi,19,TUN,FW,18-308,7,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,a95bd236,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Ryan Gauld,25,SCO,AM,30-218,62,2,0,0,0,4,2,0,0,1,0,0,2,0,0,0,,,a95bd236,0.0,4,2,2,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Tate Johnson,28,USA,LB,21-012,90,0,0,0,0,0,0,0,0,0,4,0,2,1,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Tristan Blackmon,33,USA,CB,29-344,90,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,,,a95bd236,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Yohei Takaoka,1,JPN,GK,30-128,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 FC Cincinnati-Vancouver,Vancouver Whitecaps,Édier Ocampo,18,COL,RB,22-292,83,0,0,0,0,0,0,1,0,2,1,0,8,0,1,0,,,a95bd236,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Andre Dozzell,21,ENG,CM,27-081,87,0,0,0,0,0,0,1,0,1,0,0,1,1,2,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Brandon Servania,23,USA,CM,27-132,66,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Hosei Kijima,77,JPN,MF,24-021,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Jackson Hopkins,25,USA,RM,22-021,52,0,0,0,0,1,0,0,0,1,1,0,2,2,0,0,,,5a41937d,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Jared Stroud,8,USA,"FW,MF",30-012,24,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,,,5a41937d,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Keisuke Kurokawa,6,JPN,LB,29-100,90,0,0,0,0,1,0,0,0,0,0,0,5,0,1,0,,,5a41937d,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Louis Munteanu,11,ROU,FW,24-036,66,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,,,5a41937d,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Lucas Bartlett,3,USA,CB,28-361,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Matti Peltola,4,FIN,"DF,MF",24-019,38,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,,,5a41937d,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Nathan Ordaz,22,SLV,FW,22-191,24,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,,,5a41937d,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Nikola Marković,27,CAN,DF,22-000,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Peglow,7,BRA,LM,24-196,66,0,0,0,0,0,0,0,0,1,1,0,5,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Sean Johnson,1,USA,GK,37-052,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Sean Nealis,13,USA,CB,29-190,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Silvan Hefti,5,SUI,RB,28-270,90,0,0,0,0,0,0,1,0,4,0,0,2,1,2,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,D.C. United,Tai Baribo,9,ISR,FW,28-188,90,1,0,0,0,1,1,1,0,2,2,1,0,0,0,0,,,5a41937d,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Agustín Resch,34,ARG,CB,24-144,90,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Artur,6,BRA,DM,30-133,90,0,0,0,0,1,0,1,0,1,3,0,0,0,3,0,,,5a41937d,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Diadie Samassékou,18,MLI,MF,30-192,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Duane Holmes,14,USA,"FW,MF",31-258,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Duncan McGuire,23,USA,FW,25-167,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Erik Sviatchenko,28,DEN,DF,34-291,30,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,,,5a41937d,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Ezequiel Ponce,10,ARG,FW,29-115,32,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,,,5a41937d,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Felipe Andrade,36,BRA,RB,24-054,87,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Franco Negri,21,ARG,"DF,MF",31-152,14,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,,,5a41937d,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Guilherme,20,BRA,LW,31-100,90,0,0,0,0,4,1,0,0,0,3,0,7,0,0,0,,,5a41937d,0.0,4,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Héctor Herrera,16,MEX,AM,36-094,77,1,0,0,0,2,1,0,0,1,2,0,1,0,1,0,,,5a41937d,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Jack McGlynn,8,USA,AM,23-015,90,0,0,0,0,2,0,0,0,0,0,0,7,0,0,0,,,5a41937d,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Jonathan Bond,31,ENG,GK,33-064,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Lawrence Ennali,11,GER,LB,24-137,76,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,,,5a41937d,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Lucas Halter,5,BRA,CB,26-081,60,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,,,5a41937d,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Mateusz Bogusz,19,POL,RW,24-334,87,0,0,0,0,3,2,0,0,0,1,2,1,0,0,0,,,5a41937d,0.0,3,2,0,0
-USA-Major League Soccer,2026,2026-07-22 Houston-D.C. United,Houston Dynamo,Ondřej Lingr,9,CZE,"FW,MF",27-288,3,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,,,5a41937d,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Andrew Gutman,15,USA,LB,29-293,87,0,0,0,0,1,0,0,0,2,0,0,1,1,1,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Anton Salétros,6,SWE,CM,30-101,90,0,0,0,0,2,1,0,0,4,0,0,2,0,3,0,,,c061434a,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Chris Brady,1,USA,GK,22-141,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Innocent Dje,42,CIV,CM,23-078,62,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,,,c061434a,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Jack Elliott,3,ENG,CB,30-331,90,0,0,0,0,1,0,1,0,3,0,0,0,0,0,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Jason Shokalook,20,USA,FW,23-295,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Joel Waterman,16,CAN,CB,30-179,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Jonathan Bamba,19,CIV,LM,30-118,90,0,0,0,0,1,0,0,0,0,1,1,1,1,2,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Jonathan Dean,24,USA,RB,29-068,90,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Maren Haile-Selassie,7,SUI,FW,27-131,87,0,1,0,0,1,0,0,0,1,1,2,2,0,0,0,,,c061434a,0.0,1,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Mauricio Pineda,22,USA,"DF,MF",28-278,28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Philip Zinckernagel,11,DEN,RM,31-218,62,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Puso Dithejane,12,RSA,MF,22-041,28,1,0,0,0,2,1,0,0,0,1,0,0,0,2,0,,,c061434a,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Robert Lewandowski,9,POL,FW,37-335,61,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Robin Lod,17,FIN,"FW,MF",33-096,29,0,0,0,0,2,1,0,0,1,1,0,1,1,0,0,,,c061434a,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Chicago Fire,Viktor Radojevic,14,SRB,DF,22-008,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,David Ruíz,41,HON,RW,22-164,68,0,0,0,0,0,0,0,0,0,3,0,2,2,1,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Dániel Pintér,56,USA,FW,19-046,17,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Facundo Mura,4,ARG,RB,27-121,90,0,0,0,0,1,0,0,0,0,0,0,2,1,1,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Germán Berterame,19,MEX,FW,27-251,90,0,1,0,0,1,1,0,0,0,1,1,0,0,0,0,,,c061434a,0.0,1,1,0,1
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Ian Fray,17,JAM,CB,23-325,84,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Luis Suárez,9,URU,FW,39-179,90,2,0,1,1,5,3,0,0,0,2,0,0,0,0,0,,,c061434a,0.0,5,3,2,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Mateo Silvetti,24,ARG,LW,20-189,73,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,,,c061434a,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Micael,16,BRA,CB,25-344,90,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Noah Allen,32,GRE,DF,22-085,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Preston Plambeck,59,USA,MF,20-214,22,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,,,c061434a,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Rocco Ríos Novo,34,ARG,GK,24-048,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Sergio Reguilón,3,ESP,LB,29-218,90,0,0,0,0,4,1,1,0,2,1,0,10,0,3,0,,,c061434a,0.0,4,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Telasco Segovia,8,VEN,CM,23-111,90,0,0,0,0,1,0,0,0,1,2,0,2,1,3,0,,,c061434a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Inter Miami-Chicago Fire,Inter Miami,Yannick Bright,42,ITA,CM,24-322,90,0,0,0,0,0,0,0,0,3,3,0,0,1,2,0,,,c061434a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Carlos Garcés,25,COL,CB,24-284,48,0,0,0,0,0,0,2,1,1,1,0,0,1,1,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Elijah Wynder,22,USA,AM,23-134,73,0,0,0,0,1,0,0,0,0,2,0,0,1,0,0,,,e35a4001,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Harbor Miller,26,USA,LW,19-031,90,0,0,0,0,2,0,0,0,4,1,0,2,1,0,0,,,e35a4001,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Isaiah Parente,16,USA,MF,26-128,27,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,J.T. Marcinkowski,12,USA,GK,29-074,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Jakob Glesnes,5,NOR,CB,32-119,90,0,0,0,0,0,0,1,0,3,2,2,0,1,2,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,John Nelson,14,USA,LB,28-011,63,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,,,e35a4001,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Joseph Paintsil,28,GHA,RW,28-171,73,0,0,0,0,2,0,0,0,0,4,0,0,0,1,0,,,e35a4001,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Julián Aude,3,ARG,DF,23-120,27,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Justin Haak,15,USA,DM,24-313,90,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Lucas Sanabria,8,URU,AM,22-208,63,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Marco Reus,18,GER,FW,37-052,58,0,0,0,0,1,1,1,0,0,0,0,4,0,1,0,,,e35a4001,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Maya Yoshida,4,JPN,DF,37-332,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Miki Yamane,2,JPN,RB,32-212,90,0,0,0,0,1,0,0,0,0,0,1,1,0,2,0,,,e35a4001,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Robert Taylor,21,FIN,"FW,MF",31-274,32,0,0,0,0,1,0,0,0,0,0,0,3,0,1,0,,,e35a4001,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,LA Galaxy,Troy Elgersma,76,,MF,,17,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,,,e35a4001,0.0,2,2,1,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Chris Durkin,8,USA,DM,26-164,90,0,0,0,0,0,0,0,0,2,0,0,0,1,4,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Daniel Edelman,24,USA,DM,23-085,85,0,0,0,0,0,0,0,0,1,0,0,0,2,3,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Dante Polvara,21,USA,CB,26-031,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Eduard Löwen,10,GER,FW,29-175,61,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,,,e35a4001,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Jaziel Orozco,99,USA,DF,22-050,29,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Jeong Sangbin,77,KOR,"FW,MF",24-112,29,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,,,e35a4001,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Lukas MacNaughton,5,CAN,CB,31-136,61,1,0,0,0,1,1,1,0,1,1,0,0,0,1,0,,,e35a4001,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Marcel Hartel,17,GER,AM,30-184,90,1,2,0,0,4,2,0,0,1,0,0,5,2,1,0,,,e35a4001,0.0,4,2,1,2
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Miguel Perez,28,USA,MF,21-085,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Mykhi Joyner,59,USA,DM,19-326,61,0,0,0,0,1,0,0,0,5,1,1,0,0,0,0,,,e35a4001,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Palmer Ault,29,USA,FW,22-094,5,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,,,e35a4001,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Rafael Santos,20,BRA,DF,28-167,29,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,,,e35a4001,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Roman Bürki,1,SUI,GK,35-250,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Simon Becher,11,USA,FW,27-002,85,1,0,0,0,5,4,0,0,1,4,1,1,0,1,0,,,e35a4001,0.0,5,4,1,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Timo Baumgartl,32,GER,CB,30-140,90,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,,,e35a4001,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LA Galaxy-St. Louis City,St. Louis City,Tomas Totland,14,NOR,DM,26-297,90,0,1,0,0,0,0,0,0,2,1,0,4,3,3,0,,,e35a4001,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,David Martínez,30,VEN,FW,20-165,27,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,,,2f6a1522,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Denis Bouanga,99,GAB,FW,31-253,83,1,0,0,0,2,1,0,0,0,0,0,5,0,1,0,,,2f6a1522,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Eddie Segura,4,COL,CM,29-170,90,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,,,2f6a1522,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Hugo Lloris,1,FRA,GK,39-208,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Jacob Shaffelburg,18,CAN,FW,26-238,63,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Jeremy Ebobisse,17,USA,"FW,MF",29-158,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Jude Terry,22,USA,MF,17-287,27,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,,2f6a1522,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Kenneth Nielsen,45,USA,DF,24-159,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Marky Delgado,8,USA,CM,31-067,90,0,0,0,0,0,0,0,0,1,1,0,1,1,2,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Mathieu Choinière,66,CAN,CM,27-165,63,0,1,0,0,0,0,0,0,1,0,0,0,0,3,0,,,2f6a1522,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Nkosi Tafari,91,USA,CB,29-121,90,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,2f6a1522,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Ryan Hollingshead,24,USA,RB,35-097,83,0,0,0,0,0,0,0,0,1,1,0,1,1,2,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Ryan Porteous,5,SCO,CB,27-119,90,0,0,0,0,1,0,0,0,1,0,0,1,0,3,0,,,2f6a1522,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Son Heung-min,7,KOR,FW,34-014,71,1,0,0,0,4,2,0,0,0,0,0,2,0,0,0,,,2f6a1522,0.0,4,2,1,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Tyler Boyd,19,USA,"FW,MF",31-204,7,0,0,0,0,1,0,0,0,0,2,0,2,0,1,0,,,2f6a1522,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Los Angeles FC,Yevhen Cheberko,23,UKR,LB,28-180,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Alexandros Katranis,98,GRE,DF,28-079,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,DeAndre Yedlin,2,USA,CB,33-013,90,0,0,0,0,0,0,0,0,3,1,0,0,0,0,1,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Diego Luna,10,USA,AM,22-318,77,0,0,0,0,3,0,0,0,0,1,0,7,0,0,0,,,2f6a1522,0.0,3,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Griffin Dillon,27,USA,MF,23-088,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Juan Manuel Sanabria,8,URU,DM,26-115,83,0,0,0,0,1,0,0,0,0,0,0,12,0,1,0,,,2f6a1522,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Lukas Engel,4,DEN,CB,27-220,90,1,0,0,0,1,1,0,0,0,0,0,4,0,0,0,,,2f6a1522,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Morgan Guilavogui,9,GUI,AM,28-134,78,0,0,0,0,3,2,0,0,0,0,0,3,2,0,0,,,2f6a1522,0.0,3,2,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Noel Caliskan,92,GER,DM,25-327,90,0,0,0,0,4,1,0,0,0,1,0,2,2,2,0,,,2f6a1522,0.0,4,1,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Philip Quinton,26,USA,CB,26-248,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Rafael Cabral,1,BRA,GK,36-063,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Saba Lobzhanidze,12,GEO,"FW,MF",31-216,13,0,1,0,0,2,1,0,0,1,0,0,7,0,0,0,,,2f6a1522,0.0,2,1,0,1
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Sergi Solans,22,ESP,FW,23-146,78,0,0,0,0,3,0,0,0,1,0,0,0,1,0,0,,,2f6a1522,0.0,3,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Stijn Spierings,6,NED,DM,30-132,63,0,0,0,0,3,0,0,0,1,0,0,0,0,1,0,,,2f6a1522,0.0,3,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Victor Olatunji,17,NGA,FW,26-320,27,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,,,2f6a1522,0.0,3,1,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Zach Booth,23,USA,MF,22-155,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2f6a1522,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 LAFC-Real Salt Lake,Real Salt Lake,Zavier Gozo,72,USA,DM,19-122,90,0,0,0,0,5,0,0,0,1,1,0,6,1,0,0,,,2f6a1522,0.0,5,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Alhassan Yusuf,80,NGA,DM,26-004,85,0,0,0,0,0,0,0,0,2,2,0,0,1,1,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Brayan Ceballos,3,COL,DF,25-059,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Brooklyn Raines,21,USA,DM,21-133,90,0,0,0,0,2,0,1,0,1,3,0,1,0,0,0,,,d67c7a98,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Carles Gil,10,ESP,AM,33-242,90,0,0,0,0,4,1,0,0,0,1,0,5,0,0,0,,,d67c7a98,0.0,4,1,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Dor Turgeman,11,ISR,FW,22-271,72,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Ethan Kohler,22,USA,CB,21-063,85,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Griffin Yow,7,USA,AM,23-300,59,0,0,0,0,2,1,0,0,4,0,0,5,0,0,0,,,d67c7a98,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Jackson Yueill,14,USA,MF,29-125,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Luca Langoni,41,ARG,"FW,MF",24-163,18,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Mamadou Fofana,2,MLI,CB,28-182,90,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Marcos Zambrano,17,USA,FW,21-183,31,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Matt Polster,8,USA,RB,33-044,72,0,0,0,0,1,0,1,0,1,0,0,1,0,2,0,,,d67c7a98,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Matt Turner,30,USA,GK,32-028,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Peyton Miller,25,USA,AM,18-256,90,0,0,0,0,2,1,0,0,1,1,1,4,1,0,0,,,d67c7a98,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,William Sands,23,USA,LB,26-016,90,0,0,0,0,0,0,0,0,0,3,0,2,1,2,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,New England Revolution,Wilson Harris,27,USA,FW,26-236,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Alonso Coello,14,ESP,DM,26-283,90,0,0,0,0,0,0,0,0,1,0,0,13,0,2,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Deandre Kerr,29,CAN,DM,23-245,63,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Dániel Sallói,20,HUN,AM,30-003,90,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,,,d67c7a98,0.0,3,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Emilio Aristizábal,17,COL,FW,20-351,45,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,,,d67c7a98,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Jackson Gilman,38,USA,CB,22-084,90,0,0,0,0,1,1,0,0,0,1,0,0,2,3,0,,,d67c7a98,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Jonathan Osorio,21,CAN,DM,34-040,90,0,0,0,0,1,0,0,0,2,0,0,0,1,1,0,,,d67c7a98,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Josh Sargent,9,USA,"FW,MF",26-152,45,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,,,d67c7a98,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Jules-Anthony Vilsaint,99,CAN,AM,23-197,63,0,0,0,0,4,0,0,0,1,3,0,0,2,0,0,,,d67c7a98,0.0,4,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Luka Gavran,1,CAN,GK,26-074,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Malik Henry,78,CAN,MF,23-364,27,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Richard Chukwu,96,CAN,CB,18-147,70,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Richie Laryea,22,CAN,DM,31-196,90,0,0,0,0,0,0,0,0,2,5,0,2,2,1,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Theo Corbeanu,7,CAN,"FW,MF",24-066,27,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,,,d67c7a98,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Walker Zimmerman,25,USA,CB,33-064,90,0,0,0,0,1,0,0,0,2,0,0,0,2,0,0,,,d67c7a98,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 NE Revolution-Toronto FC,Toronto FC,Zane Monlouis,12,ENG,DF,22-279,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d67c7a98,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Brayan Vera,4,COL,CB,27-188,90,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Daniel Armando Ríos,14,MEX,FW,31-150,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Dawid Bugaj,27,POL,RB,22-013,90,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Efrain Morales,24,BOL,DF,22-140,17,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,,,d2064b39,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Fabian Herbers,21,GER,CM,32-339,73,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Frankie Amaya,25,USA,MF,25-299,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,d2064b39,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Hennadii Synchuk,18,UKR,FW,20-012,90,0,0,0,0,1,0,0,0,2,2,0,2,0,3,0,,,d2064b39,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Jalen Neal,2,USA,CB,22-332,73,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Luca Petrasso,13,CAN,LB,26-036,90,0,0,0,0,0,0,0,0,0,2,0,3,1,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Matthew Longstaff,8,ENG,CM,26-123,87,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Noah Streit,23,SUI,FW,20-284,81,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,,,d2064b39,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Olger Escobar,29,GUA,FW,19-314,9,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Prince Owusu,9,GHA,FW,29-196,90,0,0,0,0,3,1,1,0,3,0,0,0,1,1,0,,,d2064b39,0.0,3,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Sebastian Breza,1,CAN,GK,28-129,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,CF Montréal,Victor Loturi,22,CAN,CM,25-062,90,0,0,0,0,0,0,0,0,2,1,0,1,1,1,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Ahmed Qasem,37,IRQ,"FW,MF",23-010,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Alex Muyl,19,USA,AM,30-295,65,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,d2064b39,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Andy Najar,31,HON,"DF,MF",33-128,34,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,,,d2064b39,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Brian Schwake,99,USA,GK,24-332,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Bryan Acosta,6,HON,MF,32-240,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Charles-Emile Brunet,12,CAN,MF,22-238,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Daniel Lovitz,2,USA,LB,34-329,90,0,0,0,0,0,0,0,0,3,1,0,3,1,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Edvard Sandvik Tagseth,20,NOR,DM,25-180,65,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Hany Mukhtar,10,GER,AM,31-123,90,0,0,0,0,2,0,0,0,0,0,0,6,0,0,0,,,d2064b39,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Jack Maher,5,USA,DF,26-267,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Jeison Palacios,4,COL,CB,32-124,90,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Josh Bauer,22,USA,RB,28-000,56,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Matthew Corcoran,16,USA,DM,20-155,89,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,d2064b39,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Maxwell Woledzi,3,GHA,CB,25-020,90,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,,,d2064b39,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Sam Surridge,9,ENG,FW,27-359,90,1,0,1,1,2,1,1,0,3,2,0,1,0,0,0,,,d2064b39,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Nashville SC-CF Montréal,Nashville SC,Shakur Mohammed,14,GHA,AM,22-329,88,0,0,0,0,3,0,0,0,2,1,1,0,2,0,0,,,d2064b39,0.0,3,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Andre Blake,18,JAM,GK,35-243,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Bruno Damiani,9,URU,FW,24-095,90,0,0,0,0,3,3,0,0,2,4,0,0,1,0,0,,,d1a02166,0.0,3,3,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Cavan Sullivan,6,USA,RM,16-297,84,0,0,0,0,2,2,0,0,1,1,1,3,1,1,0,,,d1a02166,0.0,2,2,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Danley Jean-Jacques,21,HAI,CM,26-063,90,0,0,0,0,3,0,0,0,0,1,0,0,2,5,0,,,d1a02166,0.0,3,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Ezekiel Kwame Alladoh,23,GHA,FW,20-312,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Francis Westfield,39,USA,RB,20-225,90,0,1,0,0,2,0,0,0,3,1,0,7,1,2,0,,,d1a02166,0.0,2,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Indiana Vassilev,19,USA,LM,25-156,72,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,,,d1a02166,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Japhet Sery,5,DEN,CB,26-103,55,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Jesús Daniel Bueno,8,VEN,MF,27-098,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Jovan Lukić,4,SRB,CM,24-183,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Kai Wagner,27,GER,LB,29-157,90,0,1,0,0,2,0,0,0,1,0,0,7,1,3,0,,,d1a02166,0.0,2,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Milan Iloski,10,USA,FW,26-358,84,1,0,0,0,6,3,0,0,2,0,0,5,0,0,0,,,d1a02166,0.0,6,3,1,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Nathan Harriel,26,USA,CB,25-090,90,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Neil Pierre,44,USA,DF,18-276,35,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,,,d1a02166,0.0,3,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Philadelphia Union,Quinn Sullivan,33,USA,"FW,MF",22-117,18,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,,,d1a02166,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Adri Mehmeti,15,USA,CM,17-107,90,0,0,0,0,1,0,0,0,3,1,0,0,0,1,0,,,d1a02166,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Cade Cowell,7,USA,FW,22-281,73,1,0,0,0,1,1,0,0,1,1,0,2,0,0,0,,,d1a02166,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Dylan Nealis,12,USA,CB,27-357,90,0,0,0,0,2,1,0,0,1,1,0,0,1,1,0,,,d1a02166,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Emil Forsberg,10,SWE,CM,34-272,73,0,1,0,0,1,0,0,0,1,1,0,5,0,0,0,,,d1a02166,0.0,1,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Ethan Horvath,34,USA,GK,31-043,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Gustav Berggren,4,SWE,MF,28-318,17,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Jahkeele Marshall-Rutty,3,CAN,RB,22-036,73,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,,,d1a02166,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Jorge Ruvalcaba,11,MEX,FW,24-364,90,0,0,0,0,2,1,0,0,1,1,0,1,0,0,0,,,d1a02166,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Julian Hall,16,USA,FW,18-120,90,0,0,0,0,1,1,0,0,1,2,0,0,0,0,0,,,d1a02166,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Julián Bazán,14,COL,DF,20-239,17,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,,,d1a02166,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Justin Che,2,USA,CB,22-246,90,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Matthew Dos Santos,56,USA,LB,18-047,45,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Mohammed Sofo,37,GHA,MF,21-234,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Omar Valencia,5,PAN,DF,22-044,45,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Philadelphia-RB New York,Red Bull New York,Ronald Donkor,48,GHA,CM,21-244,90,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,,,d1a02166,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Bernard Kamungo,77,USA,"FW,MF",24-202,29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Christian Cappis,12,USA,DM,26-343,90,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Daniel,42,BRA,GK,32-077,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Herman Johansson,14,SWE,RB,28-279,83,0,0,0,0,0,0,1,0,4,0,1,0,2,0,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Joaquín Valiente,21,URU,DM,25-100,83,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,,,e4ab15cd,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Kaick,55,BRA,DM,20-235,90,0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Logan Farrington,23,USA,FW,24-220,61,0,0,0,0,2,1,0,0,1,0,0,0,1,1,0,,,e4ab15cd,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Nolan Norris,32,USA,LB,21-155,90,0,0,0,0,1,0,0,0,0,1,0,2,0,1,0,,,e4ab15cd,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Osaze Urhoghide,3,NED,CB,26-018,90,0,0,0,0,1,0,0,0,4,3,0,0,2,0,0,,,e4ab15cd,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Patrickson Delgado,8,ECU,DM,22-278,61,1,0,0,0,2,1,0,0,0,0,0,1,0,1,0,,,e4ab15cd,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Petar Musa,9,CRO,FW,28-140,29,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,,,e4ab15cd,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Ran Binyamin,6,ISR,MF,22-166,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Samuel Sarver,28,USA,FW,23-141,29,0,0,0,0,1,0,0,0,0,2,1,0,1,0,0,,,e4ab15cd,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Santiago Moreno,10,COL,AM,26-092,61,0,0,0,0,2,0,0,0,2,1,0,1,0,0,0,,,e4ab15cd,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Sebastien Ibeagha,25,USA,DF,34-182,7,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,FC Dallas,Shaq Moore,18,USA,CB,29-262,90,0,0,0,0,0,0,0,0,0,2,0,1,1,2,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Alexander Aravena,28,CHI,"FW,MF",23-319,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,e4ab15cd,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Antony,11,BRA,LW,24-317,90,0,0,0,0,2,0,0,0,0,2,0,3,1,0,0,,,e4ab15cd,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Ariel Lassiter,7,CRC,RW,31-298,54,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Brandon Bye,5,USA,RB,30-235,90,0,0,0,0,1,1,1,0,1,0,0,3,1,2,0,,,e4ab15cd,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Cole Bassett,17,USA,AM,24-359,80,0,0,0,0,2,0,0,0,1,0,0,2,0,0,0,,,e4ab15cd,0.0,2,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,David Costa,10,POR,AM,25-198,90,0,0,0,0,1,0,0,0,0,2,0,1,1,1,0,,,e4ab15cd,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Diego Chará,21,COL,MF,40-108,36,0,0,0,0,0,0,1,0,2,1,0,0,2,1,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Felipe Mora,9,CHI,FW,32-354,10,1,0,0,0,1,1,0,0,1,2,0,0,0,0,0,,,e4ab15cd,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Finn Surman,20,NZL,CB,22-302,90,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,James Pantemis,41,CAN,GK,29-151,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Jimer Fory,27,COL,LB,24-059,90,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,José Caicedo,30,COL,DM,24-060,54,0,0,0,0,0,0,0,0,0,2,0,0,2,2,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Kamal Miller,4,CAN,CB,29-067,90,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,,,e4ab15cd,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Kevin Kelsy,19,VEN,FW,21-360,80,1,0,0,0,5,1,0,0,3,1,0,0,0,0,0,,,e4ab15cd,0.0,5,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Portland Timbers-FC Dallas,Portland Timbers,Kristoffer Velde,99,NOR,"FW,MF",26-316,36,0,1,0,0,3,1,0,0,2,1,0,9,0,0,0,,,e4ab15cd,0.0,3,1,0,1
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Adrián Marín,3,ESP,LB,29-194,78,0,0,0,0,0,0,0,0,4,0,0,0,1,2,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Antoine Griezmann,7,FRA,FW,35-123,90,1,0,0,0,2,1,0,0,0,2,0,1,1,0,0,,,9598717a,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Bernardo Rhein,44,BRA,FW,18-304,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Braian Ojeda,8,PAR,CM,26-025,90,1,0,0,0,2,1,0,0,1,2,0,1,1,4,0,,,9598717a,0.0,2,1,1,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,David Brekalo,4,SVN,CB,27-231,90,1,0,0,0,2,2,0,0,0,2,0,0,0,3,0,,,9598717a,0.0,2,2,1,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Eduard Atuesta,20,COL,CM,29-034,78,0,3,0,0,1,1,1,0,1,1,0,3,1,1,0,,,9598717a,0.0,1,1,0,3
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Griffin Dorsey,24,USA,RB,27-139,90,0,0,0,0,0,0,0,0,1,4,0,2,2,1,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Harvey Sarajian,23,USA,FW,21-177,12,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,,,9598717a,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Iván Angulo,77,COL,RM,27-122,78,1,0,0,0,1,1,0,0,0,1,0,0,3,1,0,,,9598717a,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Justin Ellis,22,USA,FW,19-069,83,0,1,0,0,1,0,0,0,1,3,2,0,1,1,0,,,9598717a,0.0,1,0,0,1
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Luis Otávio,5,BRA,MF,19-101,12,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Maxime Crépeau,71,CAN,GK,32-072,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Robin Jansson,6,SWE,CB,34-249,90,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Tiago,11,BRA,LM,21-105,58,0,0,0,0,3,0,0,0,0,1,2,0,2,0,0,,,9598717a,0.0,3,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Tyrese Spicer,14,TRI,MF,25-230,32,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,,,9598717a,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,Orlando City,Zakaria Taifi,19,USA,MF,20-294,7,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Angus Gunn,1,SCO,GK,30-181,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Beau Leroux,34,USA,DM,22-325,85,0,0,0,0,3,2,0,0,0,0,0,2,3,0,0,,,9598717a,0.0,3,2,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Benjamin Kikanovic,28,USA,RB,26-197,90,0,0,0,0,0,0,0,0,2,0,1,5,0,1,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Daniel Munie,5,USA,CB,26-162,90,0,0,0,0,0,0,1,0,2,0,0,0,1,2,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Darius Johnson,79,GRN,MF,26-129,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Ian Harkes,6,USA,MF,31-114,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Jack Skahan,16,USA,MF,28-165,45,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,,,9598717a,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Jamar Ricketts,2,USA,LB,24-271,73,0,0,0,0,0,0,0,0,2,1,0,2,2,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Jonathan González,40,MEX,MF,27-100,10,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,9598717a,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Nick Fernandez,20,USA,AM,24-212,45,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Ousseni Bouda,7,BFA,AM,26-085,90,0,0,0,0,4,2,0,0,0,4,0,4,1,1,0,,,9598717a,0.0,4,2,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Paul Marie,3,FRA,"DF,MF",31-120,17,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Preston Judd,19,USA,FW,27-055,90,0,0,0,0,0,0,1,0,5,0,3,1,0,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Reid Roberts,18,USA,CB,22-225,90,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Ronaldo Vieira,14,GNB,DM,28-003,80,0,0,0,0,0,0,1,0,3,1,0,0,0,1,0,,,9598717a,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 SJ Earthquakes-Orlando City,San Jose Earthquakes,Timo Werner,11,GER,AM,30-138,73,0,0,0,0,2,2,1,0,3,1,1,2,1,0,0,,,9598717a,0.0,2,2,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Anthony Markanich,13,PHI,LM,26-208,90,0,0,0,0,2,1,0,0,0,2,0,1,1,0,0,,,51667a13,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Bongokuhle Hlongwane,21,RSA,"DF,FW",26-032,27,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Devin Padelford,2,USA,CB,23-200,74,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,,,51667a13,0.0,1,1,1,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Drake Callender,12,USA,GK,28-288,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Jefferson Díaz,28,COL,DF,25-229,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Joaquín Pereyra,26,ARG,FW,27-233,90,0,1,0,0,2,0,1,0,2,3,0,10,2,1,0,,,51667a13,0.0,2,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Julian Gressel,24,USA,"DF,MF",32-218,6,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Kelvin Yeboah,9,ITA,FW,26-077,63,0,0,0,0,3,1,0,0,1,1,0,0,1,0,0,,,51667a13,0.0,3,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Kyle Duncan,3,USA,RM,28-348,63,0,0,0,0,0,0,1,0,1,1,0,3,0,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Mamadou Dieng,29,SEN,FW,22-168,27,0,0,0,0,2,2,0,0,0,0,0,0,1,0,0,,,51667a13,0.0,2,2,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Mauricio Gonzalez,18,,MF,,16,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Michael Boxall,15,NZL,CB,37-338,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Morris Duggan,23,GER,CB,25-271,90,0,0,0,0,2,2,0,0,0,1,0,0,0,3,0,,,51667a13,0.0,2,2,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Owen Géne,30,FRA,CM,23-125,74,0,0,0,0,0,0,0,0,1,1,0,1,2,1,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Tomás Chancalay,8,ARG,FW,27-202,84,0,0,0,0,3,3,0,0,0,0,0,3,0,0,0,,,51667a13,0.0,3,3,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Minnesota United,Wil Trapp,20,USA,CM,33-188,90,0,0,0,0,1,0,0,0,0,4,0,0,0,1,0,,,51667a13,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Calvin Harris,11,ENG,AM,26-124,90,0,0,0,0,2,1,0,0,1,2,0,1,0,0,0,,,51667a13,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Capita,7,ANG,AM,24-193,71,0,1,0,0,0,0,1,0,5,2,0,0,2,0,0,,,51667a13,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Dejan Joveljić,9,SRB,FW,26-349,90,1,0,0,0,2,2,1,0,1,0,0,0,1,0,0,,,51667a13,0.0,2,2,1,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Emir Karic,18,BIH,LB,29-043,78,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Jacob Bartlett,16,USA,MF,20-288,12,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Jake Davis,8,USA,RB,24-200,90,0,1,0,0,0,0,0,0,2,0,0,1,1,1,0,,,51667a13,0.0,0,0,0,1
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Jayden Reid,99,USA,DF,24-326,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Kwaku Agyabeng,20,GHA,MF,20-025,19,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Lasse Berg Johnsen,4,NOR,DM,26-338,90,0,0,0,0,1,1,0,0,1,0,0,2,0,2,0,,,51667a13,0.0,1,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Manu García,6,ESP,AM,28-201,71,1,0,0,0,3,2,0,0,0,1,0,0,0,0,0,,,51667a13,0.0,3,2,1,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Or Blorian,5,ISR,CB,26-137,90,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,,,51667a13,0.0,1,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Stefan Cleveland,30,USA,GK,32-058,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Stephen Afrifa,17,CAN,FW,25-153,19,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,,,51667a13,0.0,2,1,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Wyatt Meyer,28,USA,CB,25-192,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,51667a13,0.0,0,0,0,0
-USA-Major League Soccer,2026,2026-07-22 Sporting KC-Minnesota Utd,Sporting Kansas City,Zorhan Bassong,22,CAN,DM,27-076,78,0,0,0,0,0,0,0,0,4,1,0,0,1,2,0,,,51667a13,0.0,0,0,0,0
 USA-Major League Soccer,2026,2026-07-25 CF Montréal-Inter Miami,CF Montréal,Brandan Craig,5,USA,DF,22-109,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,7996ae6d,0.0,0,0,0,0
 USA-Major League Soccer,2026,2026-07-25 CF Montréal-Inter Miami,CF Montréal,Brayan Vera,4,COL,CB,27-191,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,7996ae6d,0.0,0,0,0,0
 USA-Major League Soccer,2026,2026-07-25 CF Montréal-Inter Miami,CF Montréal,Daniel Armando Ríos,14,MEX,FW,31-153,61,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,,,7996ae6d,0.0,1,0,0,0
@@ -2350,3 +1883,478 @@ USA-Major League Soccer,2026,2026-08-19 Vancouver-Houston,Vancouver Whitecaps,Th
 USA-Major League Soccer,2026,2026-08-19 Vancouver-Houston,Vancouver Whitecaps,Tristan Blackmon,33,USA,CB,30-007,90,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,,,7705711d,0.0,1,0,0,0
 USA-Major League Soccer,2026,2026-08-19 Vancouver-Houston,Vancouver Whitecaps,Yohei Takaoka,1,JPN,GK,30-156,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,7705711d,0.0,0,0,0,0
 USA-Major League Soccer,2026,2026-08-19 Vancouver-Houston,Vancouver Whitecaps,Édier Ocampo,18,COL,RB,22-320,87,0,0,0,0,1,0,0,0,3,1,0,6,2,0,0,,,7705711d,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Besard Sabovic,14,SWE,CM,28-229,90,0,0,0,0,0,0,0,0,1,1,0,1,0,2,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Brad Stuver,1,USA,GK,35-128,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Brandon Vazquez,9,USA,FW,27-312,28,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,,,9bedce72,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Brendan Hines-Ike,4,USA,CB,31-265,71,1,0,0,0,1,1,0,0,1,2,0,0,0,1,0,,,9bedce72,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Christian Ramirez,21,USA,FW,35-140,62,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,,,9bedce72,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Ervin Torres,38,USA,CM,18-281,90,0,0,0,0,0,0,1,0,1,2,0,0,2,1,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Facundo Torres,11,URU,MF,26-131,28,0,0,0,0,1,1,0,0,0,0,0,4,0,0,0,,,9bedce72,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Guilherme Biro,29,BRA,CB,26-113,90,0,0,0,0,1,0,0,0,2,2,0,2,0,1,0,,,9bedce72,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Jon Gallagher,17,IRL,RM,30-180,83,0,0,0,0,1,1,0,0,0,0,1,4,0,0,0,,,9bedce72,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Jorge Alastuey,24,ESP,FW,23-100,62,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Joseph Rosales,30,HON,LM,25-289,71,0,1,0,0,2,0,0,0,1,3,1,4,1,1,0,,,9bedce72,0.0,2,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Mikkel Desler,3,DEN,"DF,MF",31-184,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Myrto Uzuni,10,ALB,FW,31-083,90,0,0,0,0,3,2,0,0,0,1,0,2,1,0,0,,,9bedce72,0.0,3,2,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Oleksandr Svatok,5,UKR,CB,31-329,90,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Przemysław Płacheta,77,POL,MF,28-152,19,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Austin FC,Žan Kolmanič,23,SVN,DF,26-172,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Alejandro Bedoya,11,USA,"FW,MF",39-115,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Andre Blake,18,JAM,GK,35-274,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Augustin Anello,28,ITA,"FW,MF",24-122,17,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,,,9bedce72,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Bruno Damiani,9,URU,FW,24-126,73,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Cavan Sullivan,6,USA,RM,16-328,73,1,0,0,0,1,1,0,0,0,0,0,2,1,0,0,,,9bedce72,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Danley Jean-Jacques,21,HAI,CM,26-094,90,0,0,0,0,1,0,0,0,3,2,0,0,0,3,0,,,9bedce72,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Ezekiel Kwame Alladoh,23,GHA,FW,20-343,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Francis Westfield,39,USA,RB,20-256,90,0,0,0,0,0,0,0,0,1,2,0,4,2,1,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Indiana Vassilev,19,USA,LM,25-187,56,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Jesús Daniel Bueno,8,VEN,CM,27-129,56,0,0,0,0,0,0,1,0,3,0,0,0,0,1,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Jovan Lukić,4,SRB,MF,24-214,34,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Kai Wagner,27,GER,LB,29-188,90,0,0,0,0,0,0,0,0,0,1,0,6,0,5,0,,,9bedce72,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Milan Iloski,10,USA,FW,27-024,89,0,0,0,0,2,0,0,0,2,0,1,3,0,0,0,,,9bedce72,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Nathan Harriel,26,USA,CB,25-121,90,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,,,9bedce72,0.0,1,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Neil Pierre,44,USA,CB,18-307,90,0,0,0,0,1,0,1,0,2,1,0,0,2,3,0,,,9bedce72,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Austin FC-Philadelphia,Philadelphia Union,Quinn Sullivan,33,USA,"FW,MF",22-148,34,0,0,0,0,2,2,0,0,0,0,0,3,0,1,0,,,9bedce72,0.0,2,2,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Alexis Sánchez,10,CHI,"FW,MF",37-246,29,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,,,204a3ff9,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Brandan Craig,5,USA,DF,22-137,45,0,0,0,0,2,0,1,0,2,0,0,0,0,1,0,,,204a3ff9,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Brayan Ceballos,3,COL,DF,25-090,30,0,0,0,0,1,0,1,0,3,3,0,0,1,0,0,,,204a3ff9,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Brayan Vera,4,COL,CB,27-219,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Daniel Armando Ríos,14,MEX,FW,31-181,90,1,0,0,0,3,2,0,0,1,0,0,2,1,0,0,,,204a3ff9,0.0,3,2,1,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Daniel Pereira,7,VEN,CM,26-039,61,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Dawid Bugaj,27,POL,RB,22-044,60,0,0,0,0,0,0,0,0,1,0,0,3,2,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Fabian Herbers,21,GER,"FW,MF",33-005,29,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Jalen Neal,2,USA,CB,22-363,80,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Luca Petrasso,13,CAN,LB,26-067,90,0,1,0,0,0,0,0,0,0,0,0,9,0,2,0,,,204a3ff9,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Matthew Longstaff,8,ENG,CM,26-154,90,0,0,0,0,3,2,0,0,0,1,2,3,0,0,0,,,204a3ff9,0.0,3,2,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Noah Streit,23,SUI,FW,20-315,61,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Olger Escobar,29,GUA,FW,19-345,10,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,,,204a3ff9,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Prince Owusu,9,GHA,FW,29-227,90,1,0,0,0,4,2,0,0,1,1,0,2,0,0,0,,,204a3ff9,0.0,4,2,1,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Thomas Gillier,31,CHI,GK,22-086,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,CF Montréal,Victor Loturi,22,CAN,CM,25-093,90,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Carlos Garcés,25,COL,DF,24-315,9,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Erik Thommy,27,GER,"FW,MF",32-002,29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Harbor Miller,26,USA,RB,19-062,90,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Hirving Lozano,11,MEX,"FW,MF",31-023,29,0,0,0,0,1,0,0,0,5,2,0,0,0,0,0,,,204a3ff9,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Isaiah Parente,16,USA,CM,26-159,71,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,J.T. Marcinkowski,12,USA,GK,29-105,67,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Jakob Glesnes,5,NOR,CB,32-150,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,John Nelson,14,USA,LB,28-042,71,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Joseph Paintsil,28,GHA,FW,28-202,61,0,1,0,0,1,1,0,0,0,0,1,2,0,0,0,,,204a3ff9,0.0,1,1,0,1
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Julián Aude,3,ARG,DF,23-151,19,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Justin Haak,15,USA,CM,24-344,90,0,0,0,0,1,0,0,0,1,1,0,0,2,0,0,,,204a3ff9,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Kyogo Furuhashi,7,JPN,FW,31-214,90,0,0,0,0,2,2,0,0,0,1,0,2,0,0,0,,,204a3ff9,0.0,2,2,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Maya Yoshida,4,JPN,CB,37-363,90,1,0,0,0,3,1,0,0,0,1,0,0,1,2,0,,,204a3ff9,0.0,3,1,1,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Novak Mićović,1,SRB,GK,24-301,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Robert Taylor,21,FIN,FW,31-305,81,0,0,0,0,0,0,0,0,0,2,0,5,0,2,0,,,204a3ff9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 CF Montréal-LA Galaxy,LA Galaxy,Rubén Ramos,24,USA,CM,19-212,61,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,204a3ff9,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Allan Saint-Maximin,10,FRA,AM,29-163,82,0,0,0,0,1,0,0,0,0,3,1,1,0,1,0,,,d9a5b2c4,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Archie Goodwin,7,AUS,FW,21-288,16,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Ashley Westwood,8,ENG,DM,36-143,64,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Brandt Bronico,13,USA,MF,31-063,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,David Schnegg,23,AUT,LB,27-327,90,1,0,0,0,1,1,0,0,2,0,0,0,0,0,0,,,d9a5b2c4,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Djibril Diani,28,FRA,MF,28-192,26,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,,,d9a5b2c4,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Henry Kessler,22,USA,CB,28-058,90,0,0,0,0,1,1,0,0,1,2,0,0,0,1,0,,,d9a5b2c4,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Idan Markovich,9,ISR,FW,22-013,74,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,,,d9a5b2c4,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Kristijan Kahlina,1,CRO,GK,34-029,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Liel Abada,11,ISR,"FW,MF",24-323,26,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,,,d9a5b2c4,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Luca de la Torre,17,USA,DM,28-091,64,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Morrison Agyemang,44,GHA,CB,21-244,90,0,0,0,0,2,1,0,0,2,1,0,0,1,1,0,,,d9a5b2c4,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Pep Biel,16,ESP,AM,29-351,90,1,1,0,0,2,1,1,0,2,1,0,2,1,0,0,,,d9a5b2c4,0.0,2,1,1,1
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Rodolfo Aloko,37,BEN,AM,19-239,64,0,0,0,0,1,0,0,0,2,1,1,0,0,0,0,,,d9a5b2c4,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Tyger Smalls,25,,FW,23-338,8,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,Charlotte FC,Will Cleary,35,USA,RB,23-186,90,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,,,d9a5b2c4,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Andre Dozzell,21,ENG,CB,27-112,90,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Brandon Servania,23,USA,CM,27-163,74,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,,,d9a5b2c4,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Hosei Kijima,77,JPN,MF,24-052,16,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Jackson Hopkins,25,USA,FW,22-052,74,0,0,0,0,3,2,0,0,0,3,0,0,0,0,0,,,d9a5b2c4,0.0,3,2,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Jared Stroud,8,USA,"FW,MF",30-043,5,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Keisuke Kurokawa,6,JPN,LB,29-131,90,0,0,0,0,0,0,1,0,1,0,0,7,1,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Kimito Nono,2,JPN,RM,24-149,74,0,0,0,0,2,1,0,0,0,2,0,2,0,2,0,,,d9a5b2c4,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Louis Munteanu,11,ROU,FW,24-067,90,1,0,0,0,4,1,0,0,2,2,1,0,1,0,0,,,d9a5b2c4,0.0,4,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Lucas Bartlett,3,USA,CB,29-027,90,0,0,0,0,1,0,0,0,3,3,0,0,1,0,0,,,d9a5b2c4,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Matti Peltola,4,FIN,CM,24-050,90,0,0,0,0,0,0,0,0,0,2,0,0,1,2,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Nathan Ordaz,22,SLV,FW,22-222,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Nikola Marković,27,CAN,DF,22-031,16,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Peglow,7,BRA,LM,24-227,85,0,1,0,0,3,0,1,0,1,1,0,2,1,2,0,,,d9a5b2c4,0.0,3,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Sean Johnson,1,USA,GK,37-083,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,d9a5b2c4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Charlotte-D.C. United,D.C. United,Silvan Hefti,5,SUI,RB,28-301,90,0,0,0,0,2,1,1,0,1,0,0,0,2,0,0,,,d9a5b2c4,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Alvas Powell,2,JAM,"DF,MF",32-035,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Andrei Chirilă,88,USA,CB,18-007,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Ayoub Jabbari,99,MAR,FW,26-204,18,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Brian Anunga,27,CMR,CM,30-012,88,0,0,0,0,1,1,0,0,1,1,0,1,2,2,0,,,f03517e1,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Bryan Ramírez,29,ECU,LM,26-011,72,0,0,0,0,2,2,1,0,1,0,0,2,1,0,0,,,f03517e1,0.0,2,2,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Ender Echenique,66,VEN,RM,22-142,88,0,0,0,0,2,1,0,0,1,0,0,1,0,2,0,,,f03517e1,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Evander,10,BRA,CM,28-074,90,1,0,0,0,3,1,0,0,1,3,0,10,0,0,0,,,f03517e1,0.0,3,1,1,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Gerardo Valenzuela,22,USA,CM,21-328,90,0,0,0,0,1,0,0,0,0,1,0,3,0,1,0,,,f03517e1,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Kenji Mboma Dem,17,FRA,FW,24-212,58,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,,,f03517e1,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Kévin Denkey,9,TOG,FW,25-265,32,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,,,f03517e1,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Miles Robinson,12,USA,CB,29-161,90,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,,,f03517e1,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Obinna Nwobodo,5,NGA,MF,29-266,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Pavel Bucha,20,CZE,MF,28-164,18,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Roman Celentano,18,USA,GK,25-342,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Samuel Gidi,11,SVK,CB,22-129,90,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,FC Cincinnati,Tom Barlow,16,USA,FW,31-045,72,0,0,0,0,3,2,0,0,0,2,2,0,0,0,0,,,f03517e1,0.0,3,2,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Albert Rusnák,11,SVK,"FW,MF",32-046,14,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,,,f03517e1,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Alex Roldan,16,SLV,"DF,MF",30-025,14,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Andrew Thomas,26,RUS,GK,27-355,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Antino Lopez,35,USA,CB,24-093,76,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Daniel Musovski,19,MKD,FW,30-265,30,0,0,0,0,2,0,0,0,1,1,0,1,0,0,0,,,f03517e1,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Edson Carli,30,USA,RM,18-364,60,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,f03517e1,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Kalani Rienzi,85,USA,RB,24-056,90,1,0,0,0,3,2,0,0,0,1,0,2,3,1,0,,,f03517e1,0.0,3,2,1,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Kim Kee-hee,20,KOR,"DF,MF",37-040,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Nouhou Tolo,5,CMR,DF,29-060,30,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Osaze De Rosario,95,GUY,FW,25-034,76,0,0,0,0,1,0,0,0,2,0,1,0,0,1,0,,,f03517e1,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Paul Rothrock,14,USA,LB,27-225,90,0,0,0,0,1,0,0,0,2,2,0,3,1,0,0,,,f03517e1,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Peter Kingston,45,USA,CM,25-039,90,0,0,0,0,0,0,1,0,2,0,0,5,1,1,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Ryan Sailor,4,USA,CB,27-268,90,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Sebastian Gomez,90,USA,LM,20-093,89,0,0,0,0,2,1,0,0,1,2,0,0,0,0,0,,,f03517e1,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Snyder Brunell,37,USA,CM,19-152,60,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 FC Cincinnati-Seattle Sounders,Seattle Sounders,Stuart Hawkins,39,USA,CB,19-338,90,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,,,f03517e1,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Casemiro,5,BRA,DM,34-180,72,0,0,0,0,1,1,0,0,3,0,0,0,1,0,0,,,2bb5e1fa,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,David Ayala,22,ARG,MF,24-027,18,0,0,0,0,1,1,1,0,2,0,0,0,2,0,0,,,2bb5e1fa,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Dayne St. Clair,97,CAN,GK,29-105,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Dániel Pintér,56,USA,FW,19-077,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Facundo Mura,4,ARG,"DF,MF",27-152,65,0,0,0,0,0,0,0,0,2,0,0,2,2,1,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Germán Berterame,19,MEX,FW,27-282,90,0,0,0,0,3,0,0,0,1,1,1,0,1,1,0,,,2bb5e1fa,0.0,3,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Gonzalo Luján,2,ARG,CB,25-117,25,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Ian Fray,17,JAM,RB,23-356,90,0,0,0,0,1,0,0,0,1,0,0,0,1,3,0,,,2bb5e1fa,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Lionel Messi,10,ARG,AM,39-059,90,1,0,0,0,2,1,0,0,0,2,0,4,0,0,0,,,2bb5e1fa,0.0,2,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Lovens Delinois,54,HAI,FW,21-321,18,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,,,2bb5e1fa,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Luis Suárez,9,URU,AM,39-210,72,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,,,2bb5e1fa,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Maximiliano Falcón,37,URU,CB,29-113,90,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Noah Allen,32,GRE,DF,22-116,33,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Rodrigo De Paul,7,ARG,DM,32-090,90,0,1,0,0,0,0,0,0,0,2,0,2,0,0,0,,,2bb5e1fa,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Sergio Reguilón,3,ESP,LB,29-249,57,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Inter Miami,Telasco Segovia,8,VEN,DM,23-142,72,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Alonso Coello,14,ESP,DM,26-314,90,0,0,0,0,0,0,0,0,1,1,0,1,3,1,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Benjamín Kuscevic,13,CHI,CB,30-112,90,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,2bb5e1fa,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Derrick Etienne,11,HAI,AM,29-270,85,1,0,0,0,1,1,0,0,0,1,1,3,1,0,0,,,2bb5e1fa,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Djordje Mihailovic,10,USA,AM,27-285,86,0,0,0,0,2,1,0,0,1,1,1,8,0,0,0,,,2bb5e1fa,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Dániel Sallói,20,HUN,AM,30-034,64,0,1,0,0,1,0,0,0,0,1,0,1,0,2,0,,,2bb5e1fa,0.0,1,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Jackson Gilman,38,USA,DF,22-115,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Josh Sargent,9,USA,FW,26-183,76,1,0,0,0,2,1,0,0,0,3,0,1,1,0,0,,,2bb5e1fa,0.0,2,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Kobe Franklin,19,CAN,RB,23-104,90,0,0,0,0,0,0,0,0,0,3,0,0,2,1,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Luka Gavran,1,CAN,GK,26-105,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Markus Cimermancic,71,CAN,DM,21-325,90,0,0,0,0,0,0,0,0,1,2,0,1,2,1,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Matheus Pereira,3,BRA,"DF,MF",25-244,26,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Nicksoen Gomis,15,FRA,DF,24-160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Richie Laryea,22,CAN,LB,31-227,90,0,0,0,0,0,0,1,0,2,1,1,0,0,3,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Theo Corbeanu,7,CAN,"FW,MF",24-097,14,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Inter Miami-Toronto FC,Toronto FC,Zane Monlouis,12,ENG,CB,22-310,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,2bb5e1fa,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Aaron Long,33,USA,CB,33-314,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Denis Bouanga,99,GAB,FW,31-284,90,1,0,0,0,11,6,1,0,1,1,0,11,0,0,0,,,4a25c2c7,0.0,11,6,1,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Eddie Segura,4,COL,CM,29-201,90,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Hugo Lloris,1,FRA,GK,39-239,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Jacob Shaffelburg,18,CAN,MF,26-269,71,0,0,0,0,3,2,0,0,2,1,0,8,0,0,0,,,4a25c2c7,0.0,3,2,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Jude Terry,22,USA,MF,17-318,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,4a25c2c7,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Marky Delgado,8,USA,CM,31-098,90,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Mathieu Choinière,66,CAN,CM,27-196,75,0,0,0,0,4,1,1,0,2,1,0,5,0,1,0,,,4a25c2c7,0.0,4,1,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Ryan Hollingshead,24,USA,RB,35-128,90,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,,,4a25c2c7,0.0,5,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Ryan Porteous,5,SCO,CB,27-150,90,0,0,0,0,0,0,0,0,0,5,0,1,3,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Ryan Raposo,21,CAN,MF,27-170,15,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Son Heung-min,7,KOR,FW,34-045,90,0,0,0,0,9,1,0,0,0,2,0,3,0,0,0,,,4a25c2c7,0.0,9,1,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Timothy Tillman,11,USA,FW,27-230,19,0,0,0,0,1,1,0,0,0,0,0,2,2,0,0,,,4a25c2c7,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Los Angeles FC,Yevhen Cheberko,23,UKR,LB,28-211,75,0,0,0,0,1,0,0,0,1,1,0,2,2,0,0,,,4a25c2c7,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Antony,11,BRA,"FW,MF",24-348,37,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Ariel Lassiter,7,CRC,AM,31-329,53,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Cole Bassett,17,USA,DM,25-025,53,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,,,4a25c2c7,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,David Costa,10,POR,AM,25-229,90,1,0,0,0,1,1,0,0,1,1,1,1,1,1,0,,,4a25c2c7,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Eric Miller,15,USA,RB,33-219,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Finn Surman,20,NZL,CB,22-333,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Ian Smith,23,USA,DF,24-037,35,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,James Pantemis,41,CAN,GK,29-182,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Jimer Fory,27,COL,LB,24-090,55,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,José Caicedo,30,COL,DM,24-091,90,0,0,0,0,2,1,0,0,3,0,0,0,0,2,0,,,4a25c2c7,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Julio Joao Ortíz,80,ECU,MF,30-113,37,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Kamal Miller,4,CAN,CB,29-098,90,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Kevin Kelsy,19,VEN,FW,22-026,69,0,0,0,0,1,0,1,0,3,0,1,0,0,2,0,,,4a25c2c7,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Kristoffer Velde,99,NOR,AM,26-347,69,0,1,0,0,1,0,0,0,2,1,0,0,1,1,0,,,4a25c2c7,0.0,1,0,0,1
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Omir Fernandez,22,USA,MF,27-195,21,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,,,4a25c2c7,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 LAFC-Portland Timbers,Portland Timbers,Vincent Janssen,14,NED,FW,32-068,20,0,0,0,0,0,0,2,1,3,1,0,0,1,0,0,,,4a25c2c7,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,André Gomes,20,POR,CM,33-023,75,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,,,7650fbe4,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Brais Méndez,10,ESP,FW,29-227,83,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Brooks Lennon,11,USA,"DF,MF",28-334,32,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Cesar Ruvalcaba,12,USA,CB,25-040,90,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Chase Adams,46,USA,FW,18-127,58,0,0,0,0,1,0,0,0,0,2,0,0,1,0,0,,,7650fbe4,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Dylan Chambost,7,FRA,"FW,MF",29-003,15,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Dániel Gazdag,8,HUN,"FW,MF",30-173,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Josef Martínez,77,VEN,FW,33-095,32,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Laurtaro Giaccone,26,ARG,MF,25-202,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Malte Amundsen,18,DEN,LB,28-192,90,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,,,7650fbe4,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Mohamed Farsi,23,ALG,RM,26-249,58,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,,,7650fbe4,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Patrick Schulte,28,USA,GK,25-162,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Sean Zawadzki,25,USA,CB,26-123,90,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Steven Moreira,31,CPV,RB,32-009,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Taha Habroune,16,USA,LM,20-198,83,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Columbus Crew,Tarun Karumanchi,50,USA,CM,23-143,90,0,0,0,0,0,0,0,0,1,2,0,0,4,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Alex Muyl,19,USA,LM,30-326,61,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Andy Najar,31,HON,RB,33-159,90,1,0,0,0,1,1,0,0,2,0,1,0,2,1,0,,,7650fbe4,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Brian Schwake,99,USA,GK,24-363,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Bryan Acosta,6,HON,MF,32-271,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Cristian Espinoza,7,ARG,RM,31-141,87,0,0,0,0,1,1,0,0,1,2,0,8,1,0,0,,,7650fbe4,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Daniel Lovitz,2,USA,LB,34-360,61,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,,,7650fbe4,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Edvard Sandvik Tagseth,20,NOR,MF,25-211,29,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Elias Saad,11,TUN,"FW,MF",26-238,29,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,,,7650fbe4,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Hany Mukhtar,10,GER,FW,31-154,90,1,1,0,0,3,1,0,0,0,1,0,1,0,1,0,,,7650fbe4,0.0,3,1,1,1
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Jeison Palacios,4,COL,CB,32-155,90,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,,,7650fbe4,0.0,1,1,0,1
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Matthew Corcoran,16,USA,CM,20-186,87,0,0,0,0,2,1,0,0,0,0,0,0,2,1,0,,,7650fbe4,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Maxwell Woledzi,3,GHA,CB,25-051,90,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Patrick Yazbek,8,AUS,CM,24-139,61,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,,,7650fbe4,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Reed Baker-Whiting,27,USA,DF,21-144,29,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,,,7650fbe4,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Sam Surridge,9,ENG,FW,28-025,90,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,,,7650fbe4,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Nashville SC-Columbus Crew,Nashville SC,Shakur Mohammed,14,GHA,MF,22-360,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,7650fbe4,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Antoine Griezmann,7,FRA,AM,35-154,90,2,0,0,0,5,2,0,0,1,0,0,8,0,0,0,,,131100cc,0.0,5,2,2,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Daryl Dike,9,USA,FW,26-080,45,0,0,0,0,1,1,0,0,2,1,0,1,0,0,0,,,131100cc,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,David Brekalo,4,SVN,CB,27-262,90,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Eduard Atuesta,20,COL,DM,29-065,84,0,0,0,0,0,0,1,0,2,1,0,1,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Griffin Dorsey,24,USA,RB,27-170,90,0,0,0,0,0,0,0,0,0,2,0,5,1,1,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Iván Angulo,77,COL,AM,27-153,90,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Joran Gerbet,35,FRA,MF,25-053,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Justin Ellis,22,USA,FW,19-100,45,0,0,0,0,2,0,0,0,0,1,0,4,0,0,0,,,131100cc,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Luis Otávio,5,BRA,DM,19-132,45,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Marco Pašalić,87,CRO,FW,25-342,45,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Maxime Crépeau,71,CAN,GK,32-103,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Robin Jansson,6,SWE,CB,34-280,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Tiago,11,BRA,AM,21-136,45,0,0,0,0,0,0,0,0,1,2,1,3,1,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Tyrese Spicer,14,TRI,MF,25-261,22,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,,,131100cc,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Wilder Cartagena,16,PER,MF,31-333,6,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Orlando City,Zakaria Taifi,19,USA,LB,20-325,68,0,0,0,0,2,0,0,0,1,2,0,0,0,1,0,,,131100cc,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Aiden Hezarkhani,39,USA,CM,19-055,60,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Alexandros Katranis,98,GRE,LM,28-110,76,0,0,0,0,1,0,1,0,2,0,1,1,0,1,0,,,131100cc,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Diego Luna,10,USA,MF,22-349,30,0,0,0,0,1,0,0,0,0,2,0,3,1,0,0,,,131100cc,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Dominik Marczuk,11,POL,RM,22-294,60,1,0,0,0,3,3,0,0,3,0,1,0,2,0,0,,,131100cc,0.0,3,3,1,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Juan Arias,21,COL,CB,22-226,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Juan Manuel Sanabria,8,URU,"DF,MF",26-146,14,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Kobi Henry,3,TRI,CB,22-118,90,0,0,0,0,0,0,1,0,4,1,1,0,0,1,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Lineker Rodrigues dos Santos,70,BRA,FW,24-163,90,0,0,0,0,0,0,1,0,2,1,1,1,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Luca Moisa,34,USA,CM,18-124,65,0,0,0,0,0,0,0,0,0,3,0,1,3,1,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Mason Stajduhar,31,USA,GK,28-263,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Morgan Guilavogui,9,GUI,"FW,MF",28-165,29,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,,,131100cc,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Noel Caliskan,92,GER,MF,25-358,25,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Pablo Ruíz,7,ARG,CM,27-245,90,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,,,131100cc,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Saba Lobzhanidze,12,GEO,"FW,MF",31-247,30,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Sam Junqua,29,USA,CB,29-286,90,0,1,0,0,1,0,0,0,1,2,0,1,1,1,0,,,131100cc,0.0,1,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Orlando City-Real Salt Lake,Real Salt Lake,Victor Olatunji,17,NGA,FW,26-351,61,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,,,131100cc,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Anton Salétros,6,SWE,MF,30-132,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Chris Brady,1,USA,GK,22-172,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Innocent Dje,42,CIV,MF,23-109,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Jack Elliott,3,ENG,DF,30-362,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Joel Waterman,16,CAN,CB,30-210,90,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Jonathan Bamba,19,CIV,FW,30-149,86,0,0,0,0,4,2,0,0,2,2,0,0,1,1,0,,,2cb22b45,0.0,4,2,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Jonathan Dean,24,USA,"DF,MF",29-099,14,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Leonardo Barroso,2,POR,RB,21-071,90,0,0,0,0,0,0,1,0,2,0,0,0,1,1,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Maren Haile-Selassie,7,SUI,CM,27-162,90,1,0,0,0,3,2,0,0,0,1,0,2,0,2,0,,,2cb22b45,0.0,3,2,1,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Mauricio Pineda,22,USA,CM,28-309,85,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Philip Zinckernagel,11,DEN,FW,31-249,64,0,0,0,0,1,0,0,0,1,1,0,5,1,0,0,,,2cb22b45,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Puso Dithejane,12,RSA,MF,22-072,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Robert Lewandowski,9,POL,FW,38-001,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Robin Lod,17,FIN,FW,33-127,86,0,0,0,0,1,1,0,0,2,2,0,0,2,1,0,,,2cb22b45,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Sam Rogers,5,USA,CB,27-097,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Samuel Williams,47,USA,CM,21-157,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Chicago Fire,Viktor Radojevic,14,SRB,LB,22-039,76,0,1,0,0,0,0,0,0,1,1,1,3,1,3,0,,,2cb22b45,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Adri Mehmeti,15,USA,CM,17-138,90,0,0,0,0,2,0,0,0,0,0,0,0,1,4,0,,,2cb22b45,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Cade Cowell,7,USA,FW,22-312,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Cameron Harper,17,USA,"DF,MF",24-276,6,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,,,2cb22b45,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Dylan Nealis,12,USA,RB,28-023,55,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Emil Forsberg,10,SWE,CM,34-303,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Eric Maxim Choupo-Moting,13,CMR,"FW,MF",37-152,34,0,1,0,0,2,1,0,0,0,0,0,2,0,0,0,,,2cb22b45,0.0,2,1,0,1
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Ethan Horvath,34,USA,GK,31-074,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Jahkeele Marshall-Rutty,3,CAN,"DF,MF",22-067,45,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Jorge Ruvalcaba,11,MEX,"FW,MF",25-030,45,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,2cb22b45,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Julian Hall,16,USA,FW,18-151,84,0,0,0,0,1,0,0,0,0,4,1,0,1,1,0,,,2cb22b45,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Julián Bazán,14,COL,CB,20-270,90,0,0,0,0,0,0,0,0,0,1,0,0,4,1,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Justin Che,2,USA,CB,22-277,90,0,0,0,0,0,0,0,0,2,0,0,0,1,3,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Matthew Dos Santos,56,USA,LB,18-078,45,0,0,0,0,0,0,0,0,1,0,0,2,1,2,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Mijahir Jiménez,91,PAN,FW,19-147,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,2cb22b45,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Mohammed Sofo,37,GHA,MF,21-265,45,0,0,0,0,2,2,1,0,2,1,0,1,2,0,0,,,2cb22b45,0.0,2,2,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Omar Valencia,5,PAN,DF,22-075,35,0,0,0,0,1,1,0,0,1,0,0,2,1,0,0,,,2cb22b45,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 RB New York-Chicago Fire,Red Bull New York,Ronald Donkor,48,GHA,CM,21-275,90,0,0,0,0,1,1,0,0,1,3,0,0,0,1,0,,,2cb22b45,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Anthony Markanich,13,PHI,DM,26-239,85,0,1,0,0,1,0,0,0,2,4,0,2,2,1,0,,,39943629,0.0,1,0,0,1
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Carlos Harvey,67,PAN,"DF,MF",26-200,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Devin Padelford,2,USA,DF,23-231,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Drake Callender,12,USA,GK,28-319,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Jefferson Díaz,28,COL,CB,25-260,90,0,0,0,0,0,0,0,0,3,2,1,0,1,3,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Joaquín Pereyra,26,ARG,AM,27-264,90,1,1,0,0,2,1,0,0,1,0,1,4,1,0,0,,,39943629,0.0,2,1,1,1
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Kelvin Yeboah,9,ITA,FW,26-108,82,2,0,0,0,5,4,0,0,0,0,0,1,0,0,0,,,39943629,0.0,5,4,2,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Kyle Duncan,3,USA,DM,29-014,90,0,2,0,0,0,0,0,0,0,2,0,0,3,1,0,,,39943629,0.0,0,0,0,2
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Marcus Caldeira,22,CAN,FW,21-312,76,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,,,39943629,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Mauricio Gonzalez,18,,MF,,8,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,,,39943629,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Michael Boxall,15,NZL,CB,38-004,90,0,0,0,0,1,0,0,0,2,2,0,1,0,1,0,,,39943629,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Morris Duggan,23,GER,CB,25-302,90,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Nectarios Triantis,25,GRE,"DF,MF",23-103,14,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Owen Géne,30,FRA,DM,23-156,76,0,1,0,0,0,0,0,0,5,0,0,0,2,1,0,,,39943629,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Tomás Chancalay,8,ARG,"FW,MF",27-233,14,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,Minnesota United,Wil Trapp,20,USA,DM,33-219,82,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Angus Gunn,1,SCO,GK,30-212,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Beau Leroux,34,USA,DM,22-356,90,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,,,39943629,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Benjamin Kikanovic,28,USA,RB,26-228,90,0,0,0,0,0,0,1,0,2,2,0,2,2,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Daniel Munie,5,USA,CB,26-193,90,0,0,0,0,1,0,0,0,0,0,0,0,3,4,0,,,39943629,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Darius Johnson,79,GRN,MF,26-160,34,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Ian Harkes,6,USA,MF,31-145,45,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Jamar Ricketts,2,USA,DF,24-302,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Jonathan González,40,MEX,DM,27-131,45,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Nick Fernandez,20,USA,MF,24-243,25,0,0,0,0,1,1,0,0,1,2,0,1,1,1,0,,,39943629,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Niko Tsakiris,10,USA,AM,21-064,65,0,0,0,0,0,0,0,0,0,2,0,3,1,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Ousseni Bouda,7,BFA,AM,26-116,65,0,0,0,0,2,2,0,0,3,0,0,3,0,0,0,,,39943629,0.0,2,2,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Paul Marie,3,FRA,"DF,MF",31-151,25,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Preston Judd,19,USA,FW,27-086,90,0,0,0,0,1,1,0,0,2,2,0,0,0,0,0,,,39943629,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Reid Roberts,18,USA,CB,22-256,90,0,0,0,0,1,0,0,0,1,0,0,0,2,1,0,,,39943629,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Timo Werner,11,GER,AM,30-169,56,1,0,1,1,4,2,0,0,2,1,0,4,0,0,0,,,39943629,0.0,4,2,1,0
+USA-Major League Soccer,2026,2026-08-22 SJ Earthquakes-Minnesota Utd,San Jose Earthquakes,Vitor Costa,87,BRA,LB,32-052,77,0,0,0,0,0,0,0,0,1,1,0,0,3,2,0,,,39943629,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Alex Harris,16,USA,FW,21-187,31,0,0,0,0,0,0,1,0,2,1,0,1,2,1,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Dante Sealy,7,TRI,FW,23-127,45,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,,,36bd9c7a,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Darren Yapi,77,USA,FW,21-276,45,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Georgi Minoungou,93,BFA,FW,24-028,59,0,0,0,0,1,0,0,0,1,2,0,2,0,0,0,,,36bd9c7a,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Hamzat Ojediran,8,NGA,CM,22-281,45,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,,,36bd9c7a,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Joshua Atencio,12,USA,CM,24-203,45,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Keegan Rosenberry,2,USA,"DF,MF",32-254,16,0,0,0,0,0,0,1,0,1,0,0,2,0,1,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Kosi Thompson,33,CAN,LB,23-207,90,0,0,0,0,2,0,0,0,0,3,0,0,0,1,0,,,36bd9c7a,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Loïc Williams,5,ESP,CB,24-227,90,0,0,0,0,1,1,0,0,2,0,0,0,2,0,0,,,36bd9c7a,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Nicholas Hansen,41,DEN,GK,25-043,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Paxten Aaronson,10,USA,CM,22-361,90,0,0,0,0,2,1,0,0,4,0,2,3,3,2,0,,,36bd9c7a,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Rafael Navarro,9,BRA,FW,26-130,90,0,0,0,0,1,0,0,0,1,3,0,0,2,0,0,,,36bd9c7a,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Reggie Cannon,4,USA,RB,28-072,74,0,0,0,0,0,0,1,0,2,1,0,1,1,2,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Rob Holding,6,ENG,CB,30-336,90,0,0,0,0,0,0,0,0,1,0,0,0,4,5,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Wayne Frederick,13,TRI,MF,22-070,45,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,Colorado Rapids,Youssef Maziz,88,FRA,"FW,MF",28-059,45,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Alejandro Alvarado Jr.,70,USA,MF,23-024,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Amahl Pellegrino,90,NOR,"FW,MF",36-065,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Anders Dreyer,10,DEN,RM,28-112,90,0,0,0,0,1,0,0,0,1,1,1,2,0,1,0,,,36bd9c7a,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Aníbal Godoy,20,PAN,CM,36-193,90,0,0,0,0,0,0,0,0,3,2,0,0,1,2,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,C.J. dos Santos,1,CPV,GK,25-363,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Christopher McVey,97,SWE,DF,29-132,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Elias Achouri,99,TUN,FW,27-193,67,1,0,0,0,2,1,0,0,1,3,1,0,0,0,0,,,36bd9c7a,0.0,2,1,1,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Gabriel Pirani,12,BRA,LM,24-132,89,1,0,0,0,1,1,0,0,1,4,1,0,1,0,0,,,36bd9c7a,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Ian Murphy,32,USA,CB,26-218,89,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Jeppe Tverskov,6,DEN,CM,33-163,90,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Lewis Morgan,9,SCO,"FW,MF",29-326,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Luca Bombino,27,USA,LB,20-043,90,0,0,0,0,1,1,0,0,2,3,0,1,3,2,0,,,36bd9c7a,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Manu Duah,26,GHA,CB,21-078,90,0,0,0,0,0,0,0,0,0,3,0,1,1,1,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Marcus Ingvartsen,7,DEN,"FW,MF",30-230,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,36bd9c7a,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Onni Valakari,8,FIN,FW,27-004,66,1,0,0,0,1,1,0,0,1,2,2,0,0,0,0,,,36bd9c7a,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 San Diego FC-Colorado Rapids,San Diego FC,Oscar Verhoeven,33,USA,RB,20-083,90,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,,,36bd9c7a,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Agustín Bouzat,30,ARG,AM,32-147,86,0,0,0,0,2,0,1,0,2,1,0,1,1,0,0,,,daea8ef9,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Agustín Resch,34,ARG,CB,24-175,90,0,0,0,0,2,1,0,0,1,7,1,0,1,1,0,,,daea8ef9,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Aliyu Ibrahim,24,NGA,"FW,MF",24-218,34,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,,,daea8ef9,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Artur,6,BRA,DM,30-164,90,0,0,0,0,3,0,0,0,0,0,0,0,1,2,0,,,daea8ef9,0.0,3,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Diadie Samassékou,18,MLI,DM,30-223,56,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Duane Holmes,14,USA,"FW,MF",31-289,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Duncan McGuire,23,USA,FW,25-198,56,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Felipe Andrade,36,BRA,DF,24-085,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Franco Negri,21,ARG,"DF,MF",31-183,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Héctor Herrera,16,MEX,MF,36-125,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Jack McGlynn,8,USA,AM,23-046,90,0,0,0,0,2,1,0,0,0,2,0,12,0,2,0,,,daea8ef9,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Jonathan Bond,31,ENG,GK,33-095,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Lawrence Ennali,11,GER,RB,24-168,89,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Lucas Halter,5,BRA,CB,26-112,90,0,0,0,0,0,0,1,0,2,0,1,0,3,2,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Marcelo Saracchi,4,URU,LB,28-121,45,0,0,0,0,3,0,0,0,0,0,0,1,0,1,0,,,daea8ef9,0.0,3,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,Houston Dynamo,Mateusz Bogusz,19,POL,AM,25-000,90,0,0,0,0,5,1,1,0,2,4,2,1,0,0,0,,,daea8ef9,0.0,5,1,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Alexandru Mățan,23,ROU,DM,26-358,71,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,,,daea8ef9,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Carlo Holse,19,DEN,"FW,MF",27-081,29,0,0,0,0,1,1,1,0,1,0,0,2,1,0,0,,,daea8ef9,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Conrad Wallem,6,NOR,DM,26-074,90,0,0,0,0,0,0,0,0,3,3,0,0,0,2,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Daniel Edelman,24,USA,DM,23-116,90,0,0,0,0,1,0,0,0,2,1,0,0,1,1,0,,,daea8ef9,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Dante Polvara,21,USA,CB,26-062,90,1,0,0,0,3,2,0,0,0,1,0,0,0,1,0,,,daea8ef9,0.0,3,2,1,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Jaziel Orozco,99,USA,CB,22-081,90,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Jeong Sangbin,77,KOR,FW,24-143,71,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,daea8ef9,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Lukas MacNaughton,5,CAN,DF,31-167,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Miguel Perez,28,USA,MF,21-116,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Palmer Ault,29,USA,FW,22-125,19,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Roman Bürki,1,SUI,GK,35-281,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Simon Becher,11,USA,FW,27-033,89,1,0,0,0,1,1,1,0,5,1,1,1,0,0,0,,,daea8ef9,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Timo Baumgartl,32,GER,CB,30-171,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Tomas Totland,14,NOR,DM,26-328,90,0,0,0,0,0,0,1,0,1,3,0,2,0,2,0,,,daea8ef9,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 St. Louis City-Houston,St. Louis City,Tomáš Ostrák,7,CZE,AM,26-198,61,0,0,0,0,2,0,0,0,1,0,0,2,1,1,0,,,daea8ef9,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Bernard Kamungo,77,USA,"FW,MF",24-233,45,0,0,0,0,2,0,0,0,0,0,1,0,2,0,0,,,a5e4fbd2,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Christian Cappis,12,USA,DM,27-009,90,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Joaquín Valiente,21,URU,MF,25-131,45,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Jonathan Sirois,40,CAN,GK,25-056,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Joshua Torquato,24,USA,DM,19-029,90,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,,,a5e4fbd2,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Kaick,55,BRA,MF,20-266,18,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Lalas Abubakar,5,GHA,CB,31-240,90,0,0,0,0,0,0,1,0,3,0,0,0,3,2,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Logan Farrington,23,USA,FW,24-251,45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,a5e4fbd2,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Nolan Norris,32,USA,CB,21-186,45,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Petar Musa,9,CRO,FW,28-171,45,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,,,a5e4fbd2,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Ramiro Benetti,17,BRA,DM,33-092,72,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Ran Binyamin,6,ISR,AM,22-197,45,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Samuel Sarver,28,USA,FW,23-172,45,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Santiago Moreno,10,COL,"FW,MF",26-123,45,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Sebastien Ibeagha,25,USA,CB,34-213,90,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,FC Dallas,Shaq Moore,18,USA,DM,29-293,90,0,0,0,0,0,0,1,0,0,2,1,1,0,1,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Andrés Cubas,20,PAR,DM,30-092,90,0,1,0,0,1,0,0,0,1,2,0,0,5,1,0,,,a5e4fbd2,0.0,1,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Brian White,24,USA,FW,30-200,61,2,0,0,0,4,2,0,0,4,0,0,0,0,0,0,,,a5e4fbd2,0.0,4,2,2,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Bruno Caicedo,14,ECU,MF,21-219,29,1,0,0,0,3,3,0,0,0,0,1,0,0,0,0,,,a5e4fbd2,0.0,3,3,1,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Cheikh Tidiane Sabaly,7,SEN,"FW,MF",27-171,19,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Emmanuel Sabbi,11,USA,AM,28-241,61,1,0,0,0,2,2,0,0,2,1,0,3,0,0,0,,,a5e4fbd2,0.0,2,2,1,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Mathías Laborda,2,URU,DF,26-341,45,0,0,0,0,0,0,1,0,1,0,0,0,3,1,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Oliver Larraz,8,USA,DM,24-340,90,0,0,0,0,1,0,0,0,0,0,0,2,1,4,0,,,a5e4fbd2,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Ralph Priso-Mbongue,6,CAN,CB,24-020,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Rayan Elloumi,19,TUN,FW,18-339,29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Ryan Gauld,25,SCO,AM,30-249,71,0,0,0,0,2,1,0,0,0,2,0,9,1,0,0,,,a5e4fbd2,0.0,2,1,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Sam Adekugbe,3,CAN,"DF,MF",31-218,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Tate Johnson,28,USA,LB,21-043,82,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Thomas Müller,13,GER,AM,36-343,90,0,1,0,0,0,0,0,0,1,1,0,2,0,1,0,,,a5e4fbd2,0.0,0,0,0,1
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Tristan Blackmon,33,USA,CB,30-010,90,0,0,0,0,0,0,0,0,1,1,0,1,3,2,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Yohei Takaoka,1,JPN,GK,30-159,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,a5e4fbd2,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-22 Vancouver-FC Dallas,Vancouver Whitecaps,Édier Ocampo,18,COL,RB,22-323,90,1,1,0,0,4,2,0,0,0,1,0,3,1,1,0,,,a5e4fbd2,0.0,4,2,1,1
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Adrian Gill,16,USA,CM,20-232,61,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Aleksei Miranchuk,59,RUS,FW,30-310,90,0,0,0,0,2,0,0,0,2,2,0,0,0,0,0,,,6dee0f13,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Cooper Sanchez,48,USA,CM,18-150,76,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Elías Báez,3,ARG,LB,21-309,90,0,1,0,0,2,0,1,0,2,0,0,1,1,1,0,,,6dee0f13,0.0,2,0,0,1
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Fafà Picault,22,HAI,FW,35-181,61,1,0,0,0,1,1,0,0,0,3,1,0,1,1,0,,,6dee0f13,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Júnior Alonso,6,PAR,CB,33-195,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Lucas Hoyos,1,ARG,GK,37-116,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Luke Brennan,20,USA,FW,21-180,16,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Matthew Edwards,47,USA,DF,23-187,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Miguel Almirón,10,PAR,FW,32-194,90,0,1,0,0,2,1,0,0,0,2,0,2,1,1,0,,,6dee0f13,0.0,2,1,0,1
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Paulo Díaz,27,CHI,CB,31-363,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Steven Alzate,7,COL,MF,27-349,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Stian Rode Gregersen,5,NOR,"DF,MF",31-098,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Tomás Jacob,55,ARG,RB,22-125,90,1,0,0,0,1,1,0,0,1,3,0,1,3,2,0,,,6dee0f13,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,Tristan Muyumba,8,FRA,CM,29-169,90,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Atlanta United,William Reilly,28,USA,MF,23-263,29,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Calvin Harris,11,ENG,LM,26-156,90,0,0,0,0,2,0,0,0,0,4,0,3,0,1,0,,,6dee0f13,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Capita,7,ANG,RM,24-225,86,0,0,0,0,0,0,0,0,1,1,0,2,1,2,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Emir Karic,18,BIH,LB,29-075,61,0,0,0,0,0,0,1,0,1,0,0,3,1,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Jacob Bartlett,16,USA,MF,20-320,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Jake Davis,8,USA,RB,24-232,44,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,6dee0f13,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Jayden Reid,99,USA,DF,24-358,29,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Justin Reynolds,13,USA,DF,22-019,46,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Lasse Berg Johnsen,4,NOR,CM,27-005,90,0,0,0,0,0,0,0,0,3,1,0,9,1,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Magomed-Shapi Suleymanov,93,RUS,FW,26-250,90,0,0,0,0,1,0,0,0,0,0,0,3,1,0,0,,,6dee0f13,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Moises Mosquera,3,COL,CB,25-091,90,0,0,0,0,1,0,0,0,4,0,0,1,2,2,0,,,6dee0f13,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Stefan Cleveland,30,USA,GK,32-090,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Stephen Afrifa,17,CAN,FW,25-185,29,1,0,0,0,1,1,0,0,2,0,0,0,0,0,0,,,6dee0f13,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Taylor Calheira,19,USA,FW,24-119,61,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,,,6dee0f13,0.0,2,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Wyatt Meyer,28,USA,CB,25-224,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 Atlanta Utd-Sporting KC,Sporting Kansas City,Zorhan Bassong,22,CAN,CM,27-108,90,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,,,6dee0f13,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Alhassan Yusuf,80,NGA,DM,26-036,90,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Carles Gil,10,ESP,AM,33-274,90,0,0,0,1,2,2,0,0,0,5,0,4,0,0,0,,,eec5c96e,0.0,2,2,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Cody Baker,15,USA,DF,22-228,21,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Diego Fagúndez,77,URU,"FW,MF",31-190,10,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Dor Turgeman,99,ISR,FW,22-303,80,1,0,0,0,2,1,0,0,1,1,2,0,0,0,0,,,eec5c96e,0.0,2,1,1,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Ethan Kohler,22,USA,CB,21-095,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Jack Harrison,11,ENG,AM,29-276,80,0,0,0,0,1,0,1,0,1,1,0,2,0,0,0,,,eec5c96e,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Jackson Yueill,14,USA,DM,29-157,63,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,eec5c96e,0.0,1,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Judah Siqueira,65,USA,FW,17-149,27,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Mamadou Fofana,2,MLI,CB,28-214,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Matt Polster,8,USA,RB,33-076,69,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Matt Turner,30,USA,GK,32-060,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Peyton Miller,25,USA,AM,18-288,90,0,1,0,0,4,3,0,0,1,2,0,3,0,0,0,,,eec5c96e,0.0,4,3,0,1
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,William Sands,23,USA,LB,26-048,90,0,0,0,0,0,0,0,0,1,2,0,0,1,2,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New England Revolution,Wilson Harris,27,USA,FW,26-268,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Agustin Ojeda,26,ARG,RM,22-065,90,0,0,0,0,0,0,0,0,2,0,0,1,2,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Andrés Perea,8,USA,CM,25-282,67,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,,,eec5c96e,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Bénie Traoré,9,CIV,LM,23-266,67,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,James Sands,6,USA,CB,26-048,90,1,0,0,0,1,1,0,0,2,0,0,0,1,1,0,,,eec5c96e,0.0,1,1,1,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Jonathan Shore,32,USA,CM,19-132,39,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Keaton Parks,55,USA,MF,29-017,51,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,,,eec5c96e,0.0,1,1,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Kevin O'Toole,22,IRL,DF,27-252,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Luighi,20,BRA,FW,20-115,45,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,,,eec5c96e,0.0,3,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Matt Freese,49,USA,GK,27-355,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Max Murray,23,USA,CB,24-137,90,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Mitja Ilenič,35,SVN,DF,21-240,51,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Nico Cavallo,2,USA,LB,24-239,90,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Nicolás Fernández,7,ARG,FW,26-224,90,0,0,0,0,2,2,0,0,0,1,0,4,0,0,0,,,eec5c96e,0.0,2,2,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Raul Gustavo,34,BRA,DF,27-121,23,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,,,eec5c96e,0.0,0,0,0,0
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Talles Magno,11,BRA,FW,24-058,45,0,1,0,0,4,0,0,0,1,0,1,0,0,0,0,,,eec5c96e,0.0,4,0,0,1
+USA-Major League Soccer,2026,2026-08-23 NE Revolution-NYCFC,New York City FC,Tayvon Gray,24,JAM,RB,24-004,39,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,eec5c96e,0.0,0,0,0,0
